@@ -1,0 +1,102 @@
+,Location,Name,Rating,Price Range,Cuisine Type,Address,Phone Number,Num Reviews,Num Photos
+0,East Richmond,L.A. Chicken,4.7,CA$30 for two,Fast Food,"160-11780 Thorpe Road, Richmond V6X 1J5",+16042784737,406,74
+1,Richmond,Tandoori Kona Restaurant,4.5,CA$35 for two,Indian,"170-11700 Cambie Road, Richmond V6V 1G5",+16042799259,438,83
+2,East Richmond,CHOP Steakhouse & Bar,3.7,CA$95 for two,"Steak, Canadian, Pacific Northwest","10251 Saint Edwards Drive, Richmond V6X 0J3",+16042761180,263,282
+3,Richmond,Continental Seafood Restaurant,3.9,CA$65 for two,"Dim Sum, Chinese, Asian","Cambie Plaza, 150-11700 Cambie Road, Richmond V6V1G5",+16042786331,115,276
+4,East Richmond,Dai Jang Kum,4.0,CA$50 for two,"Korean, Asian","3088 Saint Edwards Drive, Richmond V6X 1N4",+16042440088,135,93
+5,East Richmond,Sanpoutei Ramen,3.2,CA$25 for two,"Japanese, Ramen","4328 Number 3 Road, Suite 160, Richmond V6X 2C2",+16042851226,77,103
+6,Richmond,Little Ongpin,4.1,CA$25 for two,"Chinese, Filipino, Asian","Delta Shopping Centre, 4093 Number 5 Road, Richmond V6V 1G5",+16042784667,109,139
+7,Richmond,Pho TEN,4.1,CA$30 for two,"Vietnamese, Asian","Sands Plaza, 130-11080 Number 5 Road, Richmond V7A0A2",+16044419699,152,71
+8,East Richmond,Cafe Loyal,3.8,CA$30 for two,"Chinese, Asian, Fast Food","101-11911 Bridgeport Road, Richmond V6X 1T5",+16044474911,129,131
+9,East Richmond,IKEA Restaurant,3.9,CA$30 for two,Swedish,"Inside IKEA, 3320 Jacombs Road, Richmond V6V 3B1",+16048294530,150,132
+10,East Richmond,The Keg,3.9,CA$90 for two,"Steak, Seafood","11151, 5 Road, Richmond British Columbia, Richmond V7A 4E7",+16042721399,119,130
+11,Richmond,"Lotus, The Place for Pho Lovers",3.9,CA$40 for two,"Vietnamese, Asian","Delta Shopping Centre, 4131 Number 5 Road, Richmond V6X2V1",+17782971180,117,57
+12,Richmond,Browns Socialhouse,4.0,CA$70 for two,Bar Food,"1020-11660 Steveston Highway, Richmond V7A 1N6",+16042753322,130,54
+13,East Richmond,Kiyo Sushi,3.8,CA$50 for two,"Sushi, Japanese, Asian","11590 Cambie Road, Richmond V6V1G5",+16042141388,102,50
+14,Richmond,Kisha Poppo Japanese Restaurant,2.2,CA$40 for two,"Sushi, Japanese, Asian","1060-11660 Steveston Highway, Richmond V7A 1N6",+16042716556,108,58
+15,Richmond,Danny's Wun Tun Restaurant,3.9,CA$20 for two,"Chinese, Asian","11666 Steveston Highway 3050, Richmond V7A 1N6",+16042773317,118,18
+16,East Richmond,Moxie's Grill & Bar,3.8,CA$70 for two,Canadian,"3233 Saint Edwards Drive, Richmond V6X 3K4",+16043031111,98,93
+17,Richmond,The Old Spaghetti Factory,3.4,CA$50 for two,Italian,"110-14200 Entertainment Boulevard, Richmond V6W 1K4",+16042778373,105,61
+18,East Richmond,Daddy's Grill,4.0,CA$30 for two,"Middle Eastern, Pizza","110-4020 Number 5 Road, Richmond V6V 1G5",+16042079091,46,17
+19,East Richmond,Shark Club Sports Bar & Grill,3.0,CA$50 for two,Bar Food,"10331 Saint Edwards Drive, Richmond V6X 2M9",+16042762609,67,55
+20,East Richmond,Lucky Joy BBQ,3.3,CA$35 for two,"Chinese, Asian","11780 Thorpe Road, Richmond V6X 1J5",+16043038172,58,24
+21,East Richmond,Pho 37,3.6,CA$45 for two,"Vietnamese, Asian","3120-11666 Steveston Highway, Richmond V7A 5J3",+16044474403,46,73
+22,East Richmond,Pearl House Restaurant,3.0,CA$25 for two,"Chinese, Taiwanese, Asian, Bubble Tea","4611 Number 6 Road, Richmond V6V2J4",+16042703188,50,29
+23,East Richmond,Fogg n' Suds,3.7,CA$70 for two,"Canadian, Bar Food","10720 Cambie Road, Richmond V6X 3K9",+16042730776,54,58
+24,East Richmond,The Grille Restaurant - Country Meadows Golf Club,3.2,CA$60 for two,"Burger, Grill, Canadian","8400 Number 6 Road, Richmond V6W 1C9",+16042414652,50,46
+25,Richmond,Himalaya Restaurant,3.6,CA$35 for two,"Indian, Desserts","Delta Shopping Centre, 110-4011 Number 5 Road, Richmond V6V1G5",+16042472252,40,30
+26,Richmond,Boston Pizza,2.4,CA$45 for two,"Pizza, Bar Food","2000-11662 Steveston Highway, East Richmond, Richmond, Richmond V7A 1N6",+16044489991,53,47
+27,East Richmond,The Deluxe Chinese Restaurant,3.4,for two,"Chinese, Dim Sum","4260 No 3 Road, Suite120, Richmond V6X 2C2",+16042768288,21,95
+28,East Richmond,Denny's,2.4,CA$40 for two,American,"10211 Street. Edwards Drive, Richmond V6X3L8",+16042762853,40,61
+29,East Richmond,Pho Japolo,3.2,CA$35 for two,"Vietnamese, Asian","102-11911 Bridgeport Road, Richmond V6V1J3",+16043039829,33,48
+30,Richmond,Red Rooster,3.1,CA$25 for two,Fast Food,"Delta Shopping Centre, 4119 Number 5 Road, Richmond V6X",+16042707777,31,16
+31,East Richmond,Xiang Yuan Qiao,3.4,CA$20 for two,Chinese,"Parker Place, 1190-4380 No 3 Road, Richmond, Richmond V6X 2C2",+16042840630,14,23
+32,East Richmond,The Shoestring Cafe,3.4,CA$40 for two,"French, Seafood, Steak","4611 Number 6 Road, Unit 180, Richmond, Richmond V6V 1Z7",+16042320900,12,25
+33,East Richmond,Typhoon BBT,3.5,CA$10 for two,"Bubble Tea, Taiwanese","11700 Cambie Road, Unit 175, Richmond V6X 1L5",+16042781335,17,44
+34,Richmond,Nando's,3.4,CA$25 for two,"Portuguese, African","Coppersmith Corner Shopping Centre, 105 11380 Steveston Highway, Richmond V7A 5J5",+16044489884,32,35
+35,East Richmond,Tugboat Annie's Pub & Grille,3.1,CA$45 for two,Bar Food,"6911 Graybar Road, Richmond V6W1H3",+16042700364,24,7
+36,New Westminster,Marble Slab Creamery,3.3,CA$15 for two,"Ice Cream, Desserts","J150-805 Boyd Street, Richmond V3M 5X2",+16045267522,31,12
+37,East Richmond,Paulo's Pizza,3.7,CA$30 for two,"Pizza, Fast Food","140-23200 Gilley Road, Richmond, Richmond V6V 1B8",+16045244748,21,5
+38,East Richmond,Scorpio's M Dessert,2.6,for two,"Desserts, Cantonese","1200-8580 Alexandra Road, Metro Vancouver, Richmond",+16042858668,9,32
+39,Richmond,McDonald's,2.4,CA$20 for two,Fast Food,"4000-11660 Steveston Highway, Richmond V7A 5J5",+16047181000,13,28
+40,East Richmond,Shawarma Palace,3.1,CA$20 for two,Middle Eastern,"Sands Plaza, 123 - 11020 Number 5 Road, Richmond",+16042842742,17,6
+41,East Richmond,Richport Chinese,3.6,CA$40 for two,"Chinese, Asian","2-11600 Bridgeport Road, Richmond V6V1J3",+16042799090,16,15
+42,Richmond,Tim Hortons,2.7,CA$20 for two,"Fast Food, Cafe","11320 Steveston Hwy Unit 110, Richmond V7A5J5",+16042778467,15,25
+43,Richmond,Burger King,3.2,CA$20 for two,"Burger, Fast Food","11388 Steveston Highway, Richmond V7A 5J5",+16042771818,18,32
+44,East Richmond,Eggspectation,2.6,CA$55 for two,American,"10551 St Edwards Dr, Richmond, BC, Richmond",+16043700017,13,19
+45,East Richmond,A&W,3.6,CA$20 for two,Fast Food,"100-3080 Saint Edwards Drive, Richmond V6X1N4",+16042149901,10,17
+46,East Richmond,Mama's Dumpling & Coffee,3.5,CA$55 for two,"Chinese, Coffee and Tea, Shanghai","103-11782 Hammersmith Way Richmond, BC, Richmond",+17782971618,7,17
+47,Richmond,Stanley's Sports Bar & Grill,2.9,CA$65 for two,Bar Food,"Riverport, 14140 Triangle Road, Richmond V6W1B2",+16042740011,15,3
+48,Richmond,Taco Del Mar,3.1,CA$20 for two,"Mexican, Fast Food","11020 number 5 Road #128, Richmond V7A 4E7",+16042418811,21,12
+49,East Richmond,Church's Chicken,3.2,CA$20 for two,Fast Food,"11580 Cambie Road, Richmond",+16042856162,9,17
+50,Richmond,Starbucks,3.1,CA$20 for two,Cafe,"Ironwood Plaza, 7100-11660 Steveston Highway, Richmond V7A4E8",+16042415900,13,26
+51,Richmond,Domino's,3.5,CA$20 for two,"Pizza, Fast Food","Cambie Plaza, 190-11700 Cambie Road, Richmond V6X1L6",+16042780010,13,8
+52,Richmond,Booster Juice,3.6,CA$20 for two,"Juices, Beverages, Fast Food","Ironwood Plaza, 3150-11660 Steveston Highway, Richmond V7A1N6",+16042716661,10,6
+53,East Richmond,Wendy's,3.1,CA$20 for two,Fast Food,"2751 number 5 Road, Richmond V6X 1T5",+16042784611,6,32
+54,Richmond,Freshslice Pizza,3.0,CA$20 for two,"Pizza, Fast Food","11060 No 5 Rd, Richmond V7A 4E8",+16043702444,8,13
+55,Richmond,Monkey 9 Brewing Co,3.1,CA$40 for two,"Pizza, Bar Food","14200 Entertainment Blvd, Richmond, BC V6W 1A8, Canada, Richmond",+16043707363,4,10
+56,Richmond,Quiznos,2.5,CA$25 for two,"Fast Food, Sandwich","11666 Steveston Hwy, Richmond V7A1N6",+16042725072,6,10
+57,East Richmond,Panago,3.5,CA$30 for two,"Pizza, Fast Food","120-11780 Thorpe Road, Richmond V6X1J6",+16043100001,7,14
+58,East Richmond,Triple O's,3.4,CA$25 for two,Fast Food,"12011 Bridgeport Road, Richmond V6V1J3",+16042329455,7,13
+59,Richmond,Subway,3.4,CA$25 for two,Fast Food,"14331 Entertainment Boulevard, Richmond V6W 1K4",+16042040127,6,16
+60,East Richmond,Juvi's Pub & Grill,3.1,CA$45 for two,Canadian,"2611 Viscount Way, Richmond",+16042788881,5,2
+61,East Richmond,Bubble Waffle Cafe,-,for two,Desserts,"Unit 1030 - 11660 Steveston Hwy, Richmond, Richmond",+116042844433,0,6
+62,East Richmond,Spiritea,-,CA$20 for two,Bubble Tea,"4151 Hazelbridge Way, East Richmond, Richmond, Richmond",+17782047777,3,1
+63,East Richmond,Chun Yang Tea,-,CA$10 for two,"Bubble Tea, Taiwanese","7971 Alderbridge Way #130, Richmond, East Richmond, Richmond, Richmond",+16043701370,3,1
+64,East Richmond,Happy House,-,CA$25 for two,Chinese,"Second Floor, 11111 Horseshoe Way, Richmond V7A 4Y1",+16043706696,1,3
+65,Richmond,Brain Freeze,-,CA$10 for two,"Ice Cream, Frozen Yogurt, Desserts","Riverport, 14511 Steveston Highway, Richmond",+17785527246,0,2
+66,East Richmond,Foody World,-,for two,Deli,"3000 Sexsmith Road, Richmond V6X 1S1",+16042330886,1,0
+67,Richmond,Cora Breakfast and Lunch,3.7,CA$30 for two,Diner,"Coppersmith, 170-11380 Steveston Highway, Richmond V7A5J5",+16042702672,158,104
+68,East Richmond,Hashi Sushi Japanese Restaurant,3.8,CA$20 for two,"Sushi, Japanese, Asian","150-3757 Jacombs Road, Richmond V6V2R3",+16044456818,58,35
+69,East Richmond,AAA Restaurant,3.3,CA$25 for two,"Asian, Chinese","8053 Alexandra Road, Metro Vancouver, Richmond V6X 1C3",+16042843111,17,60
+70,East Richmond,Chicago Wrap & Subs,3.7,CA$20 for two,"Mediterranean, Fast Food","140-12560 Bridgeport Road, Richmond V6V1J4",+16042441125,28,8
+71,East Richmond,Fender's Restaurant,3.8,CA$40 for two,"Diner, Chinese, Asian","100-13340 Smallwood Place, Richmond V6V1W8",+16042856806,27,27
+72,East Richmond,Wild Sweets,3.6,for two,Desserts,"12191 Hammersmith Way, Unit 2145, Richmond V7A 5H2",+16042776102,10,27
+73,East Richmond,Lakeside Grill,3.6,CA$55 for two,Fusion,"Mayfair Lake Golf Course, 5460 Number 7 Road, Richmond V6V1C6",+16042760511,13,31
+74,East Richmond,Boy With A Knife,3.2,CA$30 for two,"Cafe, Burger","7-3331 Viking Way, Richmond V6V1X7",+16042780543,11,8
+75,East Richmond,BG Urban Cafe,2.9,CA$25 for two,Cafe,"120-13711 International Place, Richmond V6V2Z8",+16042480190,14,18
+76,East Richmond,Happy Break Cafe,3.6,CA$25 for two,"Cafe, Japanese","2120-21331 Gordon Way, Richmond V6W1J9",+16042070284,11,5
+77,East Richmond,High Bid Cafe,-,CA$20 for two,Cafe,"Inside ADESA, 7111 Number 8 Road, Richmond V6W1L3",+16042387039,1,17
+78,East Richmond,Blue Duck Cafe,3.7,CA$20 for two,Cafe,"2118-20800 Westminster Highway, Richmond V6W1L2",+16043037740,9,2
+79,East Richmond,Tapio Tea and Coffee,-,CA$20 for two,"Bubble Tea, Desserts","1145, 2551 No 6 Road, Richmond, Richmond V6V 1P3",+16042708695,3,7
+80,East Richmond,Sandwich Tree,3.5,CA$25 for two,Cafe,"213-13986 Cambie Road, Richmond V6V2K3",+16043702454,11,14
+81,East Richmond,Zia's Cafe and Grill,3.4,CA$25 for two,"Diner, Cafe","1133-13700 Mayfield Place, Richmond V6V2G9",+16043702577,11,7
+82,East Richmond,Lamajoun,3.4,CA$35 for two,Middle Eastern,"11782 River Road Unit 128, East Richmond, Richmond",+17788964200,4,10
+83,East Richmond,Blue Plate Cafe,3.7,CA$30 for two,Cafe,"1211 Valmont Way, Richmond V6V3A8",+16042780800,8,0
+84,East Richmond,Spike Lounge & Grill,3.0,CA$45 for two,Canadian,"Greenacres Golf Course, 5040 Number 6 Road, Richmond V6V 1T1",+16042731121,4,15
+85,East Richmond,Creme de la Crumb Bakeshop,2.8,CA$20 for two,"Cafe, Bakery","170-10760 Shellbridge Way, Richmond V6X3H1",+16046835595,4,11
+86,East Richmond,Jordan's International Food Designs Ltd.,3.5,CA$20 for two,Canadian,"12851 Bathgate Way, Unit 1, Richmond, Richmond V6V 1Y5",+16042702793,7,0
+87,East Richmond,Buns Master Bakery & Delicatessen,3.1,CA$25 for two,"Bakery, Deli","5960 Number 6 Road, Richmond V6V 1Z1",+16042788231,4,3
+88,East Richmond,River Road Cafe,3.1,CA$20 for two,"Diner, Chinese, Asian","102-11782 River Road, Richmond V6X1Z7",+16042781416,6,3
+89,East Richmond,EBE Kitchen House,-,CA$30 for two,"Chinese, Asian","12880 Bathgate Way, Richmond V6V1Z4",+16042338868,3,5
+90,East Richmond,The London Cafe,-,CA$25 for two,Cafe,"12251 Horseshoe Way, Richmond, Richmond V7A 4X9",+16044484022,3,2
+91,East Richmond,Riverside Cafe,-,CA$20 for two,"Cafe, Chinese, Asian","12031 Mitchell Road, Richmond V6V1M8",+16043229260,1,2
+92,East Richmond,Swordfish Cafe,-,CA$30 for two,"American, Chinese","1101-11871 Horseshoe Way, Richmond",+16044473800,1,5
+93,East Richmond,Ai Cafe,-,for two,"American, Steak","1B-12880 Bathgate Way, Richmond,, Richmond V6V 1Z4",+16042338868,0,0
+94,East Richmond,Mitchell Island Cafe & Deli,-,CA$20 for two,Deli,"100-11528 Twigg Place, Richmond V6V2Y2",+16043221077,1,1
+95,East Richmond,Rosemary Rocksalt,-,CA$20 for two,Cafe,"11688 Steveston Hwy, Richmond, Richmond",+16042749800,1,2
+96,Richmond,Rising Sun Bakery,-,CA$20 for two,Bakery,"Cambie Plaza, 11700 Cambie Road, Richmond",+16043037439,3,2
+97,East Richmond,Kung Fu Noodle,-,CA$25 for two,Chinese,"1150-4380 No 3 Road, Metro Vancouver, Richmond V6X",Not available for this place,1,4
+98,East Richmond,Donna's Cafe,-,CA$25 for two,Diner,"2-3260 Viking Way, Richmond V6V1Y1",+16042789368,2,3
+99,East Richmond,Mylora - Mylora Siaway Golf Club,-,CA$20 for two,Canadian,"9911 Sidaway Road, Richmond",+16042715626,1,4
+100,East Richmond,Richmond Driving Range Cafe,-,CA$20 for two,Cafe,"Inside Richmond Driving Range, 4880 Number 6 Road, Richmond V6V",+16042781101,0,0

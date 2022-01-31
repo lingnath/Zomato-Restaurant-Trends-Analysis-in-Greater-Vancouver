@@ -1,0 +1,102 @@
+,Location,Name,Rating,Price Range,Cuisine Type,Address,Phone Number,Num Reviews,Num Photos
+0,Gastown,Meat & Bread,4.7,CA$30 for two,Sandwich,"370 Cambie Street, Vancouver V6B 1H7 1H7",Not available for this place,0,326
+1,Gastown,L'Abattoir,4.5,CA$100 for two,"French, Pacific Northwest","217 Carrall Street, Vancouver V6B2J2",+16045681701,797,532
+2,Gastown,Nuba,4.5,CA$50 for two,"Lebanese, Middle Eastern","207 West Hastings Street, Vancouver V6B 2N4",+16046881655,0,191
+3,Gastown,Tuc Craft Kitchen,4.5,CA$70 for two,"Pacific Northwest, Canadian","60 West Cordova Street, Vancouver V6B1C9",+16045598999,489,270
+4,Gastown,Catch 122,4.3,CA$65 for two,Canadian,"122 W Hastings Street, Vancouver V6B1G8",+16047313474,567,379
+5,Gastown,Alibi Room,4.6,CA$70 for two,"Canadian, Bar Food","157 Alexander Street, Vancouver V6A 1B8",+16046233383,623,106
+6,Gastown,Nicli Antica Pizzeria,4.5,CA$70 for two,"Pizza, Italian","62 E Cordova Street, Vancouver V6A 1K3",+16046696985,541,170
+7,Gastown,Salt Tasting Room,4.2,CA$50 for two,Tapas,"45 Blood Alley, Vancouver V6B 1A4",+16046331912,629,102
+8,Gastown,Guu Otokomae,4.5,CA$60 for two,"Japanese, Asian, Tapas","105-375 Water Street, Vancouver V6B 1E1",+16046858682,589,318
+9,Gastown,Soft Peaks Ice Cream,3.6,CA$15 for two,"Ice Cream, Desserts","25 Alexander Street, Vancouver V6A 1B2",+16045592071,399,253
+10,Gastown,Revolver,4.5,CA$20 for two,Cafe,"325 Cambie Street, Vancouver V6B1H7",+16045584444,336,104
+11,Gastown,PiDGiN,4.1,CA$70 for two,"French, Asian Fusion","350 Carrall Street, Vancouver V6B 2J3",+16046209400,284,363
+12,Gastown,Save On Meats,4.2,CA$35 for two,"Diner, Canadian","43 West Hastings Street, Vancouver V6B 1G4",+16045693568,478,143
+13,Gastown,Pourhouse Restaurant,4.4,CA$75 for two,Canadian,"162 Water Street, Vancouver V6B 1B2",+16045687022,373,125
+14,Gastown,Wildebeest,3.9,CA$80 for two,"Grill, Pacific Northwest","120 West Hastings Street, Vancouver V6B1G8",+16046876880,314,240
+15,Gastown,Six Acres,4.4,CA$65 for two,American,"203 Carrall Street, Vancouver V6B 2J2",+16044880110,291,58
+16,Gastown,Purebread,4.3,CA$20 for two,"Bakery, Cafe","159 West Hastings Street, Vancouver V6B1H5",+16045638060,221,205
+17,Gastown,La Casita,4.0,CA$55 for two,Mexican,"101 West Cordova Street, Vancouver V6B 5A7",+16046462444,277,486
+18,Gastown,Steamworks Brew Pub,3.9,CA$75 for two,"Canadian, Bar Food","The Landing, 375 Water Street, Vancouver V6B 5C6",+16046892739,512,99
+19,Gastown,Tacofino,3.9,CA$50 for two,Mexican,"15 Blood Alley, Vancouver V6B1C8",+16048997907,202,209
+20,Gastown,Brioche,4.2,CA$25 for two,"Cafe, Italian","401 West Cordova Street, Vancouver V6B 1E5",+16046824037,259,117
+21,Gastown,The Sardine Can,4.2,CA$65 for two,"Tapas, Spanish","26 Powell Street, Vancouver V6A 1E7",+16045681350,172,101
+22,Gastown,Jules Casual French Bistro,4.0,CA$80 for two,French,"216 Abbott Street, Vancouver V6B 1B2",+16046690033,235,63
+23,Gastown,The Flying Pig,3.9,CA$80 for two,"Canadian, Seafood, Bar Food","102 Water Street, Vancouver V6B 1B2",+16045597968,256,133
+24,Gastown,Peckinpah,3.9,CA$50 for two,BBQ,"2 Water Street, Vancouver V6B 1B2",+16046815411,286,61
+25,Gastown,The Irish Heather,4.1,CA$70 for two,"Bar Food, Irish","210 Carrall Street, Vancouver V6B 2J2",+16046889779,275,55
+26,Gastown,The Old Spaghetti Factory,3.9,CA$50 for two,Italian,"53 Water Street, Vancouver V6B 1A1",+16046841288,275,123
+27,Gastown,The Diamond,4.0,CA$80 for two,"Bar Food, Tapas, Mexican","6 Powell Street, Vancouver V6B 1G7",+16045688272,201,39
+28,Gastown,Lost + Found Cafe,4.0,CA$30 for two,"Cafe, Desserts","33 West Hastings Street, Vancouver V6B 1G4",+16045597444,95,97
+29,Gastown,Deacon's Corner,4.0,CA$35 for two,"Burger, Diner","101 Main Street, Vancouver V6A 2S5",+16046841555,192,80
+30,Gastown,Bauhaus Restaurant,3.9,CA$180 for two,German,"1 West Cordova Street, Vancouver V6B 2J2",+16049741147,74,202
+31,Gastown,Cadeaux Bakery,4.0,CA$20 for two,"Bakery, Desserts, Coffee and Tea","172 Powell Street, Vancouver V6A 1G1",+16046088889,85,65
+32,Gastown,Water Street Café,3.9,CA$80 for two,"Italian, Seafood","300 Water Street, Vancouver V6B 1B6",+16046892832,205,106
+33,Gastown,Timbertrain Coffee Roasters,4.1,CA$15 for two,Cafe,"311 West Cordova Street, Vancouver V6B 4K2",+16043613223,118,57
+34,Gastown,Rodney's Oyster House,4.0,CA$60 for two,Seafood,"52 Powell Street, Vancouver V6A1E7",+16046852005,129,84
+35,Gastown,Al Porto Ristorante,2.9,CA$65 for two,"Italian, Seafood","321 Water Street, Vancouver V6B 1B8",+16046838376,190,120
+36,Gastown,Guilt and Co.,4.1,CA$70 for two,Bar Food,"1 Alexander Street, Vancouver V6A 1E9",+16042881704,142,12
+37,Gastown,Revel Room,4.0,CA$80 for two,"Canadian, Bar Food","238 Abbott Street, Vancouver V6B 1B2",+16046874088,111,45
+38,Gastown,The Birds & The Beets,3.5,CA$25 for two,"Healthy Food, Cafe","55 Powell Street, Vancouver V6A 1E9",+16048937832,42,61
+39,Gastown,The Pint Public House,3.5,CA$45 for two,Bar Food,"455 Abbott Street, Vancouver V6B 2L2",+16046840258,126,51
+40,Gastown,Meet in Gastown,3.3,CA$45 for two,"Vegetarian, Bar Food","12 Water Street, Vancouver V6B 4K7",+16046883399,56,85
+41,Gastown,Trees Organic Coffee,3.9,CA$20 for two,"Cafe, Sandwich","321 Water Street, Vancouver V6B1B8",+16046333880,119,69
+42,Gastown,The Greedy Pig,3.7,CA$60 for two,Canadian,"307 West Cordova Street, Vancouver V6B 1B2",+16046694991,94,22
+43,Gastown,Coffeebar,3.4,CA$25 for two,Cafe,"10 Water Street, Vancouver V6B2J2",+16045669693,121,57
+44,Gastown,Milano Espresso Lounge,4.0,CA$25 for two,Cafe,"36 Powell Street, Vancouver V6B 2J1",+16045580999,78,33
+45,Gastown,Silvestre Deli & Bistro,3.7,CA$50 for two,"Peruvian, Latin American","317 Water Street, Vancouver V6B 1B2",+16045582825,58,90
+46,Gastown,The Charles Bar,3.0,CA$70 for two,"Canadian, Bar Food","Woodwards Building, 136 West Cordova Street, Vancouver V6B4K2",+16045688040,107,50
+47,Gastown,Momo Sushi,3.6,CA$30 for two,"Sushi, Japanese, Asian","6-375 Water Street, Vancouver V6B",+16046837632,83,69
+48,Gastown,Black Frog Eatery,3.8,CA$70 for two,"Bar Food, American","108 Cambie Street, Vancouver V6B 1B2",+16046020527,89,20
+49,Gastown,Nemesis Coffee,3.5,CA$15 for two,"Cafe, Coffee and Tea","302 W Hastings Street, Gastown, Vancouver V6B 2N4",Not available for this place,32,71
+50,Gastown,Prado Cafe,3.6,CA$20 for two,Cafe,"100 West Hastings, Vancouver",+17783794315,44,47
+51,Gastown,Fresh Bowl,2.9,CA$25 for two,Malaysian,"360 Cambie Street, Vancouver V6B 1H7",+16042485070,78,22
+52,Gastown,Sitar Indian,3.8,CA$50 for two,Indian,"8 Powell Street, Vancouver V6A 1E7",+16046870049,77,17
+53,Gastown,The Poke Shop,3.4,CA$25 for two,"Hawaiian, Desserts","306 Water Street, Vancouver, Vancouver V6B 1B2",+17783791567,36,46
+54,Gastown,Bambo Cafe,3.5,CA$25 for two,"Cafe, Coffee and Tea, Sandwich","301 West Cordova Street, Vancouver V6B 5A4",+16046814323,57,10
+55,Gastown,131 Water Kitchen and Bar,3.1,CA$60 for two,Bar Food,"131 Water Street, Vancouver V6B 4M3",+16046697219,60,17
+56,Gastown,The Portside,3.2,CA$60 for two,"Bar Food, Seafood","7 Alexander Street, Vancouver V6A 1E9",+16045596333,50,31
+57,Gastown,Cambie Bar & Grill,3.6,CA$40 for two,Bar Food,"300 Cambie Street, Vancouver V6B 1H7",+16046889158,75,27
+58,Gastown,The Blarney Stone,3.1,CA$70 for two,"Bar Food, Irish","216 Carrall Street, Vancouver V6B 2J2",+16046874322,63,28
+59,Gastown,Costco Food Court,3.7,CA$20 for two,"Fast Food, Pizza","605 Expo Boulevard, Vancouver V6B6G1",+16046225050,66,34
+60,Gastown,Noodlebox,3.4,CA$25 for two,"Asian, Chinese","108 West Hastings Street, Vanocuver, Vancouver V6B 1G8",+16045591775,33,33
+61,Gastown,Vera's Burger Shack,3.2,CA$30 for two,"Burger, Fast Food","213 Carrall Street, Vancouver V6B2J2",+16045685850,53,26
+62,Gastown,Haru Korean Kitchen,3.2,CA$25 for two,Korean,"324 Cambie Street, Vancouver V6B 2N3",+17783799488,17,27
+63,Gastown,Buro Coffee,3.2,CA$20 for two,Cafe,"365 Water Street, Metro Vancouver, Vancouver",+16049156744,23,24
+64,Gastown,Bao Down Snack Bar,2.9,CA$25 for two,"Asian Fusion, Filipino, Hawaiian","221 Carrall Street, Vancouver V6B 2J2",+16045692215,15,35
+65,Gastown,The Capilano Tea House,3.2,CA$10 for two,Cafe,"221 Abbott Street, Vancouver",+16044287632,7,25
+66,Gastown,The Metropole Community Pub,2.9,CA$50 for two,Bar Food,"320 Abbott Street, Vancouver V6B 1G8",+16044085822,36,5
+67,Gastown,JJ Bean,3.6,CA$20 for two,Cafe,"Woodwards Building, 146 West Cordova Street, Vancouver V6B4K2",+16044089663,39,10
+68,Gastown,Bean Around the World,3.5,CA$20 for two,Cafe,"175 West Hastings Street, Vancouver V6B1G8",+16046810035,25,12
+69,Gastown,Di Bieppe,3.1,CA$30 for two,Italian,"8 W Cordova St, Vancouver, BC, Gastown, Vancouver, Metro Vancouver, Vancouver",+16045591122,6,10
+70,Gastown,New Amsterdam Cafe,3.5,CA$25 for two,Cafe,"301 West Hastings Street, Vancouver V6B1H6",+16046828955,9,10
+71,Gastown,Pub 340,3.6,CA$30 for two,Pub Food,"340 Cambie Street, Vancouver V6B 2N3",+16046020644,9,14
+72,Gastown,Cottage Deli Restaurant,3.5,CA$25 for two,Cafe,"131 Water Street, Vancouver V6B4M3",+16046880844,9,13
+73,Gastown,Hot Pie Pizza,3.8,CA$20 for two,Pizza,"4 Powell Street, Vancouver V6B2J1",+16045669944,15,4
+74,Gastown,Moltaqa,3.4,CA$40 for two,"Mediterranean, Moroccan","51 W Hastings Street, Vancouver, BC V6B, Vancouver",+16046964055,5,6
+75,Gastown,Hiro Japan,2.7,CA$25 for two,"Sushi, Japanese, Asian, Fast Food","Woodwards Building, 142 West Cordova Street, Vancouver V6B1C9",+16045669393,7,4
+76,Gastown,DAVIDsTEA,3.6,CA$15 for two,"Tea, Beverages","164 Water Street, Vancouver V6B2K8",+16046870060,5,13
+77,Gastown,Subway,2.7,CA$25 for two,Fast Food,"139 West Hastings Street, Vancouver V6B1G8",+16045690782,6,15
+78,Gastown,Starbucks,2.5,CA$20 for two,Cafe,"199 Water Street, Vancouver V6B",+16046696297,4,17
+79,Gastown,Liuyishou Hot Pot,-,for two,"Sichuan, Beverages, Chinese","1542 Robson Street, Metro Vancouver, Vancouver V6G 1C2",+17783793977,1,0
+80,Gastown,Funky Winker Bean's Pub,-,CA$20 for two,Drinks Only,"37 West Hastings Street, Vancouver",+16045693515,1,3
+81,Gastown,Krokodile Pear,-,CA$20 for two,"Juices, Healthy Food","Inside Frank & Oak, 316 West Cordova Street, Vancouver",+16043363651,0,1
+82,Gastown,Darby's Gastown,-,for two,American,"16 W Hastings Street, Gastown, Vancouver V6B 1G6",+16045584658,1,2
+83,Gastown,Ignite Pizzeria,-,CA$30 for two,Pizza,"508 West Cordova Street, Vancouver",+16045642588,2,2
+84,Gastown,Strike Mvmnt,-,CA$25 for two,"Healthy Food, Cafe","299 Columbia Street, Vancouver",+16045590090,0,4
+85,Gastown,Stephos,-,for two,Greek,"1359 Robson Street, Vancouver, Vancouver V6E 1C6",+16046859977,1,1
+86,Gastown,BB Korean Cuisine Bistro,-,CA$30 for two,"Korean, BBQ","52 Alexander Street, Vancouver, BC V6A 1B4, Vancouver",+17788877777,1,1
+87,Gastown,Grand Union Pub,-,CA$40 for two,Drinks Only,"74 West Hastings Street, Vancouver",+16046816521,0,2
+88,Gastown,Teppan Kitchen,-,for two,Japanese,"Harbour Centre, 555 W Hastings Street, Vancouver, Vancouver V6B",+17783791988,0,0
+89,Gastown,Meat & Bread,-,CA$20 for two,Sandwich,"625 Robson Street, Gastown, Vancouver, Vancouver",Not available for this place,0,0
+90,Gastown,Nelson the Seagull,4.1,CA$25 for two,Cafe,"315 Carrall Street, Vancouver V6A0A7",+16046815776,263,147
+91,Gastown,East Van Roasters,3.8,CA$15 for two,"Cafe, Desserts","319 Carrall Street, Vancouver V6A 1M9",+16046297562,54,56
+92,Gastown,Salty Tongue Cafe,3.3,CA$35 for two,Cafe,"213 Carrall Street, Vancouver V6B 2J2",+16046889779,65,14
+93,Gastown,Mensch Jewish Delicatessen,3.1,CA$25 for two,Jewish,"212 Carrall Streer, Vancouver, Vancouver V6B 2J1",+16043756655,6,13
+94,Gastown,The Smallflower,3.1,CA$20 for two,"Sandwich, Bakery","47 West Hastings Street, Vancouver V6B 1G4",+17783797377,10,4
+95,Gastown,Coquille Fine Seafood,2.9,CA$45 for two,Seafood,"181 Carrall St, Vancouver, BC, Vancouver",+16045596009,7,28
+96,Gastown,The Praguery,3.2,CA$15 for two,Ice Cream,"221 Abbott St, Vancouver, BC V6B 2K8, Vancouver",Not available for this place,6,6
+97,Gastown,No Way Cafayfay,3.6,CA$20 for two,Cafe,"247 Main Street, Vancouver V6A2S7",+17783797589,7,3
+98,Gastown,Potluck Cafe,-,CA$25 for two,Cafe,"30 West Hastings Street, Vancouver V6B1G4",+16046097368,2,2
+99,Gastown,Jack's Taphouse & Grill,-,CA$25 for two,"Grill, Canadian","52 Alexander Street, Vancouver, Vancouver V6A 1B4",+16044285757,0,6
+100,Gastown,Wing's Cafe,-,CA$15 for two,Diner,"325 Carrall Street, Vancouver V6A0A7",+16046827913,2,3

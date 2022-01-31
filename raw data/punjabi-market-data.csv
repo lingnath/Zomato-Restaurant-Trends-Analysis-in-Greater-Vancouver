@@ -1,0 +1,70 @@
+,Location,Name,Rating,Price Range,Cuisine Type,Address,Phone Number,Num Reviews,Num Photos
+0,Punjabi Market,Breka Bakery & Cafe,4.3,CA$25 for two,"Bakery, Cafe","6533 Fraser Street, Vancouver V5X",+16043256612,251,176
+1,Punjabi Market,Ho Yuen Kee Restaurant,4.0,CA$40 for two,"Chinese, Asian","6236 Fraser Street, Vancouver V5W",+16043248855,234,145
+2,Punjabi Market,Off The Grid Waffles,3.2,CA$25 for two,Desserts,"5943, Fraser Street, Punjabi Market, Vancouver, Vancouver V5R 5H4",+16043260708,88,111
+3,Punjabi Market,Pinpin Restaurant,4.0,CA$35 for two,"Chinese, Filipino, Asian","6113 Fraser Street, Vancouver V5W 2Z9",+16043223086,148,129
+4,Punjabi Market,Yu Xiang Yuan Restaurant,4.0,CA$30 for two,Chinese,"6591 Fraser Street, Vancouver V5X 1B3",+16046201856,93,127
+5,Punjabi Market,Deer Garden Signatures,3.8,CA$25 for two,"Chinese, Asian","6270 Fraser Street, Vancouver V5W 3A1",+16043226116,148,155
+6,Punjabi Market,Angel Cake Cafe,3.8,CA$30 for two,"Chinese, Asian, Bubble Tea","5995 Fraser Street, Vancouver V5W2Z5",+16043238948,111,188
+7,Punjabi Market,Good Choice Restaurant,3.7,CA$40 for two,"Dim Sum, Chinese, Asian","6007 Fraser Street, Vancouver V5W2Z8",+16043259788,78,157
+8,Punjabi Market,So Hyang Korean Cuisine,3.7,CA$25 for two,Korean,"6345 Fraser Street, Vancouver BC V5W 3A3",+16047290702,59,116
+9,Punjabi Market,Dosa Corner,4.0,CA$30 for two,Indian,"110-8248 Fraser Street, Vancouver V5X 3X6",+16043243672,73,46
+10,Punjabi Market,Shoom,3.5,CA$30 for two,"Chinese, Asian","6555 Fraser Street, Vancouver V5X 3T4",+16045687797,39,168
+11,Punjabi Market,Panos Greek Taverna,3.9,CA$45 for two,Greek,"654 South East Marine Drive, Vancouver V5X 2T4",+16043228824,79,42
+12,Punjabi Market,Baker & Table Cafe,3.4,CA$15 for two,"Cafe, Bakery, Japanese","6414 Fraser Street, Vancouver, Vancouver V5W 3A4",+16047609297,29,50
+13,Punjabi Market,Samurai,3.4,CA$15 for two,"Sushi, Japanese","6428 Fraser Street, Vancouver V5W3A6",+16046764479,102,27
+14,Punjabi Market,Original Tandoori Kitchen,3.9,CA$30 for two,Indian,"7215 Main Street, Vancouver V5X3J3",+16043278900,76,24
+15,Punjabi Market,All India Sweets & Restaurant,3.7,CA$35 for two,Indian,"6507 Main Street, Vancouver V5X 3H1",+16043270891,112,24
+16,Punjabi Market,Roots Cafe,3.7,CA$30 for two,Cafe,"6502 Main Street, Vancouver V5X",+16045688303,47,15
+17,Punjabi Market,Pho Hong,3.7,CA$30 for two,"Vietnamese, Asian","6348 Fraser Street, Vancouver V5W3A3",+16043276348,65,26
+18,Punjabi Market,New Novelty Restaurant & Sweets,3.9,CA$30 for two,"Indian, Desserts","6669 Fraser Street, Vancouver V5X3T6",+16043261111,40,22
+19,Punjabi Market,L&G Bubble Tea House,4.0,CA$25 for two,"Bubble Tea, Japanese","5816 Fraser Street, Vancouver V5W 2Z5",+16045687686,73,11
+20,Punjabi Market,Al-Watan Tandoori,3.7,CA$30 for two,"Indian, Pakistani","6084 Fraser Street, Vancouver V5W 2Z7",+16043246378,39,46
+21,Punjabi Market,Kyuzo Japanese Restaurant,3.4,for two,Japanese,"112-5701 Granville Street, Vancouver, Vancouver V6M 4J7",+16046209979,12,63
+22,Punjabi Market,Tandoori Raj Restaurant,3.8,CA$35 for two,Indian,"689 East 65th Avenue, Vancouver V5X 2P7",+16043251301,50,22
+23,Punjabi Market,Green Leaf Bubble Tea,3.7,CA$20 for two,"Bubble Tea, Beverages","5756 Fraser Street, Vancouver V5W2Z5",+16043278766,39,8
+24,Punjabi Market,Slice of Chicago,3.5,CA$30 for two,"Pizza, Fast Food","5812 Fraser Street, Vancouver V5W 2Z5",+16043273007,33,10
+25,Punjabi Market,Dhaliwal Sweets,3.7,CA$25 for two,"Indian, Desserts","6555 Fraser Street, Vancouver V5X3T3",+16043254911,41,38
+26,Punjabi Market,Himalaya Restaurant,3.6,CA$35 for two,"Indian, Desserts","6587 Main Street, Vancouver V5X 3H1",+16043246514,41,24
+27,Punjabi Market,Eat Me Thai,3.3,CA$35 for two,Thai,"6364 Fraser Street, Vancouver, Vancouver V5W 0A1",+16045583832,18,48
+28,Punjabi Market,Madras Spice,3.3,CA$30 for two,Indian,"6260 fraser street, Metro Vancouver, Vancouver",+16043256555,26,42
+29,Punjabi Market,89 Inn,2.6,CA$25 for two,"Sushi, Japanese, Asian","6372 Fraser Street, Vancouver V5W 3A3",+16043242180,31,26
+30,Punjabi Market,Boba Monster,3.5,CA$25 for two,"Cafe, Coffee and Tea","5766 Fraser Street, Vancouver",+17788389043,23,18
+31,Punjabi Market,Papa Day's Pizza & Indian Cuisine,3.9,CA$25 for two,"Indian, Pizza","6483 Knight Street, Vancouver V5P2V9",+16043214050,33,15
+32,Punjabi Market,Uncle Ming's Kitchen,3.4,CA$30 for two,"Chinese, Asian, Canadian","8181 Main Street, Vancouver V5X4V7",+16043277658,22,19
+33,Punjabi Market,White Spot,3.4,CA$50 for two,Canadian,"1126 South East Marine Drive, Vancouver V5X2V7",+16043258911,28,44
+34,Punjabi Market,Main Kabab Hut,3.8,CA$20 for two,"Pakistani, Indian","219 East 49th Avenue, Vancouver V5W 2G4",+16043228715,27,6
+35,Punjabi Market,Chu Kiang Chinese Restaurant,3.6,CA$30 for two,"Chinese, Asian","6491 Knight Street, Vancouver V5W 2J6",+16043278835,28,9
+36,Punjabi Market,Wo's Chinese Restaurant,3.4,CA$30 for two,"Chinese, Asian","8166 Main Street, Vancouver V5X",+16043238093,23,11
+37,Punjabi Market,New Bhaia Sweet Shop & Restaurant,3.7,CA$35 for two,"Indian, Desserts","5740 Fraser Street, Vancouver V5W",+16043232100,27,4
+38,Punjabi Market,Church's Chicken,3.7,CA$20 for two,Fast Food,"5704 Fraser Street, Vancouver V5W2Z5",+16043212222,32,15
+39,Punjabi Market,Gia Minh,3.1,for two,Vietnamese,"6181 Fraser Street, Vancouver",+16043010281,13,56
+40,Punjabi Market,Dewan-E-Khass,3.5,CA$40 for two,"Indian, Pakistani","5750 Fraser Street, Vancouver",+16043274800,16,16
+41,Punjabi Market,Pho Ngan,3.7,CA$25 for two,Vietnamese,"5744 Fraser Street, Vancouver V5W",+16047273865,22,7
+42,Punjabi Market,Best Quality Sweets & Restaurant,3.8,CA$20 for two,"Indian, Pakistani","7260 Main Street, Vancouver V5X3J1",+16043246677,18,7
+43,Punjabi Market,Lian Hong Chinese Food & Bakery,3.4,CA$20 for two,"Chinese, Asian, Fast Food","6400 Fraser Street, Vancouver V5W3A3",+16043229367,21,10
+44,Punjabi Market,Pizza Plus,3.3,CA$20 for two,"Pizza, Indian, Fast Food","6262 Fraser Street, Vancouver V5W3A1",+16045669191,16,7
+45,Punjabi Market,Dosa Hut,3.2,CA$25 for two,South Indian,"7233 Fraser Street, Vancouver V5X 1R7",+16045663111,12,18
+46,Punjabi Market,Dairy Queen Grill & Chill,3.6,CA$20 for two,"Fast Food, Desserts","5907 Fraser Street, Vancouver V5W",+16043240248,17,27
+47,Punjabi Market,Sushi Moon,3.2,CA$25 for two,"Sushi, Japanese","6520 Fraser Street, Vancouver V5X 3T3",+16043272221,7,19
+48,Punjabi Market,Canan 2 For 1 Pizza,3.4,CA$25 for two,"Pizza, Fast Food","7270 Main Street, Vancouver V5X3J1",+16043244441,16,1
+49,Punjabi Market,Apna Bhaia Sweet & Restaurant,3.2,CA$30 for two,"Indian, Desserts","6616 Fraser Street, Vancouver V5X",+16043232805,10,5
+50,Punjabi Market,Maxim's Bakery,3.2,CA$10 for two,"Bakery, Chinese, Asian","6387 Fraser Street, Vancouver V5W3A3",+16046882228,11,17
+51,Punjabi Market,Pita House,3.1,CA$20 for two,"Mediterranean, Fast Food","6196 Fraser Street, Vancouver V5W",+16043212250,11,3
+52,Punjabi Market,Hi Five 24,3.2,CA$15 for two,Fast Food,"203 SE Marine Drive, Vancouver",+16043274898,6,4
+53,Punjabi Market,Starbucks,3.4,CA$20 for two,Cafe,"6544 Fraser Street, Vancouver V5X3T3",+16043226773,10,21
+54,Punjabi Market,KFC,2.6,CA$20 for two,Fast Food,"6487 Knight Street, Vancouver V5W2J6",+16043211612,9,7
+55,Punjabi Market,Freshslice Pizza,3.1,CA$20 for two,"Pizza, Fast Food","6374 Fraser St, Vancouver V5W 3A4",+16045683001,8,13
+56,Punjabi Market,Dogwood Brewing,3.3,CA$15 for two,Drinks Only,"8284 Sherbrooke Street, Vancouver",+16043253693,4,4
+57,Punjabi Market,Hippo's Sports Bar and Grill,2.9,CA$35 for two,Bar Food,"725 South East Marine Drive, Vancouver V5X3X4",+16043216611,7,1
+58,Punjabi Market,Shanshe Dosa House,-,CA$35 for two,"South Indian, Sri Lankan","6560 Main Street, Vancouver",+16043243660,3,2
+59,Punjabi Market,Vancouver Veggie Pizza,-,CA$20 for two,"Pizza, Fast Food","2-7247 Main Street, Vancouver V5X",+16043274445,3,2
+60,Punjabi Market,Triple O's,3.5,CA$25 for two,Fast Food,"196 South East Marine Drive, Vancouver V5X",+16043241576,7,14
+61,Punjabi Market,McDonald's,2.3,CA$20 for two,Fast Food,"7289 Knight Street, Vancouver V5P2W9",+16047181197,4,10
+62,Punjabi Market,Sartaj Sweets & Restaurant,-,CA$30 for two,Indian,"6665 Fraser Street, Vancouver V5X3T6",+16043241500,2,4
+63,Punjabi Market,Good Morning Panwalla & BBQ Place,-,CA$30 for two,Indian,"6452 Main Street, Vancouver V5W",+16043214955,2,2
+64,Punjabi Market,Van Tea Cafe,-,CA$35 for two,Chinese,"5688 Main Street, Vancouver, BC V5W 2S7, Vancouver",+116045659983,2,1
+65,Punjabi Market,Subway,-,CA$25 for two,Fast Food,"6191 Fraser Street, Vancouver V5W",+16043239033,3,15
+66,Punjabi Market,Quiznos,-,CA$25 for two,"Fast Food, Sandwich","1306 South East Marine Drive, Vancouver V5X4K4",+16043232708,2,7
+67,Punjabi Market,Tim Hortons,-,CA$20 for two,"Fast Food, Cafe","5896 Fraser Street, Vancouver",+17789965896,0,13
+68,Punjabi Market,Win Win Chick-N,-,CA$20 for two,"Fast Food, Filipino","8197 Main St, Vancouver, BC V5X 3L2, Vancouver",+16044234818,0,1

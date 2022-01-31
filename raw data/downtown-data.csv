@@ -1,0 +1,503 @@
+,Location,Name,Rating,Price Range,Cuisine Type,Address,Phone Number,Num Reviews,Num Photos
+0,Downtown,Miku Restaurant,4.9,CA$95 for two,"Sushi, Japanese, Asian","200 Granville Street, Vancouver V6C 1S4",+16045683900,0,1201
+1,Downtown,Chambar,4.6,CA$100 for two,"French, Middle Eastern","568 Beatty Street, Vancouver V6B 2L3",+16048797119,0,662
+2,Downtown,La Taqueria,4.6,CA$25 for two,Mexican,"322 W Hastings Street, Vancouver V6B 1K6",+16045650511,0,120
+3,Downtown,Cartems Donuterie,4.5,CA$15 for two,"Desserts, Cafe","534 W Pender Street, Vancouver V6B 1V3",+17787080996,672,333
+4,Downtown,Gyu-Kaku Japanese BBQ,4.6,CA$70 for two,"Japanese, Asian","888 Nelson Street, Vancouver V6Z2R9",+16045583885,617,353
+5,Downtown,Hawksworth Restaurant - Rosewood Hotel Georgia,4.5,CA$150 for two,"Pacific Northwest, Fusion","Rosewood Hotel Georgia, 801 W Georgia Street, Vancouver V6C 1P7",+16046737000,474,359
+6,Downtown,Gotham Steakhouse & Cocktail Bar,4.4,CA$130 for two,Steak,"615 Seymour Street, Vancouver V6B 3K4",+16046058282,608,136
+7,Downtown,YEW Seafood + Bar,4.3,CA$120 for two,"Seafood, Salad","Four Seasons Hotel, 791 West Georgia Street, Vancouver V6C 2T4",+16046924939,540,392
+8,Downtown,Shizen Ya,4.6,CA$30 for two,"Sushi, Healthy Food","985 Hornby Street, Vancouver V6Z2E1",+16045680013,393,124
+9,Downtown,Guu Garden,4.3,CA$80 for two,"Japanese, Asian, Tapas","888 Nelson Street, Vancouver V6Z2R9",+16048990855,535,531
+10,Downtown,Basil Pasta Bar,4.1,CA$25 for two,Italian,"636 Davie Street, Vancouver V6B 2G5",+16045683106,345,90
+11,Downtown,The Templeton,4.4,CA$40 for two,Diner,"1087 Granville Street, Vancouver V6Z 1L2",+16046854612,392,76
+12,Downtown,Japadog,4.3,CA$20 for two,"Japanese, Fusion","530 Robson Street, Vancouver V6B 2B7",+16045691158,589,191
+13,Downtown,The Warehouse,4.0,CA$30 for two,Bar Food,"989 Granville Street, Vancouver V6B2C9",+16046778080,445,114
+14,Downtown,Fritz European Fry House,4.4,CA$25 for two,Fast Food,"718 Davie Street, Vancouver V6B 1B6",+16046840811,392,27
+15,Downtown,Yamato Sushi,4.2,CA$20 for two,"Sushi, Japanese, Asian","616 Davie Street, Vancouver V6B 3N3",+16046825494,335,70
+16,Downtown,Taishoken Ramen,3.9,CA$35 for two,"Ramen, Japanese, Asian","515 Abbott Street, Vancouver V6B2L2",+17787373805,305,197
+17,Downtown,Nuba,4.3,CA$50 for two,"Lebanese, Middle Eastern","508 Davie Street, Vancouver V6B 3N9",+16046614129,319,68
+18,Downtown,Viet Sub Vietnamese Cuisine,4.5,CA$20 for two,"Sandwich, Vietnamese, Asian","520 Robson Street, Downtown, Vancouver, Vancouver V6B2B7",+16045693340,309,51
+19,Downtown,SalaThai Restaurant,4.3,CA$65 for two,"Thai, Asian","888 Burrard Street, Vancouver V6Z 1X9",+16046837999,362,144
+20,Downtown,Chipotle Mexican Grill,4.1,CA$30 for two,"Mexican, Fast Food","818 Howe Street, Vancouver V6Z 1N4",+16046836394,356,75
+21,Downtown,Hy's Steakhouse & Cocktail Bar,4.1,CA$150 for two,"Steak, Pacific Northwest","637 Hornby Street, Vancouver V6C 2G2",+16046837671,263,125
+22,Downtown,Joyeaux Cafe & Restaurant,4.2,CA$30 for two,"Vietnamese, Asian","551 Howe Street, Vancouver V6C 2T8",+16046819168,269,99
+23,Downtown,Faubourg,4.1,CA$20 for two,"Cafe, Desserts, French","769 Hornby Street, Vancouver V6C 3L2",+16042670769,228,202
+24,Dowtown,Bacchus Restaurant and Lounge - Wedgewood Hotel,4.2,CA$75 for two,Pacific Northwest,"Wedgewood Hotel, 845 Hornby Street, Vancouver V6Z 1V1",+16046085319,234,137
+25,Downtown,Gyoza Bar,2.8,CA$55 for two,"Japanese, Asian","622 West Pender Street, Vancouver V6B1V8",+16043365563,250,313
+26,Coal Harbour,Five Sails - Pan Pacific Vancouver,4.4,CA$160 for two,"French, Pacific Northwest, Seafood","Pan Pacific Vancouver, 410-999 Canada Place, Vancouver V6C3T4",+16048442855,184,117
+27,Downtown,Tsuki Sushi Bar,4.1,CA$50 for two,"Sushi, Japanese, Asian","509 Abbott Street, Vancouver V6B 6C1",+16045583805,165,79
+28,Downtown,Trees Organic Coffee,4.1,CA$20 for two,"Cafe, Sandwich","450 Granville Street, Vancouver V6C1V4",+16046845022,262,78
+29,Downtown,Hubbub,4.3,CA$25 for two,Sandwich,"859 Hornby Street, Vancouver V6Z 2E6",+16045683398,211,75
+30,Downtown,Alpha Sushi Bar,4.1,CA$30 for two,"Sushi, Japanese, Asian","1265 Granville Street, Vancouver V6Z 1M5",+16046330355,158,98
+31,Downtown,Dae Ji Pork Cutlet House,4.1,CA$35 for two,"Korean, Asian","1660 Robson Street,Vancouver, Vancouver V6G 1Y4",+16046771636,180,54
+32,Downtown,The Mexican,4.3,CA$50 for two,Mexican,"1049 Granville Street, Vancouver V6Z1L4",+16045690955,142,59
+33,Downtown,Cibo Trattoria,4.0,CA$100 for two,Italian,"Moda Hotel, 900 Seymour Street, Vancouver V6B 3L9",+16046029570,179,79
+34,Downtown Vancouver,ARC Bar - Fairmont Waterfront,4.0,CA$50 for two,Canadian,"Fairmont Waterfront, 900 Canada Place, Vancouver V6C 3L5",+16046911818,126,207
+35,Downtown,Ramen Gojiro,3.2,CA$30 for two,"Japanese, Ramen","501 Dunsmuir Street, Vancouver V6B 1Y4",+16046730918,128,165
+36,Downtown,Top of Vancouver Revolving Restaurant,3.3,CA$90 for two,Canadian,"Harbour Centre, 555 West Hastings Street, Vancouver V6B 1M1",+16046692220,184,156
+37,Downtown,Rogue Kitchen & WetBar,4.1,CA$80 for two,"Canadian, Grill","Waterfront Station, 601 West Cordova Street, Vancouver V6B1G1",+16046788000,285,106
+38,Downtown,Mean Poutine,3.8,CA$20 for two,Fast Food,"718 Nelson Street, Vancouver V6Z 1L2",+16045684351,149,37
+39,Downtown,Diva at the Met - The Metropolitan,4.1,CA$100 for two,Pacific Northwest,"The Metropolitan, 645 Howe Street, Vancouver V6C2Y9",+16046027788,167,106
+40,Downtown,Hapa Izakaya,3.5,CA$55 for two,"Sushi, Japanese","909 West Cordova Street, Vancouver V6C 3L5",+16044204272,172,159
+41,Coal Harbour,Cactus Club Cafe Bentall 5,4.1,CA$70 for two,Canadian,"588 Burrard St, Vancouver V6C0A8",+16046820933,277,109
+42,Downtown,Kaide Sushi Bar,4.2,CA$30 for two,"Sushi, Japanese, Asian","1375 Richards Street, Vancouver V6B 6M6",+16046815886,111,40
+43,Downtown,Pacifico Pizzeria Ristorante,3.9,CA$50 for two,"Pizza, Italian","970 Smithe Street, Vancouver V6Z1X9",+16044080808,193,74
+44,Downtown,JJ's Restaurant,4.2,CA$50 for two,Pacific Northwest,"Vancouver Community College, 250 West Pender Street, Vancouver V6B1T1",+16044438479,63,74
+45,Downtown,Kita No Donburi,3.7,CA$25 for two,"Sushi, Japanese, Asian","423 Seymour Street, Vancouver V6B1M1",+16046693388,127,83
+46,Downtown,Heritage Asian Eatery,3.4,CA$20 for two,Asian,"1108 W Pender Street, Vancouver, Vancouver V6E 4J6",+17787371108,49,86
+47,Downtown,Kamei Baru Japanese Restaurant,4.0,CA$30 for two,"Japanese, Asian, Tapas","990 Smithe Street, Vancouver V6Z0A4",+16045598588,105,150
+48,Downtown,Scoozis,4.0,CA$80 for two,Mediterranean,"445 Howe Street, Vancouver V6C 2X6",+16046841009,142,38
+49,Downtown,Ancora,3.6,CA$60 for two,"Seafood, Peruvian, Japanese","1600 Howe Street, Suite 2, Vancouver V6Z 2L9",+16046811164,31,77
+50,Downtown,Uva Wine & Cocktail Bar,4.0,CA$75 for two,"Italian, Bar Food","Moda Hotel, 900 Seymour Street, Vancouver V6B",+16046329560,131,48
+51,Downtown,Five Guys,3.7,CA$20 for two,"Fast Food, Burger","635 Robson Street, Vancouver V6B 5J3",+16046851585,157,66
+52,Downtown,Cavo,4.0,CA$60 for two,Mediterranean,"911 Granville Street, Vancouver V6B 1L3",+16045683454,95,79
+53,Downtown,Chang'An,3.7,CA$100 for two,"Chinese, Asian","1661 Granville Street, Vancouver V6Z 1N3",+16046811313,75,91
+54,Downtown,Glowbal,2.9,CA$100 for two,"Canadian, Grill","Telus Garden, 590 West Georgia Street, Vancouver V6E 1A3 2A3",+16046020835,98,193
+55,Downtown,Pokérrito,3.6,CA$20 for two,"Hawaiian, Japanese, Sushi","558 Dunsmuir Street, Vancouver, Vancouver V6B 1Y1",+17783791115,61,63
+56,Downtown,Cinara,3.6,CA$150 for two,"Pacific Northwest, European","350 West Pender Street, Vancouver V6B 1T1",+16044289694,40,70
+57,Downtown,Ha Long Bay,4.0,CA$25 for two,"Vietnamese, Asian","430 West Pender Street, Vancouver V6B1T1",+16045687976,96,53
+58,Downtown,Goldies Pizza,4.0,CA$40 for two,"Pizza, Bar Food","605 West Pender Street, Vancouver V6B 1W7",+16046810650,138,32
+59,Downtown,Tartine Bread and Pies,3.8,CA$30 for two,"Cafe, Bakery","770 Beach Avenue, Vancouver V6Z2N9",+16046857437,82,32
+60,Downtown,Wings,3.6,CA$55 for two,Bar Food,"1162 Granville Street, Vancouver V6B2G6",+16046823473,178,46
+61,Downtown,Ludica Pizzeria & Game Room,3.9,CA$50 for two,"Pizza, Italian","189 Keefer Place, Vancouver V6B 6L4",+16046695552,79,58
+62,Downtown,Earls Test Kitchen,3.8,CA$70 for two,Canadian,"905 Hornby Street, Vancouver V6Z1V3",+16046826700,158,64
+63,Downtown,Royal Dinette,3.4,CA$80 for two,Pacific Northwest,"905 Dunsmuir Street, Vancouver V6C 1A8",+16049748077,37,105
+64,Downtown,Bellaggio Cafe,3.8,CA$70 for two,"Pizza, Italian","773 Hornby Street, Vancouver V6C 1S4",+16044081281,126,46
+65,Coal Harbour,JOEY Bentall One,3.8,CA$70 for two,"Canadian, Bar Food","507 Burrard Street, Vancouver V7X 8A8",+16043432651,157,71
+66,Downtown,Sushi Hiyori,4.1,CA$25 for two,"Sushi, Japanese, Asian","1348 Hornby Street, Vancouver V6Z 1W2",+16046858381,91,25
+67,Downtown,Breka Bakery & Cafe,4.0,CA$25 for two,"Bakery, Cafe","855 Davie Street, Vancouver V6Z 1B7",+16044288080,88,53
+68,Downtown,Frites Granville,3.7,CA$20 for two,"Fast Food, Belgian","1011 Granville Street, Vancouver V6Z 1L5",+16045590550,50,58
+69,Downtown,Gyudon Ya,2.4,CA$25 for two,"Japanese, Asian","500 Robson Street, Vancouver V6Z2H7",+16045690259,146,48
+70,Downtown,Sushi Den,3.3,CA$40 for two,"Sushi, Japanese, Asian","609 Abbott Street, Vancouver V6B 6N7",+16046874422,127,62
+71,Downtown,Smoke's Poutinerie,3.2,CA$20 for two,"Canadian, Fast Food","942 Granville Street, Vancouver V6B6G1",+16048997400,107,40
+72,Downtown,The Chopped Leaf,3.8,CA$25 for two,Healthy Food,"488 Robson Street, Vancouver V6B 2B5",+16046092467,109,39
+73,Downtown,Nero Belgian Waffle Bar,3.7,CA$15 for two,Desserts,"1002 Seymour Street, Vancouver V6B 0G1",+16044289177,53,99
+74,Downtown,Caffe Artigiano,4.0,CA$20 for two,Cafe,"763 Hornby Street, Vancouver V6Z 1S2",+16046947737,153,27
+75,Downtown,Devil's Elbow Ale And Smoke House,3.7,CA$40 for two,BBQ,"562 Beatty Street, Vancouver V6B 2L3",+16045590611,63,42
+76,Downtown,Moose's Down Under,3.8,CA$60 for two,"Australian, Bar Food","830 West Pender Street, Vancouver V6C 2Z4",+16046833300,81,47
+77,Downtown,Sushi Howe,3.7,CA$30 for two,"Sushi, Japanese, Asian","738 Davie Street, Vancouver, Vancouver V6Z",+16045598082,76,64
+78,Downtown,Giardino,3.7,CA$50 for two,Italian,"1328 Hornby Street, Vancouver V6Z V6Z",+16046692422,29,76
+79,Downtown,Laduree,3.4,for two,Bakery,"1141 Robson Street, Vancouver V6E 1B5",Not available for this place,51,87
+80,The Fairmont Hotel Vancouver,Notch8 Restaurant & Bar - The Fairmont Hotel Vancouver,3.6,CA$100 for two,"Pacific Northwest, French","The Fairmont Hotel Vancouver, 900 West Georgia Street, Vancouver V6C 2W6",+16046843131,41,103
+81,Downtown,Donair Dude,3.9,CA$20 for two,"Kebab, Greek, Middle Eastern","1145 Granville Street, Vancouver V6Z 1L5",+16044286699,57,20
+82,Coal Harbour,Cafe Pacifica - Pan Pacific Vancouver,3.3,CA$90 for two,"Pacific Northwest, Seafood","Pan Pacific Vanouver, 999 Canada Place, Suite 300, Vancouver V6C 3B5",+16046628111,70,75
+83,Downtown,The Keg,3.9,CA$90 for two,"Steak, Seafood","688 Dunsmuir Street, Vancouver V6B 1N3",+16046857502,73,91
+84,Downtown,Urban Sushi Japanese Cuisine,3.8,CA$30 for two,"Sushi, Japanese, Asian","562 Granville Street, Vancouver V6C1X6",+16048066218,109,49
+85,Downtown,The Factory,3.7,CA$40 for two,Bar Food,"1017 Granville Street, Vancouver V6Z 1L5",+16046699463,95,33
+86,Downtown,Cafe Crepe Express,3.4,CA$30 for two,"Desserts, Cafe","796 Granville Street, Vancouver V6Z3C3",+16048060834,129,23
+87,Downtown,ZAC.ZAC Japanese Curry House,3.7,CA$20 for two,"Fast Food, Japanese, Asian","H Mart, 590 Robson Street, Vancouver V6B 2B7",+16046082887,64,39
+88,Downtown,Pizza Garden,3.9,CA$25 for two,Pizza,"675 Smithe Street, Vancouver V6B2C9",+16046696656,87,43
+89,Downtown,The Blackbird Public House & Oyster Bar,3.5,CA$80 for two,Seafood,"905 Dunsmuir Street, Vancouver V6C 2G2",+16048994456,72,59
+90,Downtown,Beard Papa's,3.9,CA$10 for two,Desserts,"548 Robson Street, Vancouver V6B 2B7",+16045680058,105,33
+91,Downtown,The Moose,3.8,CA$40 for two,Bar Food,"724 Nelson Street, Vancouver V6Z 1A8",+16046331002,79,20
+92,Downtown,Kung Fu Noodle,3.4,CA$30 for two,"Chinese, Asian","682 Seymour Street, Vancouver V6B",+16045635666,62,58
+93,Downtown,Romano's Pizza,4.0,CA$20 for two,"Pizza, Fast Food","902 Granville Street, Vancouver V6Z",+16045685470,86,30
+94,Downtown,TAKO (Taqueria Koreano),3.4,CA$15 for two,"Fusion, Tex-Mex","601 Expo Boulevard, Vancouver V6B OJ5",+17783797010,38,52
+95,Downtown,One Saigon,3.8,CA$20 for two,"Vietnamese, Asian","979 Hornby Street, Vancouver V6Z1V3",+16046696764,88,37
+96,Downtown,Kingston Taphouse & Grille,3.8,CA$80 for two,"Burger, Bar Food","755 Richards Street, Vancouver V6B3A4",+16046817011,99,17
+97,Downtown,Aladdin Cafe,3.7,CA$25 for two,Mediterranean,"615 Robson Street, Vancouver V6B 5J3",+17788817916,74,37
+98,Downtown,Crave India,3.9,CA$30 for two,Indian,"1019 Granville Street, Vancouver V6Z 1L2",+16045691850,73,9
+99,Downtown,Catfe,3.1,CA$10 for two,Cafe,"88 West Pender Street, Unit 2035, Metro Vancouver, Vancouver V6B 6N9",+17783790060,27,47
+100,Downtown,Bistro Verde,3.3,CA$60 for two,Canadian,"799 Robson Street, Vancouver V7Y 0A2",+16046992100,37,107
+101,Downtown,Copper Chimney Restaurant - Indian Grill & Bar,3.7,CA$75 for two,Indian,"567 Hornby St, Vancouver V6C 2E8 3B2",+16046898862,61,87
+102,Downtown,Vegan Pudding & Co.,3.6,CA$10 for two,Desserts,"422 Suite 101 Richards Street, Vancouver V6B 2Z4",+17783790545,33,25
+103,Downtown,Bay Sushi Cafe,3.6,CA$30 for two,"Sushi, Japanese","678 Seymour Street, Vancouver V6B 3K4",+16048060363,74,37
+104,Downtown,Cham Mani,3.6,CA$25 for two,"Japanese, Korean, Asian","529 West Pender Street, Vancouver V6B 1V5",+16046814422,40,31
+105,Downtown,Chi Modern Vietnamese Kitchen,3.3,CA$25 for two,"Asian, Vietnamese","1935 W 4th Street, Vancouver V6J 1M7",+16043363010,41,46
+106,Downtown,Relish Gastropub & Bar,3.1,CA$70 for two,"Bar Food, Fusion","888 Nelson Street, Vancouver V6Z2R9",+16046691962,66,22
+107,Downtown,St. Regis Bar and Grill,3.7,CA$80 for two,Bar Food,"608 Dunsmuir Street, Vancouver V6B1Y6",+16046965558,61,22
+108,Downtown,Granville Room,3.6,CA$70 for two,Bar Food,"957 Granville Street, Vancouver V6B 2C9",+16046330056,67,21
+109,Downtown,The Bottleneck,2.8,CA$65 for two,"Bar Food, Canadian","870 Granville Street, Vancouver V6B 2C9",+16047394540,30,37
+110,Downtown,Lions Pub,3.3,CA$60 for two,"Bar Food, British","888 West Cordova Street, Vancouver V6C3N8",+16044888602,51,55
+111,Downtown,Fatburger,3.8,CA$25 for two,"Burger, Fast Food","111 Dunsmuir Street, Vancouver V6B 6A3",+16046699640,77,25
+112,Downtown,Two Parrots Perch & Grill,3.6,CA$50 for two,Diner,"1202 Granville Street, Vancouver V6Z1M4",+16046859657,81,6
+113,Downtown,Jako Japanese Restaurant,3.7,CA$30 for two,"Sushi, Japanese, Asian","656 Davie Street, Vancouver V6B5B6",+16046870510,62,19
+114,Downtown,Baghdad Cafe,3.5,CA$20 for two,Middle Eastern,"548 Seymour Street, Vancouver V6B 3J5",+16044282525,43,42
+115,Downtown,Wang Ga Ma,3.5,CA$20 for two,"Fast Food, Korean, Asian","H Mart, 590 Robson Street, Vancouver V6B2B7",+16046872559,50,27
+116,Downtown,Umeda Japanese Cuisine,3.8,CA$25 for two,"Japanese, Asian","1157 Granville Street, Vancouver V6Z 1L8",+16046810009,63,19
+117,Downtown,Hungry Guys Kitchen,3.5,CA$25 for two,Healthy Food,"988 Granville Street, Vancouver V6Z 1L2",+16045597000,28,35
+118,Downtown,Malone's Social Lounge and Tap House,3.5,CA$65 for two,"Canadian, Bar Food","608 West Pender Street, Vancouver V6B1V5",+16046849977,77,10
+119,Downtown,Liuyishou Hotpot Robson,3.2,CA$25 for two,"Asian, Chinese","1542 Robson Street, Vancouver V6G 1C2",+17783793977,30,51
+120,Downtown,Marutama Ra-men,3.7,CA$30 for two,"Japanese, Ramen","270 Robson Street, Metro Vancouver, Vancouver",+16046888837,35,37
+121,Downtown,TWG Tea,3.5,CA$75 for two,"American, Tea","1070 West Georgia Street, Metro Vancouver, Vancouver V6E 2Y2",+16046920071,23,59
+122,Downtown,The Nosherie,3.6,CA$25 for two,"Cafe, Deli","575 West Georgia Street, Vancouver V6B 1Z5",+16045634155,33,40
+123,Downtown,Kokoro Tokyo Mazesoba,3.6,CA$45 for two,Japanese,"551 Seymour St, Vancouver, Vancouver",+16045598872,34,33
+124,Downtown,2001 Flavors Pizza,3.7,CA$15 for two,Pizza,"595 West Pender Street, Vancouver V6B 1V5",+16046898847,42,12
+125,Downtown,Freshii,2.7,CA$25 for two,"Healthy Food, Juices","870 West Cordova Street, Vancouver V6C 3L5",+16045669952,55,25
+126,Downtown,Yagger's,3.5,CA$45 for two,Bar Food,"433 West Pender Street, Vancouver V6B 1V2",+16046027030,54,8
+127,Downtown,Carl's Jr.,3.0,CA$20 for two,Fast Food,"625 Howe Street, Vancouver V6C 2T6",+16046209509,48,15
+128,Downtown,Falafel King,3.4,CA$20 for two,"Middle Eastern, Fast Food","516 Robson Street, Vancouver V6B1A6",+17783792121,57,17
+129,Downtown,Johnnie Fox's Irish Snug,3.8,CA$65 for two,"Irish, Bar Food","1033 Granville Street, Vancouver V6Z 1L2",+16046854946,56,9
+130,Downtown,Yah Yah Ya Ramen,3.2,CA$25 for two,"Ramen, Japanese","570 Robson Street, Vancouver, Vancouver V6B 2B7",+16046201331,34,61
+131,Downtown,Nando's,3.8,CA$25 for two,"Portuguese, African","828 Davie Street, Davie Village, Vancouver V6Z2S2",+16046781217,52,37
+132,Downtown,Caveman Foods And Deli,3.6,CA$15 for two,Cafe,"88 West Pender Street, Vancouver V6B 6N8",+16047806650,30,36
+133,Downtown,Lennox Pub,3.8,CA$70 for two,Bar Food,"800 Granville Street, Vancouver V6B2C9",+16044080881,66,19
+134,Downtown,The Edge Social Grille & Lounge,3.4,CA$50 for two,"Grill, Bar Food, Canadian","1100 Granville Street, Vancouver V6Z2B6",+16046813343,51,33
+135,Downtown,Peaceful Restaurant,3.0,CA$40 for two,Chinese,"602 Seymour Street, Vancouver, Vancouver V6B 1Y1",+16043131333,25,60
+136,Downtown,Roxy Burger,3.2,CA$55 for two,"Burger, Bar Food","910 Granville Street, Vancouver V6B2C9",+16046464000,61,18
+137,Downtown,Curry Fusion Indian Cuisine,3.5,CA$30 for two,"Indian, Fast Food","542 Robson Street, Vancouver V6B 2B7",+16044283600,38,9
+138,Downtown,The Pawn Shop YVR,3.3,CA$30 for two,"Tapas, Mexican","1117 Granville Street, Vancouver V6Z 1M1",+16046877474,19,46
+139,Downtown,Mukja Korean Cuisine,3.4,CA$25 for two,"Fusion, Korean","3211 West Broadway, Metro Vancouver, Vancouver",+16045655006,24,9
+140,Downtown,Russet Shack,3.3,CA$15 for two,"British, Turkish, Fast Food, Mediterranean, Soul Food, Street Food, Eastern European, Irish","288 Robson Street, Metro Vancouver, Vancouver V6B 6A1",+16046830374,21,26
+141,Downtown,Rhinofish Noodle Bar,3.1,CA$30 for two,Seafood,"550 Main St, Vancouver, Vancouver V6A 2T9",+16044283389,29,49
+142,Downtown,24 Train Express Noodle House,2.9,CA$25 for two,"Vietnamese, Cambodian, Asian","550 Nelson Street, Vancouver V6B 1B4",+16045597786,42,24
+143,Downtown,Dalina,3.3,CA$25 for two,"Italian, Coffee and Tea","687 Main Street, Vancouver, Vancouver V6A 2V4",+16044284364,14,41
+144,Downtown,Mucho Burrito,3.1,CA$25 for two,Mexican,"988 Davie Street, Vancouver V6Z 1B7",+16046696666,60,7
+145,Downtown,Daikichi Sushi,3.9,CA$40 for two,"Sushi, Japanese, Asian","1346 Burrard Street, Vancouver V6Z1Z7",+16046882033,41,18
+146,Downtown,The Butcher And Bullock,2.5,CA$70 for two,Bar Food,"911 West Pender Street, Vancouver V6C 3B2",+16046628866,36,24
+147,Downtown,The Rise Eatery,3.5,CA$20 for two,"Fusion, Canadian","3135 Granville Street, Vancouver V6H 3K1",+16045598280,20,39
+148,Downtown,H2 Rotisserie & Bar,3.4,for two,"American, Canadian, Beverages","1601 Bayshore Drive, Metro Vancouver, Vancouver",+16046916966,6,56
+149,Downtown,Mr. Greek Donair Town,3.9,CA$20 for two,"Greek, Fast Food","1173 Granville Street, Vancouver V6Z1M1",+16049099494,34,12
+150,Downtown,White Spot,3.5,CA$50 for two,Canadian,"718 Drake Street, Vancouver V6Z1M9",+16046050045,42,38
+151,Downtown,Honolulu Coffee,3.5,CA$25 for two,Cafe,"888 Nelson Street, Vancouver, Vancouver V6Z 2H1",+17783796607,17,23
+152,Downtown,Sushi Home,3.3,CA$25 for two,"Sushi, Japanese, Asian","509 Dunsmuir Street, Vancouver V6B 3K4",+16046898808,39,29
+153,Downtown,Hai Phong Vietnamese Kitchen,3.4,CA$30 for two,"Vietnamese, Asian","186 Keefer Place, Vancouver V6B",+16045598897,32,16
+154,Downtown,Megabite Pizza,3.6,CA$20 for two,"Pizza, Fast Food","1005 Granville Street, Vancouver V6Z",+16046870002,53,23
+155,Downtown,Rue 909 Sushi,3.3,CA$25 for two,"Sushi, Japanese, Asian","909 Dunsmuir Street, Vancouver V6C 2G2",+16048066275,40,20
+156,Downtown,Gong Cha,2.9,CA$10 for two,"Bubble Tea, Juices","386 Robson Street,, Vancouver",Not available for this place,29,18
+157,Downtown,The Morrissey Pub,3.8,CA$55 for two,"Bar Food, Irish","1227 Granville Street, Vancouver V6Z 1M5",+16046820909,43,21
+158,Downtown,O Sushi,2.7,CA$40 for two,"Sushi, Japanese, Asian","742 Granville Street, Vancouver V6Z 1E4",+16045598345,28,28
+159,Downtown,Arisu Korean BBQ,3.5,CA$25 for two,Korean,"4501 North Road, Unit 203, Burnaby, Vancouver V3N 4R7",+16044220500,22,26
+160,Downtown,Pita Wrap Cafe,3.9,CA$20 for two,Mediterranean,"565 Dunsmuir Street, Vancouver V6B3K4",+16046817634,34,9
+161,Downtown,Red Burrito,3.5,CA$25 for two,"Mexican, Fast Food","606 Robson Street, Vancouver V6B 2B9",+16046760097,43,18
+162,Downtown,Patterson Wonton House,3.4,CA$20 for two,"Chinese, Asian","917 Davie Street, Vancouver V6Z",+16046886868,32,1
+163,Downtown,Lemongrass Thai Bistro,2.9,CA$25 for two,"Thai, Asian","1081 Granville Street, Vancouver V6Z1L4",+16044283018,30,13
+164,Downtown,Chihuahua's Mexican Grill,2.5,CA$30 for two,Mexican,"515 Seymour Street, Vancouver V69 69H",+16044288226,25,38
+165,Downtown,Moii Cafe,3.3,CA$30 for two,"Cafe, Bubble Tea, Desserts","505 West Pender, Vancouver V5Z 3Y6",+16044285578,9,15
+166,Downtown,Speakeasy,2.8,CA$80 for two,Bar Food,"921 Granville Street, Vancouver V6Z1L3",+16046855531,41,7
+167,Downtown,Meet Fresh,3.1,CA$20 for two,Desserts,"1232 Robson Street, Vancouver, Vancouver V6E 1C2",+17788681666,20,25
+168,Downtown,La Mezcaleria,2.9,CA$60 for two,Mexican,"68 E Cordova Street, Vancouver V6A 1K2",+17783796447,8,35
+169,Downtown,Truffles Fine Foods Cafe,3.5,CA$25 for two,Cafe,"785 Davie Street, Vancouver",+17783799785,14,21
+170,Downtown,Thai Express,3.7,CA$20 for two,"Fast Food, Thai, Asian","Pacific Centre, Food Court, 701 West Georgia Street, Vancouver V7Y1H4",+16046828038,43,11
+171,Downtown,Sidecar Kitchen + Bar,3.4,CA$90 for two,"Seafood, Bar Food","1163 Granville Street, Vancouver V6Z 1L5",+17782513335,15,16
+172,Downtown,Saigon Venture,3.7,CA$25 for two,"Vietnamese, Asian","1310 Burrard Street, Vancouver V6Z2B7",+16046058908,29,7
+173,Downtown,E-Mo,3.5,CA$20 for two,"Korean, Asian, Fast Food","H Mart, 590 Robson Street, Vancouver V6B2B7",+16046872559,25,17
+174,Downtown,Taf's Cafe and Gallery,2.7,CA$40 for two,"Italian, Canadian","829 Granville Street, Vancouver V6B2C9",+16046848900,33,4
+175,Downtown,Pokerrito,3.1,CA$30 for two,"Asian, Hawaiian, Seafood","991 Hornby Street, Vancouver",+16046209099,19,25
+176,Downtown,Big Bowl Rice,3.5,CA$20 for two,"Taiwanese, Chinese, Asian","505 Dunsmuir Street, Vancouver V6B 1Y4",+16046208038,16,12
+177,Downtown,Ricky's All Day Grill,2.9,CA$50 for two,"Grill, Bar Food","104-1111 Dunsmuir Street, Vancouver V6B6A3",+16046029233,28,17
+178,Downtown,The Victor,3.0,CA$35 for two,Steak,"39 Smithe St, Vancouver, BC V6B 0R3, Vancouver",+17783708600,13,28
+179,Downtown,Vina Vietnamese,3.0,CA$25 for two,"Vietnamese, Asian, Fast Food","Pacific Centre, Food Court, 701 West Georgia Street, Vancouver V6C2T8",Not available for this place,38,20
+180,Downtown,Flaming Wok,2.5,CA$20 for two,"Fast Food, Chinese, Asian","Pacific Centre, Food Court, 701 West Georgia Street, Vancouver V6C2T8",+16046886533,28,4
+181,Downtown,Sun Tin Day Cafe,-,CA$20 for two,Hong Kong Style,"5137 Victoria Drive, Vancouver, BC V5P 3V1, Canada, Vancouver",+116043366168,2,45
+182,Downtown,G Sports Bar & Grill,3.2,CA$60 for two,"Bar Food, American","1208 Granville Street, Vancouver V6B2G6",+16046877684,28,8
+183,Downtown,CoCo Fresh Tea & Juice,3.0,for two,"Coffee and Tea, Juices","609 W Pender Street, Vancouver, Vancouver V6B 1W7",+16043360929,22,11
+184,Downtown,La Prep,3.5,CA$25 for two,Healthy Food,"Waterfront Station, 601 West Cordova Street, Vancouver V6B1G1",+16044288828,8,38
+185,Downtown,Purdy's Chocolates,3.8,CA$15 for two,Desserts,"Pacific Centre, Food Court, 700 West Georgia Street, Vancouver",+16046833467,26,16
+186,Downtown,Davie Dosa Company,3.4,for two,South Indian,"1235 Davie Street, Vancouver, BC V6E 1N4, Canada, Vancouver",+16046695899,22,16
+187,Downtown,Number E Food,3.5,CA$20 for two,"Sandwich, Beverages","1308 Burrard Street, Vancouver",+16045596863,13,5
+188,Downtown,Falafel Town,3.3,CA$20 for two,"Middle Eastern, Fast Food","1009 Granville Street, Vancouver V6Z",+16048015822,26,6
+189,Downtown,Kim House Japanese Bistro,3.3,CA$30 for two,"Sushi, Japanese, Asian","538 Seymour Street, Vancouver V6B3K4",+16046898883,25,7
+190,Downtown,Sushi Maki,2.9,CA$30 for two,"Sushi, Japanese, Asian","989 Hornby Street, Vancouver V6Z2E1",+16046890111,24,9
+191,Downtown,Blenz Coffee,3.8,CA$20 for two,"Cafe, Coffee and Tea","700 Davie Street, Vancouver V6B2G6",+16045591700,21,23
+192,Downtown,Quantum Coffee,3.1,CA$20 for two,Cafe,"455 Granville St, Vancouver, BC V6C 1T1, vancouver, Metro Vancouver, Vancouver",+16043688400,11,30
+193,Downtown,Paramount Fine Foods,3.5,CA$30 for two,Middle Eastern,"560, Robson St, Vancouver BC V6B 2B7, Vancouver",+116046999323,15,21
+194,Downtown,Ryuu Japanese Kitchen,3.2,CA$40 for two,"Sushi, Japanese","757 Seymour Street, Vancouver",+16042330306,11,37
+195,Downtown,Numero Uno Pizza,2.5,CA$25 for two,"Pizza, Fast Food","708 Davie Street, Vancouver V6Z",+16049159797,27,3
+196,Downtown,Art of Spice,3.2,CA$30 for two,Indian,"1355 Hornby Street, Vancouver V6Z 1W7 1W7",+17783793439,16,14
+197,Downtown,Doux Crepes,3.6,CA$30 for two,"French, European","1371 Richards Street, Vancouver V6B6M6",+16046838890,23,12
+198,Downtown,Najia Restaurant,2.9,CA$25 for two,"Chinese, Asian Fusion","1018 Beach Avenue, Metro Vancouver, Vancouver V6E 1T7",+17783793787,6,12
+199,Downtown,Ice Dream Cafe,2.8,CA$10 for two,"Ice Cream, Desserts","531 Richards Street, Vancouver V6B",+16046006457,11,10
+200,Downtown,Umi Sushi Express,2.2,CA$20 for two,"Sushi, Japanese, Asian, Fast Food","Pacific Centre, Food Court, 701 West Georgia Street, Vancouver V7Y1H4",+16046339228,24,16
+201,Downtown,Caffe di Beppe,3.5,CA$10 for two,Cafe,"2 West Cordova, Vancouver, British Columbia, Metro Vancouver, Vancouver",+16045646599,6,18
+202,Downtown,One Under,3.4,CA$40 for two,Canadian,"476 Granville Street, Vancouver V6C 1V4",+16045594653,10,53
+203,Downtown,Tokyo Joe's,3.6,CA$25 for two,"Sushi, Japanese, Asian","955 Helmcken Street, Vancouver V6Z 2S5",+16046890073,16,9
+204,Downtown,Splash Bistro,2.4,CA$30 for two,"Chinese, Canadian, Asian","Edgewater Casino, 750 Pacific Boulevard, Vancouver V6Z2R8",+16046873343,6,28
+205,Downtown,La Taqueria,3.4,CA$25 for two,Mexican,"586 Hornby Street, Vancouver, Vancouver V6C 3B6",+16045650511,12,18
+206,Downtown,A&W,2.8,CA$20 for two,Fast Food,"778 Robson Street, Vancouver V6Z1A2",+16045692479,19,20
+207,Downtown,Firecrust Neapolitan Pizzeria,3.5,CA$25 for two,Pizza,"808 Davie Street, Vancouver, Vancouver V6Z 2S2",+17783799646,12,4
+208,Downtown,Donair Stop,3.0,CA$20 for two,"Kebab, Fast Food","898 Granville Street, Vancouver V6B 2C9",+16045638185,13,10
+209,Downtown,Holts Café,2.8,CA$15 for two,Canadian,"CF Pacific Centre, 737 Dunsmuir Street, Vancouver V7Y 1E4",+16046780316,5,28
+210,Downtown,Uncle Fatih's Pizza,3.1,CA$25 for two,"Pizza, Fast Food","625 Nelson Street, Vancouver",+16045634040,11,20
+211,Downtown,Babylon Cafe,3.8,CA$20 for two,Mediterranean,"770 Nelson Street, Vancouver V6Z2H2",+16045687379,17,3
+212,Downtown,Pizza Guys,2.7,CA$25 for two,"Pizza, Fast Food","1232 Howe Street, Vancouver V6Z1B7",+16046826666,19,3
+213,Downtown,Sushi Coen,3.7,CA$20 for two,Sushi,"1306 Burrard Street, Vancouver",+17783791523,9,14
+214,Downtown,Cafe One - Sheraton Vancouver Wall Centre Hotel,2.4,CA$90 for two,Canadian,"Sheraton Vancouver Wall Centre Hotel, 1088 Burrard Street, Vancouver V6Z 4K3",+16048937362,12,13
+215,Downtown,Boston Pizza,3.4,CA$45 for two,"Pizza, Bar Food","869 Hornby Street, Vancouver V6Z 1T9",+16046815540,10,40
+216,Downtown,Monster Sushi,-,CA$25 for two,"Japanese, Korean, Sushi","1184 Denman Street, Suite 202, Vancouver V6G 2M9",+16046099999,3,21
+217,Downtown,Yandoux Patisserie,3.6,CA$20 for two,Desserts,"1731 Manitoba St, Vancouver, BC V5Y 0H8, Vancouver",+16046201899,6,13
+218,Downtown,Musette Caffe,3.4,CA$20 for two,"Cafe, Sandwich","1325 Burrard Street, Vancouver, Vancouver V6Z 2B7",+16043361159,9,12
+219,Downtown,Tea  Impression,-,for two,"Tea, Coffee and Tea, Desserts, Patisserie","165-8171 Ackroyd road, Richmond, Metro Vancouver, Vancouver V6X 3K1",+16042859399,0,4
+220,Downtown,Manoush'eh,3.1,CA$20 for two,Lebanese,"620 Davie Street, Vancouver V6B 2G5",+16044404402,10,11
+221,Downtown,Krung Tiep Thai Cuisine,3.2,CA$25 for two,Thai,"809 Seymour Street, Vancouver V6B 3L4",+16046827000,7,15
+222,Downtown,Jugo Juice,3.2,CA$20 for two,"Juices, Beverages, Fast Food","Pacific Centre, Food Court, 701 West Georgia Street, Vancouver V7Y1H4",+16046828716,20,30
+223,Downtown,Poke Station,3.1,CA$20 for two,Hawaiian,"500 W Broadway Unit 102, Vancouver, Vancouver V5Z 1E9",+17788469527,11,3
+224,Downtown,Foodwares Market,2.6,CA$20 for two,"Sushi, Sandwich, Healthy Food","Inside the Bay, 674 Granville Street, Vancouver V6C3J3",+16046816211,7,20
+225,Downtown,Shiny Tea - International Village,2.8,CA$15 for two,"Cafe, Taiwanese, Bubble Tea","2113 - 88 W Pender Street, Vancouver, Vancouver V6B 6N8",+16042824999,10,12
+226,Downtown,Take Five Cafe,3.0,CA$20 for two,Cafe,"Pacific Centre, 700 West Georgia Street, Vancouver V7Y1H4",+16046979060,19,23
+227,Downtown,Burger King,2.8,CA$20 for two,"Burger, Fast Food","821 Granville Street, Vancouver V6Z 1K9",+16046818895,15,71
+228,Downtown,OPA!,3.5,CA$20 for two,"Fast Food, Greek","Pacific Centre, Food Court, 701 West Georgia Street, Vancouver V7Y1H4",+16046460456,23,3
+229,Downtown,Tsujiri Richmond,3.3,CA$30 for two,Japanese,"1535-4777 Mcclelland Road, Richmond, Vancouver",+16043704956,7,10
+230,Downtown,Waves Coffee,3.4,CA$20 for two,Cafe,"492 West Hastings Street, Vancouver V6B",+16045688568,17,18
+231,Downtown,Caribbean Hut Express,3.2,CA$25 for two,"Caribbean, Pizza, Fast Food","1117 Hornby Street, Vancouver V6Z1V8",+16044286160,13,2
+232,Downtown,Tim Hortons,3.1,CA$20 for two,"Fast Food, Cafe","463 Robson Street, Vancouver",+16046055490,10,23
+233,Downtown,Pita Express,2.8,CA$25 for two,"Fast Food, Mediterranean","Waterfront Centre, Food Court, 200 Burrard Street, Vancouver V6C3L5",+16046814848,16,6
+234,Downtown,Domino's,3.1,CA$20 for two,"Pizza, Fast Food","916 Seymour Street, Vancouver V6B3L9",+16046835800,12,6
+235,Downtown,Hida Takayama Ramen,3.0,CA$20 for two,"Ramen, Japanese","5615 Harold Street, Vancouver, Vancouver V5R 4J9",+16044331303,4,6
+236,Downtown,Stretch Roman Pizza Co.,3.3,for two,Pizza,"415 Abbott Street, Vancouver, Vancouver V6B 2L2",+1778-379-6400,5,12
+237,Downtown,New York Fries,3.7,CA$15 for two,"Fast Food, American","700 W Georgia St, Vancouver V7Y 1E8",+16046814930,16,17
+238,Downtown,Grade A Restaurant,3.0,CA$20 for two,Diner,"1175 Granville Street, Vancouver V6B2G6",+16046697495,13,3
+239,Downtown,Pita Pit,3.8,CA$20 for two,Fast Food,"995 Granville Street, Vancouver V6B2C9",+16046817482,18,8
+240,Downtown,Freshslice Pizza,2.9,CA$20 for two,"Pizza, Fast Food","771 Davie St, Vancouver V6Z 2S7",+1604669-0001,20,12
+241,Downtown,"Chengdu Spicy Restaurant, Burnaby",3.0,CA$35 for two,Sichuan,"6, 4300 Kingsway, Burnaby, Vancouver V5H 1Z8",+17783792226,6,13
+242,Downtown,Hooked  Poke Bar,3.0,CA$25 for two,Hawaiian,"995 Hornby Street, Vancouver, Vancouver V6Z 3G5",+16045657653,10,4
+243,Downtown,Comebuy,3.4,CA$15 for two,"Cafe, Bubble Tea, Taiwanese","4500 Kingsway, Unit 1650, Burnaby, Vancouver V5H 2A9",+17788061158,9,2
+244,Downtown,McDonald's,2.5,CA$20 for two,Fast Food,"891 Granville Street, Vancouver V6B2C9",+16047181062,16,10
+245,Downtown,Did's Pizza,2.8,for two,Pizza,"575 Dunsmuir Street, Vancouver",+16046202424,8,11
+246,Downtown,Faculty Brewing Co.,3.2,for two,Drinks Only,"1830 Ontario Street, Vancouver V5T 2W6",+17788196794,8,7
+247,Downtown,Johnny Rockets,3.1,CA$10 for two,Fast Food,"755 Nelson Street, Vancouver V6Z",+16046201144,8,5
+248,Downtown,The Narcissus,3.5,CA$20 for two,Cafe,"Suite 109, 1701 Powell Street, Vancouver, Vancouver V5L 0A2",Not available for this place,4,16
+249,Downtown,Otaru Japanese Kitchen,3.1,CA$25 for two,"Japanese, Korean","168 - 8180 No 2 Rd, Richmond, BC V7E 1J5, Metro Vancouver, BC, Vancouver",+16043701887,7,7
+250,Downtown,Pallet Coffee Roasters,3.2,CA$20 for two,Cafe,"2002 w Broadway, BC, Metro Vancouver, Vancouver",+16047362687,7,18
+251,Downtown,Lucky Taco,2.7,CA$25 for two,Mexican,"1685 Yew Street, Vancouver V6K 3E6",+16047394677,10,7
+252,Downtown,Victoria's Health and Organic Bar,3.7,CA$25 for two,"Juices, Beverages, Healthy Food","857 Hornby Street, Vancouver V6Z1T9",+16044288824,8,8
+253,Downtown,Ramen Koika,2.8,CA$30 for two,"Asian, Japanese, Ramen","1479 Robson St, Vancouver, BC V6G 1C1, Vancouver",+16044286117,8,11
+254,Downtown,Insalata,3.2,CA$20 for two,Healthy Food,"Pacific Centre, Food Court, 701 West Georgia Street, Vancouver V7Y1H4",+16046330863,9,6
+255,Downtown,Haiyi Seafood Restaurant,3.0,CA$25 for two,"Canadian, Seafood","4818 Main Street, Metro Vancouver, Vancouver",+16043214448,6,6
+256,Downtown,Cultured Coffee & Tea,3.7,CA$20 for two,Cafe,"80 678 Dunsmuir Street, Vancouver V7Y1K8",+16045692970,8,6
+257,Downtown,Taco Time,3.6,CA$20 for two,"Fast Food, Mexican","Pacific Centre, Food Court, 701 West Georgia Street, Vancouver V7Y1H4",+16044081833,8,12
+258,Downtown,Starbucks,3.5,CA$20 for two,Cafe,"930 Burrard Street, Vancouver V6Z3G5",+16046834464,10,18
+259,Downtown,Cavino - Residence Inn Mariott,3.6,CA$50 for two,Canadian,"Residence Inn Mariott, 1234 Hornby Street, Vancouver V6Z1W2",+16046881234,9,5
+260,Downtown,Oceans 999 - Pan Pacific Vancouver,3.5,for two,"Pacific Northwest, Italian, Seafood","Pan Pacific Vancouver  Suite 300-999, 
+Canada Place, Vancouver V6C 3B5",+16046628111,7,17
+261,Downtown,Elysian Coffee,3.4,for two,Cafe,"The Burrard Hotel, 102-1100 Burrard Street, Vancouver",Not available for this place,5,6
+262,Downtown,Habitant,3.7,CA$60 for two,Tapas,"799 Robson Street, Vancouver V7Y 0A2",+16046992100,6,25
+263,Downtown,Kulinarya Filipino Eatery,3.5,CA$25 for two,Filipino,"1134 Commercial Dr, Vancouver, Vancouver",+16042554155,7,4
+264,Downtown,TAPshack Eatery,-,for two,Canadian,"1199 W Cordova Street, Vancouver, Vancouver V6E 4R5",+16046876455,3,6
+265,Downtown,The Alley,3.0,CA$15 for two,"Bubble Tea, Taiwanese","985 Hornby Street, Downtown, Vancouver",Not available for this place,9,2
+266,Downtown,Incognito Coffee,3.4,for two,Cafe,"823 Granville Street, Metro Vancouver, Vancouver",+16044283888,5,15
+267,Downtown,UnWind,2.5,CA$50 for two,Canadian,"Holiday Inn & Suites, 1110 Howe Street, Vancouver V6Z2Y6",+16046236856,4,22
+268,Downtown,Mirai Sushi Restaurant,2.4,CA$30 for two,"Japanese, Korean","117 W Pender Street, Vancouver",+17783792588,4,5
+269,Downtown,Thai Away Home,3.6,for two,Thai,"1081 Granville Street, Vancouver V6Z 1L4",+16044285195,4,10
+270,Downtown,Dairy Queen (Treat),3.6,CA$20 for two,"Fast Food, Desserts","D014a-701 Georgia Street West, Vancouver V7Y 1H4",+16046329540,10,13
+271,Downtown Vancouver,Spencer's Resto Lounge - Delta Vancouver Suites,-,CA$75 for two,"Bar Food, Canadian","Delta Vancouver Suites, 550 West Hastings Street, Vancouver V6B1L6",+16046898188,2,10
+272,Downtown,Ta Bom Korean Cuisine,3.2,CA$25 for two,Korean,"1536 Robson St, Vancouver, Vancouver",+17783551717,7,6
+273,Downtown,Flying Wedge Pizza Co.,3.1,CA$20 for two,"Pizza, Fast Food","Waterfront Centre, Food Court, 200 Burrard Street, Vancouver V6C3L5",+16046811122,8,8
+274,Downtown,The SportsBar Live At Rogers Arena,3.0,CA$30 for two,"Canadian, Bar Food","99 West Georgia Street, Vancouver, Vancouver V6B 1Z3",+16048776787,5,5
+275,Downtown,Charisma Cafe & Dessert House,-,CA$10 for two,Cafe,"101-181 Keefer Pl, Vancouver, BC V6B 6C1, Canada, Vancouver",+16046204688,2,3
+276,Downtown,H-Mart Cafe,-,CA$15 for two,"Bakery, Asian","H Mart, 580 Robson Street, Vancouver",+16046094567,2,15
+277,Downtown,Silk Dinner Lounge and Restaurant,3.6,CA$40 for two,"French, Indian","132 Powell St, Vancouver, BC V6A 1G1, Vancouver",+17783796900,4,4
+278,Downtown,BC Kitchen,2.4,CA$30 for two,Bar Food,"39 Smithe St, Vancouver, BC V6B 0R3, Vancouver",+17783708300,5,2
+279,Downtown,Teppan Kitchen,3.5,for two,Japanese,"555 West Hastings, Vancouver V6B",+17783791988,4,4
+280,Downtown,La Taqueria Pinche Taco Shop,3.6,CA$25 for two,Mexican,"2521 Main St, Vancouver, BC V5T 3E5, Vancouver",+16046204011,5,7
+281,Downtown,Koya Japan,3.7,CA$20 for two,"Fast Food, Japanese, Asian","Pacific Centre, Food Court, 701 West Georgia Street, Vancouver V7Y 1H4",+16046845692,9,4
+282,Downtown,Andwich,-,CA$20 for two,"Sandwich, Fast Food","2255 Burrard Street, Vancouver, Vancouver V6J 5A5",+16047732250,1,10
+283,Downtown,Menya Raizo,3.4,CA$20 for two,Ramen,"401 West Broadway, Vancouver, BC V5Y 4A8, Vancouver",+16048290697,4,9
+284,Downtown,Dae Ji,3.5,CA$20 for two,"Steak, Burger","519 Dunsmuir St, Vancouver, BC V6B 1Y4, Vancouver",+16049683333,4,5
+285,Downtown,Ramen Kobo,3.5,CA$35 for two,"Japanese, Ramen, Tapas","7080 River Road Richmond, Metro Vancouver, BC, Vancouver",+16042856262,5,7
+286,Downtown,Rad Tea Room,3.3,CA$20 for two,"Bubble Tea, Desserts","80-678 Dunsmuir Street Vancouver, BC, Vancouver",+16045597238,4,3
+287,Downtown,Ammerose Internet Cafe,3.7,CA$20 for two,Caribbean,"1290 Howe Street, Vancouver V6Z1B7",+16045684198,7,4
+288,Downtown,Festal Cafe,2.9,CA$30 for two,Cafe,"433 Granville Street, Downtown, Vancouver, Vancouver",+16046203663,4,6
+289,Downtown,Prego Coffee & Deli,2.9,CA$20 for two,Cafe,"1625 Hornby Street, Vancouver V6Z2T4",+16046053888,5,7
+290,Downtown,Qoola,2.8,CA$15 for two,"Frozen Yogurt, Desserts","Pacific Centre, Food Court, 701 West Georgia Street, Vancouver",+16045584660,6,22
+291,Downtown,Nordstrom E-Bar,2.8,CA$20 for two,Cafe,"Inside Nordstrom, 799 Robson Street, Vancouver",+16046992100,4,6
+292,Downtown,Darryl's Coffee Shop,3.4,CA$15 for two,Cafe,"945 Davie Street, Vancouver V6Z",+16046895354,7,2
+293,Downtown,Rice Burger,-,CA$15 for two,Burger,"2630 Sasamat St, Vancouver, Vancouver",+16047169686,1,9
+294,Downtown,Luppolo Brewing Company,-,CA$25 for two,Drinks Only,"1123 Venables Street, Vancouver, Vancouver V6A 2C6",+16042554997,3,4
+295,Downtown,Taps & Tacos,-,for two,"Tex-Mex, Mexican","91 Moody Streat, Metro Vancouver, Vancouver",+16049981656,3,0
+296,Downtown,Subway,2.2,CA$25 for two,Fast Food,"Waterfront Station, 601 West Cordova Street, Vancouver V6B1M1",+16046092473,5,15
+297,Downtown,M8,3.3,CA$35 for two,Asian Fusion,"1010 Beach Ave, Downtown, Vancouver",+16046209586,4,1
+298,Downtown,Miku,-,CA$80 for two,"Japanese, Sushi, Seafood","200 Granville Street #70, Downtown, Vancouver, Vancouver",+16045683900,3,3
+299,Downtown,Happy Lemon,3.0,CA$10 for two,Bubble Tea,"1188 Robson Street Vancouver, BC, Vancouver",+16044281858,4,4
+300,Downtown,Forêt Noire Pâtisserie,-,CA$20 for two,Bakery,"236 W Broadway, Metro Vancouver, BC, Vancouver",+1236521.3640,2,1
+301,Downtown,Kaori Izakaya,3.7,CA$50 for two,"Sushi, Japanese","3043 Main St, Vancouver, Canada, Vancouver",+16046755053,4,2
+302,Coal Harbour,Cascades Lounge & Bistro - Pan Pacific Vancouver,-,CA$130 for two,"Steak, Pacific Northwest, Seafood","Pan Pacific Vancouver, 300-999 Canada Place, Vancouver",+16048952480,2,4
+303,Downtown,Bubble Waffle Cafe,3.0,for two,"Coffee and Tea, Desserts","15277 100 Avenue, Surrey, Vancouver V3R 8X2",+16045853399,5,1
+304,Downtown,Gon's Izakaya,-,CA$50 for two,Japanese,"854 Denman Street, Vancouver, BC V6G 2L8, Vancouver",+16045596404,2,12
+305,Downtown,Sushi & Roll,-,CA$30 for two,"Sushi, Japanese, Asian, Fast Food","Inside H Mart, 590 Robson Street, Vancouver",+16046094567,3,6
+306,Downtown,shanghai fortune cuisine,-,CA$25 for two,Shanghai,"4533 Kingsborough Street, Burnaby, Vancouver V5H 4V3",Not available for this place,1,7
+307,Downtown,Choco Coo Cafe,-,CA$25 for two,"Cafe, Desserts","7488 Lansdowne Road Suite 135, Richmond, BC V7C 0B9, Vancouver",+16042856000,3,0
+308,Downtown,Hula Poke,-,CA$20 for two,Hawaiian,"701 W Georgia Street, Unit FC 14, Vancouver, BC V7Y 1A1, Vancouver",+16046209410,2,5
+309,Downtown,Manpuku,-,CA$15 for two,Japanese,"288 E Pender St, Vancouver, Vancouver",+16046870849,3,0
+310,Downtown,Japadog,-,CA$15 for two,"Fusion, Japanese","1000-7899 Templeton Station Road, Richmond, Vancouver V7B 0B7",Not available for this place,1,5
+311,Downtown,Sushi Aji,-,CA$25 for two,Japanese,"3339 Kingsway Vancouver, BC, Vancouver",+16044346319,3,12
+312,Downtown,Salty’s Lobster Shack,-,CA$25 for two,Canadian,"3161 Ontario St, Vancouver, BC V5T 2Z1, Vancouver",+17788914509,3,2
+313,Downtown,T-Go Tea,-,CA$10 for two,Bubble Tea,"4720 Mcclelland Road #1810, Richmond, BC V6X 0M6, Vancouver",+16043329111,3,4
+314,Downtown,Persian Tea House,-,CA$40 for two,"Tea, Cafe, Iranian","668 Davie Street, Vancouver",+16046816672,3,3
+315,Downtown,Burgoo,-,CA$55 for two,"French, European","101-1100 Burrard Street, Vancouver, BC V6Z 1Y9, Vancouver",+16044161444,1,11
+316,Downtown,Cactus Club Cafe Broadway + Ash,-,for two,"Cafe, Fast Food","575 W Broadway, Downtown, Vancouver, Vancouver V5Z 1E6",+116047146000,1,6
+317,Downtown,Non Stop Pizza,-,for two,Pizza,"6665 Fraser Street, Vancouver V5X 3T5",+16043241500,1,11
+318,Downtown,Crumb Sandwich Shop,-,for two,Sandwich,"401 Industrial Avenue, Vancouver, Vancouver V6A 2P8",+16047246315,2,3
+319,Downtown,Tandoori Oven Restaurant,-,CA$30 for two,Indian,"6452 Main Street, Vancouver, BC V5W 2V4, Vancouver",+16045653355,3,4
+320,Downtown,CACAO 70 Dip Shop,-,CA$10 for two,"Desserts, Ice Cream","115-3866 Bayview St, Richmond, BC V7E 3B6, Vancouver",+16043707072,1,2
+321,Downtown,Quiznos,2.8,CA$25 for two,"Fast Food, Sandwich","Pacific Centre, Food Court, 701 West Georgia Street, Vancouver V7Y1E8",+16046820558,4,11
+322,Downtown,Sweet Mandarin,-,CA$30 for two,Chinese,"630 Davie Street, Vancouver",+16044880399,1,0
+323,Downtown,DUNDAS Eat + Drink,-,CA$50 for two,"Asian Fusion, Pan Asian","2077 Dundas Street, Vancouver, BC V5L 1J5, Vancouver",+16044201200,3,6
+324,Downtown,Centro,-,CA$30 for two,Italian,"1037 Denman St, Vancouver, BC V6G 2M4, Vancouver",+16047229331,2,3
+325,Downtown,Assembli,-,CA$25 for two,"Pizza, Salad","160-1066 W Hastings St, Vancouver, BC V6E 4M1, Vancouver",+16046813003,2,2
+326,Downtown,Blaze Pizza,3.4,CA$30 for two,Pizza,"955 Granville Street, Vancouver, British Columbia, Vancouver",+16046709438,4,0
+327,Downtown,Tractor Foods,-,CA$20 for two,Healthy Food,"547 Robson St, Vancouver, BC V6B 1A6, Vancouver",+16042222557,3,1
+328,Downtown,BAMBU Dessert,-,CA$15 for two,"Desserts, Vietnamese","1090 Kingsway, Vancouver, BC V5V 3C6, Vancouver",+16043369009,2,0
+329,Downtown,Brewhall,-,CA$50 for two,"Bar Food, Fast Food","97 East 2nd Avenue, Vancouver, BC V5T 1B3, Vancouver",+16047098623,3,4
+330,Downtown,Karakoram Restaurant,-,CA$30 for two,Pakistani,"6990 Victoria Drive, Vancouver, BC V5P 3Y8, Vancouver",+16047371000,3,4
+331,Downtown,Colette Grand Café at Holt Renfrew Vancouver,-,CA$40 for two,French,"Holt Renfrew Vancouver, 737 Dunsmuir Street, Vancouver, BC V7Y 1E4, Vancouver",+16046780316,2,4
+332,Downtown,Ugly Dumpling,-,CA$25 for two,Asian,"1590 Commercial Drive, Vancouver, Vancouver",+16042580005,1,12
+333,Downtown,8090 Fruit Parlour,-,CA$10 for two,"Desserts, Beverages","3520 Kingsway, Vancouver, Vancouver V5R 5L7",+16044331333,1,0
+334,Downtown,Friends BBQ Chinese Style Grill,-,for two,"BBQ, Chinese","3129 Kingsway, Vancouver",+16042498456,1,7
+335,Downtown,CupBop,-,CA$15 for two,Korean,"995 Hornby Street, Vancouver V6Z 1V3",+17783215353,2,0
+336,Downtown,SKK Italy,-,CA$25 for two,Mediterranean,"Waterfront Station, 16-601 West Cordova Street, Vancouver",+16046888606,2,3
+337,Downtown,My Toan Vietnamese Gourmet,-,CA$25 for two,"Vietnamese, Asian","Waterfront Centre, 200 Burrard Street, Vancouver",+17788775624,2,3
+338,Downtown,Starbucks Reserve Bar,-,CA$20 for two,"Coffee and Tea, Cafe","700 W Pender Street, Vancouver, BC V6C 1X6, Vancouver",+16046857373,2,2
+339,Downtown,Nook,-,CA$50 for two,Italian,"195 W 2nd Avenue, Vancouver, BC V5Y 4A1, Vancouver",+16044286428,3,3
+340,Downtown,Pajo's Fish & Chips,-,CA$30 for two,Fish and Chips,"Vancouver International Airport International Terminal Building, Richmond, BC V7B 0A4, Vancouver",+16042387816,2,5
+341,Downtown,Abdul BBQ & Shawarma,-,CA$25 for two,Mediterranean,"88 W Pender Street, Suite 2009, Vancouver V6B 0C9",+16042888992,2,1
+342,Downtown,Mr. Osmad Souffle Cheescake,-,CA$15 for two,Desserts,"770 Bute Street, Vancouver, BC V6E 1C2, Vancouver",+16048060945,1,0
+343,Downtown,Punto Pasta,-,CA$25 for two,Italian,"1795 Robson Street, Vancouver V6G 1C9",+16045590300,1,0
+344,Downtown,Doner Spot,-,CA$20 for two,Kebab,"980 Granville St, Vancouver, BC V6Z 1L2, Vancouver",+16046889893,0,4
+345,Downtown,Active Body Express,-,for two,Juices,"201-610 Granville Street, Vancouver V6C 3T3",+17783794521,1,4
+346,Downtown,BC's Best Coffee,-,CA$20 for two,Cafe,"788 Drake Street, Vancouver",+16049001568,2,1
+347,Downtown,Famous Wok,-,CA$20 for two,"Fast Food, Chinese, Asian","Waterfront Centre, Food Court, 200 Burrard Street, Vancouver V6C2G8",+16045669729,1,2
+348,Downtown,Grace of India,-,CA$35 for two,Indian,"1284 Kingsway, Vancouver, BC V5V 3E1, Vancouver",+16044288742,1,0
+349,Downtown,Waffle Time,-,CA$25 for two,"Desserts, Cafe","995 Hornby Street, Vancouver",+16045650047,1,0
+350,Downtown,Yi Fang Taiwan Fruit Tea,-,CA$10 for two,"Bubble Tea, Taiwanese","2-1725 Robson St, Vancouver, Vancouver",+16043039998,3,0
+351,Downtown,Filipino Style Carinderia,-,for two,Filipino,"4942 Joyce Street, British Columbia, Metro Vancouver, Vancouver",+16045642055,2,0
+352,Downtown,Patsara Thai Downtown,-,CA$35 for two,Thai,"809 Seymour Street, Vancouver, BC V6B 3L4, Vancouver",+1117783796488,1,0
+353,Downtown,Masarang,-,CA$30 for two,"Korean, Asian, Fast Food","Inside H Mart, 590 Robson Street, Vancouver",+16046094567,2,1
+354,Downtown,Peaceful Restaurant,-,CA$20 for two,Chinese,"3320 Kingsway, British Columbia, Metro Vancouver, Vancouver",+16044281168,2,1
+355,Downtown,Calabria Meat Market,-,CA$15 for two,Canadian,"5223 Victoria Drive, Metro Vancouver, Vancouver V5P 3V4",+16043240118,0,3
+356,Downtown,Vietnam House,-,CA$25 for two,Vietnamese,"2122 East Hastings Street, Vancouver",+16042511268,2,2
+357,Downtown,Old Beijing Roast Duck,-,CA$35 for two,Chinese,"1643 W Broadway, Vancouver, BC V6J 1W9, Vancouver",+16045598556,2,4
+358,Downtown,Tasty Donair,-,CA$20 for two,Middle Eastern,"446 W 8th Avenue, Vancouver V5T 1S7",+16045962277,2,0
+359,Downtown,What The Pho,-,CA$25 for two,"Vietnamese, Seafood","13655 72 Ave, Surrey, BC, Vancouver",+16045035855,2,0
+360,Downtown,La Cantina,-,CA$25 for two,Mexican,"722 Nelson Street, Vancouver, BC V6Z 1A8, Vancouver",+16046208981,1,1
+361,Downtown,Chi Noodle Bar,-,CA$20 for two,Ramen,"6019 West Boulevard, Vancouver, BC V6M 3X2, Vancouver",+116044288631,0,3
+362,Downtown,WildTale,-,CA$65 for two,Seafood,"165 W 2nd Ave, Vancouver, Metro Vancouver, Vancouver",+16048005253,1,7
+363,Downtown,Dosa Hut,-,CA$25 for two,Indian,"7233 Fraser St, Vancouver, BC V5X 1R7, Vancouver",+16046695899,2,0
+364,Downtown,Royal Pho Restaurant,-,CA$25 for two,Vietnamese,"7056 Kerr Street, Vancouver, Vancouver",+16044364831,1,1
+365,Downtown,PappaRoti,-,CA$15 for two,Cafe,"193 Keefer Pl Unit 103, Vancouver, BC V6B 6C1, Vancouver",+16046202867,1,2
+366,Downtown,Hail Mary's,-,CA$30 for two,"Mexican, Italian","670 E Broadway, Vancouver, Vancouver",+16048297032,1,1
+367,Downtown,Bao Down UBC,-,CA$25 for two,Asian Fusion,"6065 University Boulevard, Vancouver, Vancouver",+16042228300,1,4
+368,Downtown,Black.,-,CA$25 for two,Pub Food,"526 Abbott Street Vancouver, BC V6B 2L1, Vancouver",+16045596402,1,6
+369,Downtown,Rayhan,-,for two,Mediterranean,"3170 Oak Street, Vancouver, BC V6H 2L1, Vancouver",+16047313553,1,0
+370,Downtown,Gillaneh Grill House,-,CA$45 for two,Iranian,"1072 Denman Street, Vancouver, BC V6G 2M8, Vancouver",+16045646699,1,0
+371,Downtown,Souvlaki & co,-,CA$20 for two,Greek,"1074 Davie St, Vancouver, BC V6E 1M3, Vancouver",+16045596544,1,0
+372,Downtown,Home Deli Noodle,-,CA$15 for two,Ramen,"105-4800 Number 3 Road Richmond, BC V6X 3A6, Vancouver",+16042843390,1,4
+373,Downtown,Cacao 70  Dippery,-,CA$15 for two,Desserts,"433 Abbott Street, Vancouver, BC V6B 1R3, Vancouver",+16044285799,1,1
+374,Downtown,Presotea,-,CA$10 for two,Bubble Tea,"F12-650 W41st Avenue, Vancouver, BC V5Z 2M9, Vancouver",+16045595799,1,0
+375,Downtown,La Baguette et Compagnie,-,CA$20 for two,"French, Bakery, Desserts","1102 Davie Street, Vancouver, BC V6E 1X4, Vancouver",+16046848003,1,4
+376,Downtown,Donnellan's Chipper,-,CA$15 for two,"Irish, Fast Food","1224 Granville St, Vancouver, Vancouver",+16043314302,1,5
+377,Downtown,Chef Hung Taiwanese Beef Noodle,-,CA$20 for two,"Asian, Chinese, Taiwanese","2028 41st Avenue West, Vancouver V6M 1Y8",+17783798865,1,0
+378,Downtown,Cherry's Food House,-,CA$35 for two,Korean,"1015-8580 Alexandra Road, Richmond, BC V6X 4B3, Vancouver",+17785882000,0,0
+379,Downtown,RMD Oriental Rice Noodle,-,CA$25 for two,Chinese,"130-8100 Ackroyd Road, Richmond, BC V6X 3K2, Vancouver",+16043703738,1,4
+380,Downtown,Polonia Sausage House Ltd.,-,CA$15 for two,"Eastern European, Polish","4286 Fraser Street, Vancouver V5V 4G2",+16048721521,0,0
+381,Downtown,Cucina Piccolo Italian Restaurant,-,CA$35 for two,Italian,"130-3760 Moncton Street, Richmond, BC V7E 3A6, Vancouver",+16043705550,0,0
+382,Downtown,The Study Public House,-,CA$45 for two,"American, Canadian","8888 University Drive, Maggie Benston Centre Burnaby, Vancouver",+16043369933,1,0
+383,Downtown,Sushi @ Tea-Mo,-,CA$35 for two,Japanese,"1095, 4000 No.3 Road, Richmond, Vancouver",+17789992238,1,0
+384,Downtown,Laki Poke,-,CA$25 for two,Hawaiian,"509 W Broadway, Vancouver, BC V6J 1W6, Vancouver",+17783282815,1,0
+385,Downtown,The Keg Steakhouse + Bar - Dunsmuir,-,CA$80 for two,Steak,"688 Dunsmuir Street, Vancouver",+16046857502,0,0
+386,Downtown,Railway Stage and Beer Cafe,-,CA$60 for two,Canadian,"579 Dunsmuir Street, Vancouver, BC V6B 1Y4, Vancouver",+116045641430,0,0
+387,Downtown,Electric Bicycle Brewing,-,CA$40 for two,Bar Food,"20 East 4th Avenue, Vancouver, BC V5T 1E8, Vancouver",+16047099939,1,2
+388,Downtown,Sushi Bros,-,CA$35 for two,"Sushi, Japanese","380 Robson Street, Vancouver, BC V6B 2B2, Vancouver",+16044285866,1,0
+389,Downtown,Tacofino Oasis,-,CA$35 for two,Mexican,"122-1050 W Pender Street, Vancouver, BC V6E 4T3, Vancouver",+16044288453,0,0
+390,Downtown,Uncle Fatih’s Pizza,-,CA$25 for two,Pizza,"6045 University Boulevard, Vancouver, BC V6T 1Z4, Vancouver",+16044286253,0,0
+391,Downtown,Sushi Nami Japanese Fusion,-,CA$40 for two,"Japanese, Sushi","1184 Denman Street, Suite 202, Vancouver, Vancouver V6G 2M9",+16046099999,0,0
+392,Downtown,Sencha Tea Lounge,-,CA$15 for two,"Bubble Tea, Coffee and Tea","3468 W Broadway, Vancouver, BC V6R 2B3, Vancouver",+16044289866,0,0
+393,Downtown,Don Francesco Ristorante,-,CA$60 for two,Italian,"909 W Cordova St, Vancouver, BC V6C 0A7, Vancouver",+17788580026,1,0
+394,Downtown,Indian Junction Bar &amp; Grill,-,CA$50 for two,"Indian, Grill","3364 Cambie Street, Vancouver, BC V5Z 2W5, Vancouver",+16048756999,0,0
+395,Downtown,Galiano Bakery & Café,-,CA$20 for two,"Cafe, Coffee and Tea","3211 Grant McConachie Way Suite 3330, Vancouver International Airport, Vancouver V7B 0A4",+16042318761,0,0
+396,Downtown,Marci's Bar & Grill,-,for two,Italian,"102 Erie Street S, Devon, Vancouver T9G 1X6",+17809870244,0,0
+397,Downtown,Ocean Park Donairs,-,CA$35 for two,Lebanese,"12867 16 Ave, Surrey, BC, Vancouver",+16045480000,0,0
+398,Downtown,Honolulu Coffee,-,CA$15 for two,Bakery,"2098 W 41st Ave, Vancouver, Vancouver",+16046202168,0,0
+399,Downtown,Tim Hortons,-,CA$20 for two,Cafe,"490 Hornby Street Unit 101, Vancouver",+16049740347,0,1
+400,Downtown,Saigon Xua Vancouver,-,for two,Canadian,"1257 Hamilton St, Downtown, Vancouver, Vancouver",+16044234121,0,6
+401,Downtown,The Italians,-,CA$50 for two,Italian,"1220 Bute Street, Vancouver, BC V6E 1Z8, Vancouver",+16045595034,0,0
+402,Downtown,Be Fresh Cafe,-,CA$15 for two,"Cafe, Juices","955 Burrard Street, Vancouver V6Z 1Y2",+16045685919,0,0
+403,Downtown,Lion Hot Pot,-,CA$35 for two,"Chinese, Taiwanese","1356 Marine Drive, North Vancouver, BC V7P 1T4, Vancouver",+16049998669,0,0
+404,Downtown,Tim Hortons,-,CA$20 for two,Cafe,"800 Griffiths Way, Vancouver",+18886011616,0,1
+405,Downtown,Nordstrom Ebar Artisan Coffee,-,CA$15 for two,Coffee and Tea,"799 Robson Street, Vancouver V7Y 0A2",+16046992100,0,9
+406,Downtown,Express Pho,-,CA$25 for two,Vietnamese,"1455 West Broadway, Vancouver, BC V6H 1H6, Vancouver",+16045596778,0,0
+407,Downtown,Vietmex Cuisine,-,CA$20 for two,"Vietnamese, Mexican","1310 Burrard St. Vancouver BC, V6Z 2B7, Vancouver",+16046058908,0,6
+408,Downtown,New York Fries,-,CA$15 for two,"Fast Food, American","2002 Park Royal S, West Vancouver, BC V7T 2W4, Vancouver",+16042810780,0,0
+409,Downtown,Orange Julius,-,CA$15 for two,"Fast Food, Juices, Beverages","Pacific Centre, Food Court, 701 West Georgia Street, Vancouver",+16046329540,0,3
+410,Downtown,Kanzo Sushi,-,CA$35 for two,"Sushi, Japanese","82 Keefer Pl, Vancouver, BC V6B 6C1, Vancouver",+16045684500,0,0
+411,Downtown,Hashtag Donair,-,CA$25 for two,Middle Eastern,"20009 Industrial avenue, Metro Vancouver, Vancouver V3A 4K6",+16045101978,0,0
+412,Downtown,Montana,-,CA$50 for two,"BBQ, Burger","604 Carlton Trail, Metro Vancouver, Vancouver",+13068082600,0,0
+413,Downtown,Chachi’s Pacific,-,CA$15 for two,Sandwich,"701 West Georgia Street, Vancouver, BC V7Y 1G5, Vancouver",+16045599991,0,0
+414,Downtown,Kishu River Japanese Restaurant,-,CA$30 for two,"Japanese, Sushi","542 Robson Street, Vancouver V6B 2B7",+16044338857,0,0
+415,Downtown,Starbucks,-,CA$20 for two,"Cafe, Coffee and Tea","Sheraton Wall Centre, 1088 Burrard Street, Vancouver, Vancouver V6Z 2R9",+18007827282,0,0
+416,Downtown,The Pokéman Kakigori Cafe & Poke Shop,-,CA$25 for two,"Hawaiian, Japanese","3735 W 10th Avenue, Vancouver, BC V6R 2G5, Vancouver",+16044287653,0,0
+417,Downtown,Go Go Sushi,-,CA$35 for two,Sushi,"1850 Oceola Road, Lake Country, BC V4V 2T5, Vancouver",+17784801600,0,0
+418,Downtown,Pita Pit,-,CA$15 for two,"Fast Food, Sandwich","94 Hampton Rd, Rothesay, NB E2E 2P5, Vancouver",+15068477482,0,0
+419,Downtown,Maojiao Bobo Fish,-,CA$35 for two,Seafood,"4200 Number 3 Road Suite 132, Richmond, BC V6X 2C2, Vancouver",+17782390019,0,0
+420,Downtown,New York Fries,-,CA$15 for two,Fast Food,"2002 Park Royal South, Metro Vancouver, Vancouver",+16042810780,0,0
+421,Downtown,West Coast Poke,-,CA$40 for two,"Fast Food, Hawaiian","3030 - 11666 Steveston Hwy, Richmond, Metro Vancouver, Vancouver",+17782971138,0,3
+422,Downtown,Chatime Alexandra,-,CA$15 for two,"Beverages, Bubble Tea","160-8351 Alexandra Road, Richmond, BC V6X 1C3, Vancouver",+16043704266,0,0
+423,Downtown,Cafe Medina,4.5,CA$40 for two,European,"780 Richards Street, Vancouver V6B 3A6",+16048793114,0,656
+424,Downtown,Twisted Fork Bistro,4.5,CA$40 for two,"Canadian, French","213 Carrall St, Vancouver, BC V6B 2J2, Canada, Vancouver V6B 2G6",+16045680749,0,216
+425,Downtown,Finch's Tea & Coffee House,4.6,CA$35 for two,Cafe,"353 West Pender Street, Vancouver V6B 1T1",+16048994040,411,119
+426,Downtown,Bel Cafe - Rosewood Hotel Georgia,4.2,CA$30 for two,"Cafe, Desserts","Rosewood Hotel Georgia, 801 West Georgia Street, Vancouver V6C 3G1",+16046737000,325,185
+427,Downtown,The Dirty Apron,4.3,CA$60 for two,Pacific Northwest,"540 Beatty Street, Vancouver V6B 2L3 2L3",+16048798588,201,119
+428,Downtown,Mink Chocolates,4.2,CA$20 for two,"Cafe, Desserts","863 West Hastings Street, Vancouver V6C1Z7",+16046332451,248,100
+429,Downtown,Jam Café,3.8,for two,American,"556 Beatty Street, Vancouver V6B 2L3",+17783791992,109,210
+430,Downtown,The Refinery,3.8,CA$50 for two,"Bar Food, Tapas","1115 Granville Street, Vancouver V6B 1M1",+16046878001,149,60
+431,Downtown,Roaming Dragon,3.7,CA$25 for two,Asian Fusion,"Location Varies, Vancouver V6Z",+16046393335,180,63
+432,Downtown,Sciue,4.1,CA$25 for two,"Cafe, Bakery, Italian","800 West Pender Street, Vancouver V6C2V6",+16046027263,153,33
+433,Downtown,The Poke Guy,3.7,CA$25 for two,Hawaiian,"420 Richards Street, Vancouver V6B 2Z4",+17783798455,35,15
+434,Downtown,JINYA Ramen Bar,3.7,for two,"Japanese, Ramen","541 Robson St, Vancouver, Vancouver V6B 2B7",Not available for this place,60,98
+435,Downtown,Mott 32,3.2,CA$100 for two,Chinese,"1161 W Georgia Street, Vancouver, Vancouver V7Y 1K8",+16049798886,26,84
+436,Downtown,Creme de la Crumb Bakeshop,3.9,CA$20 for two,"Cafe, Bakery","466 Granville Street, Vancouver V6C 1V4",+16047872050,74,42
+437,Downtown,Gallery Cafe,3.8,CA$30 for two,"Cafe, Coffee and Tea","Inside Vancouver Art Gallery, 750 Hornby Street, Vancouver V6Z 2H7",+16046882233,75,33
+438,Coal Harbour,Fujiya,3.8,CA$20 for two,"Sushi, Japanese","1050 W Pender Street, Suite 112, Vancouver, Vancouver V6E 4T3",+16046081050,69,22
+439,Downtown,Koala Kebabs Donairs,4.0,CA$25 for two,"Kebab, Fast Food","519 West Pender Street, Vancouver V6B1V3",+16045690052,53,20
+440,Downtown,Field & Social,3.4,CA$30 for two,"Healthy Food, Salad","415 Dunsmuir Street, Vancouver V6B 1X4",+17783796500,20,25
+441,Downtown,Peqish,3.6,CA$20 for two,Cafe,"552 Seymour Street, Vancouver V6B3J5",+16046813999,29,34
+442,Downtown,Coo Coo Coffee,4.0,CA$20 for two,"Cafe, Coffee and Tea","477 Davie Street, Vancouver V6B 2G2",+16046050938,55,21
+443,Downtown,Indigo Age Cafe,3.7,CA$30 for two,Healthy Food,"436 Richards Street, Vancouver",+16046221797,27,32
+444,Downtown,Smile Diner,2.9,CA$25 for two,"Diner, Chinese, Asian","424 West Pender Street, Vancouver V6B1T1",+16046819911,46,24
+445,Downtown,Nosh,2.9,CA$20 for two,Cafe,"Telus Garden, 101-510 West Georgia Street, Vancouver V6B 0M3",+16044496674,26,29
+446,Downtown,Tacofino White Lightning,3.7,CA$25 for two,Mexican,"Location Varies, Vancouver V6C",+16042538226,31,31
+447,Downtown,Shogun,3.1,CA$30 for two,"Japanese, Asian","518 Hornby Street, Vancouver V6C2E8",+16046892922,50,21
+448,Downtown,Spin Roll Sushi,3.8,CA$25 for two,"Sushi, Japanese, Asian","535 West Pender Street, Vancouver V6B1V5",+16048016363,40,8
+449,Downtown,Jang Mo Jib,3.1,CA$45 for two,Korean,"469 RIchards Street, Vancouver V6B1Y2",+17783790712,33,22
+450,Downtown,Koyuki Sapporo Ramen,2.9,for two,Ramen,"795 Jervis Street, Vancouver V6E 2B1",+16046959177,30,21
+451,Downtown,Lux Lounge,3.2,CA$55 for two,Bar Food,"1180 Howe Street, Vancouver V6Z1P6",+16045595533,24,24
+452,Downtown,Cora Breakfast and Lunch,3.1,CA$30 for two,Diner,"1368 Robson Street, Vancouver",+16046882672,16,12
+453,Downtown,Nourish Vancouver,3.3,CA$30 for two,Healthy Food,"Inside Chopra Yoga Center, 451 Granville Street, Vancouver V6C1T1",+17783893411,9,14
+454,Coal Harbour,O'Love Bistro,3.4,CA$40 for two,Mediterranean,"Bentall 1, 1050 West Pender Street, Vancouver",+16045635691,18,11
+455,Downtown,YaYa Cafe And Bubble Tea,3.8,CA$20 for two,"Bubble Tea, Sandwich","1020 Howe Street, Vancouver V6Z2H2",+16045684875,13,2
+456,Downtown,India Abroad,3.2,CA$20 for two,"Fast Food, Indian","International Food Fair, Food Court, 530 Hornby Street, Vancouver V6C3B6",+16046846047,22,7
+457,Downtown,The Federal Store,3.5,CA$10 for two,"Cafe, Coffee and Tea","2601 Quebec Street, Vancouver V5T 3A6 3A6",+1778379-2605,9,24
+458,Downtown,Pho Express,3.3,CA$25 for two,"Fast Food, Vietnamese, Asian","International Food Fair, Food Court, 530 Hornby Street, Vancouver V6C3B6",+16046699996,21,8
+459,Downtown,Chancho Tortilleria,3.7,CA$25 for two,Mexican,"1206 Seymour Street, Vancouver V6B",+16044288494,9,8
+460,Downtown,Sandwich Plus Wrap,3.8,CA$20 for two,"Healthy Food, Sandwich","International Food Fair, Food Court, 530 Hornby Street, Vancouver V6C3B6",+16046827565,10,9
+461,Coal Harbour,Koffie,3.8,CA$15 for two,Cafe,"Bentall 1, 1050 West Pender Street, Vancouver V6E4T3",+16046810611,12,10
+462,Downtown,Healthfare,-,CA$25 for two,Healthy Food,"Harbour Centre, Food Court, 555 West Hastings Street, Vancouver",+16048994433,1,41
+463,Downtown,Crossroads Cafe,3.4,CA$25 for two,Cafe,"160-777 Hornby Street, Vancouver V6C 1S4",+16046623677,5,26
+464,Downtown,Bibiko,3.5,CA$20 for two,"Fast Food, Korean, Asian","International Food Fair, Food Court, 530 Hornby Street, Vancouver V6C 2E7",Not available for this place,12,6
+465,Downtown,Mario's Coffee Express,3.7,CA$20 for two,Cafe,"595 Howe Street, Vancouver V6C1N5",+16046082804,16,14
+466,Downtown,Smokehouse Sandwich,3.0,CA$30 for two,"Sandwich, Deli","Cathedral Place, 140-925 West Georgia Street, Vancouver",+16046200766,12,29
+467,Downtown,La Vallee,2.9,CA$20 for two,Canadian,"Executive Hotel Vintage Park, 1379 Howe Street, Vancouver V6Z2R5",+16046966980,16,3
+468,Downtown,Sushi Cafe Kitchen,3.4,CA$20 for two,"Sushi, Japanese, Asian","Vancouver Centre Mall, 650 West Georgia Street, Vancouver V6B 4N9",+16046304430,10,2
+469,Downtown,Fortune Lamb Dining,-,CA$30 for two,Chinese,"3-3377 Kingsway, Metro Vancouver, Vancouver",+16044308818,3,22
+470,Downtown,L'Atelier Patisserie,3.1,for two,"Desserts, Cafe","260 East 5th Ave, Vancouver, British Columbia, Metro Vancouver, Vancouver",+117786890264,4,11
+471,Downtown,Nippo Teppanyaki,3.1,CA$25 for two,"Japanese, Asian","International Food Fair, 530 Hornby Street, Vancouver V6C3B6",+16045690160,8,10
+472,Coal Harbour,Sushi Tei,2.6,CA$20 for two,"Sushi, Japanese, Asian","Bentall 1, 1050 West Pender Street, Vancouver V6E4T3",+16046880196,12,7
+473,Downtown,Herbs & Spices Cafe,3.6,CA$30 for two,Diner,"Ground Floor, 925 West Georgia St., Vancouver V6C 3L2",+16046814325,7,46
+474,Downtown,888 Caffe Express,3.7,CA$20 for two,Cafe,"125-888 Dunsmuir Street, Vancouver V6C2G2",+16046833600,9,11
+475,Downtown Vancouver,Manhattan Restaurant - Delta Vancouver Suites,3.2,CA$50 for two,Canadian,"Delta Vancouver Suites, Level 2, 550 West Hastings Street, Vancouver V6B1L6",+16048993049,8,5
+476,Coal Harbour,GreenDay Salad,3.5,CA$20 for two,"Sandwich, Healthy Food","Bentall 1, 1050 West Pender Street, Vancouver V6E4T3",+16046899079,9,4
+477,Downtown,Little Japan,2.3,CA$20 for two,"Fast Food, Japanese, Asian","Harbour Centre, Food Court, 555 West Hastings Street, Vancouver V6B1M1",+16045633326,13,2
+478,Downtown,Meinhardt Fine Foods,3.0,CA$15 for two,Sandwich,"609 Granville Street, Vancouver V7Y 1E8",+16046818175,6,19
+479,Downtown,L2 Cafe,3.1,CA$35 for two,Italian,"Sinclair Centre, Inside Leone, 350 Howe Street, Vancouver V6C 1B4",+16046859327,7,9
+480,Downtown,The Taste and See Shop,-,CA$20 for two,"Cafe, Coffee and Tea","129-1628 West 1st Avenue, Vancouver V6J 1G1",+16047301155,3,15
+481,Coal Harbour,Hiro Japan,2.9,CA$25 for two,"Sushi, Japanese, Asian, Fast Food","Bentall 4, Food Court, 1055 Dunsmuir Street, Vancouver V7X",+16046690468,9,3
+482,Downtown,Republica Coffee Roasters,3.3,CA$10 for two,"Cafe, Coffee and Tea","321 West Pender, Metro Vancouver, Vancouver V6B 1T3",Not available for this place,4,5
+483,Coal Harbour,Triple O's,2.9,CA$25 for two,Fast Food,"Bentall 4, 1055 Dunsmuir Street, Vancouver V7X",+16046881699,7,16
+484,Downtown,Angus T,3.3,CA$20 for two,Bakery,"1036 Mainland St, Vancouver, BC V6B 2T4, Vancouver",+16045595989,5,2
+485,Downtown,Nature's Fair,3.2,CA$20 for two,Healthy Food,"Waterfront Centre, Food Court, 200 Burrard Street, Vancouver V6C3L5",+16046830216,7,5
+486,Downtown,Edelweiss Deli,3.6,CA$20 for two,"Deli, Sandwich","406 Hornby Street, Vancouver V6C2Y2",+16046883354,10,2
+487,Downtown,Nusa Coffee,3.3,CA$15 for two,"Cafe, Coffee and Tea, Sandwich","2766 W 4th Avenue, Vancouver, Vancouver V6K 1R1",+17783794733,5,7
+488,Downtown,Rice 'n Spice,3.4,CA$20 for two,"Indian, Middle Eastern","Harbour Centre, Food Court, 555 West Hastings Street, Vancouver V6B4N5",+16045633143,7,5
+489,Downtown,Java Cat Cafe,3.1,CA$20 for two,Cafe,"515 Hamilton Street, Vancouver V6B1T1",+16046823040,7,3
+490,Downtown,Ki-Isu,-,CA$25 for two,"Fast Food, Sushi, Japanese, Asian","International Food Fair, 530 Hornby Street, Vancouver",+16045583116,3,7
+491,Coal Harbour,Be Fresh Local Market,-,CA$20 for two,"Juices, Healthy Food, Cafe","Bentall 4, 1055 Dunsmuir Street, Vancouver V7X",+16045691242,3,18
+492,Downtown,Parker Street Cafe,-,CA$15 for two,Cafe,"985 Windermere Street, Vancouver V5K 4J6",+17788591331,2,5
+493,Coal Harbour,Second Cup,3.0,CA$20 for two,Cafe,"Bentall 3, 312-555 Burrard Street, Vancouver V7X1M9",+16046881735,4,9
+494,Downtown,Potato Tornado Shack,2.7,CA$20 for two,American,"909 Mainland Street, Vancouver, Vancouver V6B 1S4",+116043479208,5,1
+495,Coal Harbour,Fortune Express,2.8,CA$20 for two,"Fast Food, Chinese, Asian","Bentall 1, Food Court, 106-555 Burrard Street, Vancouver V6C3A8",+16046832288,5,4
+496,Coal Harbour,Chop n Toss,3.8,CA$25 for two,Healthy Food,"Bentall 3, 595 Burrard Street, Vancouver V7X",+16048990978,6,4
+497,Downtown,Railtown Cafe,-,CA$30 for two,"Cafe, Bakery","429 Granville Street, Vancouver",+16045595950,2,5
+498,Coal Harbour,Fresh Counter and Catering,3.7,CA$25 for two,"Sandwich, Healthy Food","Bentall 4, 1055 Dunsmuir Street, Vancouver V7X",+16046889344,6,3
+499,Downtown,Hainanese Chicken House,-,CA$20 for two,Malaysian,"530 Hornby Street, Vancouver V6C 2E7",+17783790476,2,2
+500,Downtown,Taco Del Mar,3.4,CA$20 for two,"Mexican, Fast Food","Harbour Centre, Food Court, 555 West Hastings Street, Vancouver V6B",+16045637576,5,11

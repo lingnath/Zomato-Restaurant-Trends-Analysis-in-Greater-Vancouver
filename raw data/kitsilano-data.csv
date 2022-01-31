@@ -1,0 +1,227 @@
+,Location,Name,Rating,Price Range,Cuisine Type,Address,Phone Number,Num Reviews,Num Photos
+0,Kitsilano,Fable Kitchen,4.8,CA$70 for two,"Canadian, Seafood","1944 W 4th Avenue, Vancouver V6J 1M5",+16047321322,830,354
+1,Kitsilano,Maenam,4.2,CA$55 for two,"Thai, Asian","1938 West 4th Avenue, Vancouver V6J 1M5",+16047305579,584,301
+2,Kitsilano,The Naam,4.0,CA$40 for two,"Canadian, Asian Fusion, Asian","2724 W 4th Avenue, Vancouver V6K 1R1",+16047387151,951,219
+3,Kitsilano,The Eatery,3.9,CA$40 for two,"Sushi, Japanese","3431 W Broadway, Vancouver V6R 2B3",+16047385298,807,139
+4,Kitsilano,La Quercia,4.6,CA$70 for two,Italian,"3689 West 4th Avenue, Vancouver V6R1N8",+16046761007,339,77
+5,Kitsilano,AnnaLena,4.3,CA$70 for two,Pacific Northwest,"1809 West 1st Avenue, Vancouver V6J 5B8",+17783794052,173,274
+6,Kitsilano,Las Margaritas Restaurant,4.1,CA$55 for two,Mexican,"1999 West 4th Avenue, Vancouver V6J 1M7",+16047347117,704,167
+7,Kitsilano,Green Leaf Sushi,4.2,CA$40 for two,"Sushi, Japanese, Asian","3416 W Broadway, Vancouver V6R 2B3",+16045689406,188,235
+8,Kitsilano,Chewies,4.2,CA$80 for two,Seafood,"2201 W 1st Avenue, Vancouver V6K 1E9",+16045584448,393,149
+9,Kitsilano,Rain or Shine Ice Cream,4.5,CA$15 for two,"Ice Cream, Desserts","102-1926 West 4th Avenue, Vancouver V6J1M6",+16044287246,355,128
+10,Kitsilano,Romer's,4.2,CA$45 for two,"Burger, Bar Food","1873 West 4th Avenue, Vancouver V6J 3H3",+16047329545,475,170
+11,Kitsilano,Trattoria Italian Kitchen,4.2,CA$60 for two,Italian,"1850 W 4th Avenue, Vancouver V6J 1M3 1M3",+16047321441,472,162
+12,Kitsilano,Raisu,4.0,CA$55 for two,Japanese,"2340 West 4th Avenue, Vancouver V6K 1P1",+16046201564,98,308
+13,Kitsilano,Zest,4.3,CA$80 for two,"Sushi, Japanese, Asian","2775 West 16th Avenue, Vancouver V6K3X5",+16047319378,150,188
+14,Kitsilano,Sweet Obsession,4.3,CA$20 for two,"Desserts, Bakery, Cafe","2611 West 16th Avenue, Vancouver V6K3C2",+16047390555,295,146
+15,Kitsilano,Banana Leaf,4.2,CA$45 for two,"Malaysian, Asian","3005 West Broadway, Vancouver V6K 2G9",+16047343005,380,134
+16,Kitsilano,Bishop's,4.4,CA$130 for two,Pacific Northwest,"2183 West 4th Avenue, Vancouver V6K 4S2",+16047382025,173,46
+17,Kitsilano,Ramen Danbo,4.0,CA$35 for two,"Ramen, Japanese, Asian","1833 West 4th Avenue, Vancouver V6J 1M4",+17783798977,183,163
+18,Kitsilano,Dark Table,4.1,CA$80 for two,Canadian,"2611 West 4th Avenue, Vancouver V6K 3V9",+16047393275,225,18
+19,Kitsilano,720 Sweets,3.2,for two,"Desserts, Ice Cream","3278 West Broadway, Vancouver V6K 2H4",+16046201172,93,161
+20,Kitsilano,Temaki Sushi,4.2,CA$40 for two,"Sushi, Japanese, Asian","2156 West Broadway, Vancouver V6K2E4",+16047384321,227,99
+21,Kitsilano,Au Comptoir,3.9,CA$95 for two,"French, European","2278 West 4th Avenue, Vancouver V6K 1N8",+16045692278,102,104
+22,Kitsilano,Bistro Pastis,3.8,CA$80 for two,French,"2153 West 4th Avenue, Vancouver V6K4S2",+16047315020,171,84
+23,Kitsilano,BiBo Pizzeria con Cucina,3.5,CA$75 for two,"Pizza, Italian","1835 West 4th Avenue, Vancouver V6J 3H3",+16045686177,255,90
+24,Kitsilano,Novo Pizzeria and Wine Bar,4.1,CA$80 for two,"Pizza, Italian","2118 Burrard Street, Vancouver V6J 3H6",+1604736-2220,171,135
+25,Kitsilano,Burgoo,4.1,CA$55 for two,"French, European","2272 West 4th Avenue, Vancouver V6K1P2",+16047343478,198,93
+26,Kitsilano,Nook,3.9,CA$50 for two,"Italian, Pizza","1525 Yew Street, Vancouver V6K3E5",+16047340099,112,59
+27,Kitsilano,Kibune Sushi,4.1,CA$40 for two,"Sushi, Japanese, Asian","1508 Yew Street, Vancouver V6K3E5",+16047314482,129,75
+28,Kitsilano,Siegel's Bagels,4.3,CA$25 for two,"Cafe, Bakery","Donegal Place, 1883 Cornwall Avenue, Vancouver V6J1C7",+16047378151,182,34
+29,Kitsilano,Local  Kitsilano,3.9,CA$60 for two,Bar Food,"2210 Cornwall Ave, Vancouver V6K 1B5",+16047343589,193,50
+30,Kitsilano,Kinome,3.8,CA$40 for two,"Sushi, Japanese, Asian","2511 West Broadway, Vancouver",+17783791925,46,135
+31,Kitsilano,Connie's Cook House,4.2,CA$35 for two,"Chinese, Asian","2135 W 4th Avenue, Vancouver V6K 1N7",+16047380980,149,12
+32,Kitsilano,O5 Rare Tea Bar,3.9,CA$15 for two,"Beverages, Tea","2208 West 4th Avenue, Vancouver V6K 1P2",+16045580500,71,36
+33,Kitsilano,La Cigale French Bistro,3.9,CA$55 for two,French,"1961 West 4th Avenue, Vancouver V6J 1M7",+16047320004,99,57
+34,Kitsilano,Al Basha,4.0,CA$20 for two,"Kebab, Mediterranean, Fast Food","3143 West Broadway, Vancouver V6K 2H2",+16045688841,110,16
+35,Kitsilano,Hi-Nippon Japanese,3.8,CA$40 for two,"Sushi, Japanese, Asian","2274 W 4th Avenue, Vancouver V6K 1P2",+16047361766,170,45
+36,Kitsilano,Indian Oven,3.9,CA$45 for two,Indian,"2006 West 4th Avenue, Vancouver V6J 1M7",+16047305069,152,41
+37,Kitsilano,Nat's New York Pizzeria,4.2,CA$30 for two,"Italian, Pizza","2684 West Broadway, Vancouver V6K",+16047370707,142,28
+38,Kitsilano,Tandoori Fusion,4.2,CA$35 for two,Indian,"2872 West Broadway, Vancouver V6K 2G7",+16047382824,102,17
+39,Kitsilano,Jolly's Indian Bistro,4.1,CA$50 for two,Indian,"2928 West 4th Avenue, Vancouver V6K 1R2",+16047349110,153,26
+40,Kitsilano,Dharma Kitchen,4.0,CA$50 for two,Asian,"3667 West Broadway, Vancouver V6R3R8",+16047383899,111,13
+41,Kitsilano,Double DD Pizza,4.0,CA$45 for two,"Pizza, Greek, Italian","3510 West 4th Avenue, Vancouver V6R1N8",+16047367001,108,11
+42,Kitsilano,Akbar's Own Cuisine of India,3.7,CA$45 for two,Indian,"1905 West Broadway, Vancouver V6J 1Z3",+16047368180,104,55
+43,Kitsilano,Gramercy Grill,3.7,CA$85 for two,"Canadian, Grill","2685 Arbutus Street, Vancouver V6J3Y4",+16047305666,110,26
+44,Kitsilano,Kitstaya Sushi,3.5,CA$45 for two,"Sushi, Japanese, Asian","3105 West Broadway, Vancouver V6K2G9",+16047370181,128,25
+45,Kitsilano,Ramen House,3.2,CA$40 for two,"Ramen, Japanese, Asian","2893 West Broadway, Vancouver V6K 2G6",+16047372500,76,30
+46,Kitsilano,Corduroy Restaurant,3.4,CA$60 for two,"Pizza, Bar Food","1943 Cornwall Avenue, Vancouver V6J 1C8",+16047330162,82,17
+47,Kitsilano,Darby's Public House,3.5,CA$60 for two,Bar Food,"2001 Macdonald Street, Vancouver V6K 1P9",+16047310617,95,17
+48,Kitsilano,Simpatico Ristorante,4.0,CA$60 for two,"Greek, Mediterranean","2222 West 4th Avenue, Vancouver V6K4S2",+16047336824,84,17
+49,Kitsilano,Papaya Hut,3.6,CA$30 for two,"Thai, Asian","2435 Burrard Street, Vancouver V6J 3J3",+16047392033,109,8
+50,Kitsilano,Browns Socialhouse,3.9,CA$70 for two,Bar Food,"2296 West 4th Avenue, Vancouver V6K 4S2",+16047332420,99,35
+51,Kitsilano,Olympia Pizza,3.9,CA$45 for two,"Pizza, Greek, Mediterranean","3205 West Broadway, Vancouver V6K2H5",+16047325334,98,16
+52,Kitsilano,Manchester Public Eatery,3.1,CA$55 for two,"Bar Food, British","1941 West Broadway, Vancouver V6J 1Z3",+16045686867,106,19
+53,Kitsilano,Maria's Taverna,3.8,CA$50 for two,"Greek, Mediterranean","2324 West 4th Avenue, Vancouver V6K1P2",+16047314722,82,20
+54,Kitsilano,Taste of Thai,3.8,CA$50 for two,"Thai, Asian","3629 West Broadway, Vancouver V6R2B8",+16045688668,59,26
+55,Kitsilano,Vera's Burger Shack,3.5,CA$30 for two,"Burger, Fast Food","1925 Cornwall Avenue, Vancouver V6J 1C8",+16042288372,95,47
+56,Kitsilano,The Wolf and Hound,4.0,CA$60 for two,Bar Food,"3617 West Broadway, Vancouver V6R 2B8",+16047388909,82,24
+57,Kitsilano,Cacao,3.6,CA$40 for two,Latin American,"1898 W 1st Avenue, Vancouver V6J 4W2",+16047315370,13,28
+58,Kitsilano,Mak N Ming,3.2,CA$150 for two,"Japanese, Asian Fusion","1629 Yew Street, Vancouver, Vancouver V6K 3E6",Not available for this place,13,12
+59,Kitsilano,Trees Organic Coffee & Roasting House,3.4,CA$20 for two,"Cafe, Sandwich","2655 Arbutus Street, Vancouver V6J3Y4",+16047320092,45,39
+60,Kitsilano,Athene's,3.9,CA$40 for two,"Greek, Pizza","3618 West Broadway, Vancouver V6R 3R8",+16047314135,67,25
+61,Kitsilano,Colony Bar Kits,3.0,CA$45 for two,Bar Food,"3255 West Broadway, Vancouver V6K4N7",+16045596070,42,19
+62,Kitsilano,Maple Grill,3.9,CA$60 for two,"Canadian, Jewish","1967 West Broadway, Vancouver V6J1Z3",+16045684885,35,41
+63,Kitsilano,The Bimini Public House,2.9,CA$55 for two,Bar Food,"2010 West 4th Avenue, Vancouver V6J 1M7",+16047337116,49,33
+64,Kitsilano,White Spot,3.9,CA$50 for two,Canadian,"2518 West Broadway, Vancouver V6K3T3",+16047312434,60,37
+65,Kitsilano,Yagger's Kitsilano Restaurant,3.8,CA$50 for two,"BBQ, Bar Food","2884 west broadway, Vancouver V6K2G7",+16047333002,49,11
+66,Kitsilano,Basil Pasta Bar,3.6,CA$25 for two,Italian,"1602 Yew Street, Vancouver V6K 3E7",+17783790566,26,12
+67,Kitsilano,L'Ufficio,3.7,CA$60 for two,Italian,"3687 West 4th Avenue, Vancouver V6R 4N6",+16046761007,16,12
+68,Kitsilano,Thai Cuisine By Montri,3.5,CA$50 for two,"Thai, Asian","2585 West Broadway, Vancouver V6K",+16042219599,28,11
+69,Kitsilano,Elwood's,3.5,CA$45 for two,Bar Food,"3145 West Broadway, Vancouver V6K 2G9",+16047364301,45,11
+70,Kitsilano,The Regal Beagle,3.1,CA$55 for two,Bar Food,"2283 West Broadway, Vancouver V6K2E4",+16047390677,60,10
+71,Kitsilano,Hu Tong,3.2,CA$25 for two,"Chinese, BBQ, Asian","2942 West Broadway, Vancouver V6K 2G6",+16045596622,29,28
+72,Kitsilano,The Cove Neighbourhood Pub,3.7,CA$55 for two,"Bar Food, Canadian","3681 West 4th Avenue, Kitsilano, Vancouver",+16047341205,46,13
+73,Kitsilano,Uncle Fatih's Pizza,3.8,CA$25 for two,"Pizza, Fast Food","2778 West Broadway, Vancouver V6K",+16047333355,54,11
+74,Kitsilano,Mac Falafel,3.6,CA$25 for two,Middle Eastern,"3685 West 10th Avenue, Vancouver V6R2G3",+16047394403,46,6
+75,Kitsilano,Tim Kee Kitchen,2.7,CA$30 for two,Chinese,"2365 Burrard Street, Vancouver V6J 3J2",+16047388628,40,9
+76,Kitsilano,Cartems Donuterie,3.5,CA$15 for two,"Desserts, Cafe","3040 West Broadway, Vancouver V6K 2G9",+16044286372,12,55
+77,Kitsilano,Great Wall Mongolian B.B.Q,3.5,CA$35 for two,"Mongolian, Asian","2897 W Broadway, Vancouver, Vancouver V6K 2G6",+16047394888,38,4
+78,Kitsilano,Blue Sky Japanese Bistro,2.5,CA$30 for two,"Sushi, Japanese, Asian","1815 West 1st Avenue, Vancouver V5L4H3",+16047345858,33,6
+79,Kitsilano,Carlos O'Bryan's,3.1,CA$60 for two,"Bar Food, Irish","1774 West 7th Avenue, Vancouver V6J 4Z9",+16047320010,18,26
+80,Kitsilano,Dairy Queen,3.1,CA$20 for two,"Fast Food, Desserts","2601 Broadway West, Vancouver V6K2G3",+16047323704,24,20
+81,Kitsilano,Flying Wedge Pizza Co.,2.9,CA$20 for two,"Pizza, Fast Food","1935 Cornwall Avenue, Vancouver V6J1C8",+16047328840,29,10
+82,Kitsilano,Pho Japolo,2.9,CA$30 for two,"Vietnamese, Asian","2807 West Broadway, Vancouver V7P 1V7",+16047371293,16,3
+83,Kitsilano,Charqui Grill,3.0,CA$55 for two,"Tapas, Latin American, Grill","1955 Cornwall Avenue, Vancouver V6J 1C9",+16047333323,20,5
+84,Kitsilano,Gargoyles Bar & Grill,2.6,CA$50 for two,Bar Food,"3357 West Broadway, Vancouver V6R2B1",+16047331159,19,4
+85,Kitsilano,Super Hiro's,-,for two,Japanese,"2585 West Broadway Vancouver, Vancouver V6K 2E9",+17787373333,2,16
+86,Kitsilano,Papa John's Pizza,2.9,CA$25 for two,"Pizza, Fast Food","2030 Alma Street, Vancouver V6R4N6",+16045669825,16,11
+87,Kitsilano,Mukja Korean Cuisine,-,CA$30 for two,"Asian, Asian Fusion, Korean","3211 W Broadway, Vancouver, Vancouver V6K 2H5",+16045655006,3,4
+88,Kitsilano,Big Johnny's Pizza House,3.5,CA$20 for two,Pizza,"2828 West 4th Avenue, Vancouver V6K4A9",+16047378211,12,5
+89,Kitsilano,McDonald's,2.5,CA$20 for two,Fast Food,"2391 West 4th Avenue, Vancouver",+16047181185,15,10
+90,Kitsilano,Panago,3.6,CA$30 for two,"Pizza, Fast Food","2905 West Broadway, Vancouver V6K 2G6",+16043100001,10,19
+91,Kitsilano,The Ellis,-,CA$60 for two,Continental,"2204 York Ave, Vancouver, Vancouver",+16044282456,3,18
+92,Kitsilano,Body Energy Club,3.6,CA$15 for two,Beverages,"2146 West Broadway, Vancouver V6K 2C8",+16046970466,8,5
+93,Kitsilano,Oddfish Restaurant,-,CA$25 for two,Seafood,"1889 W 1st Ave, Kitsilano, Vancouver, Vancouver",+116045646330,0,13
+94,Kitsilano,Blenz Coffee,3.7,CA$20 for two,"Cafe, Coffee and Tea","3698 West 4th Avenue, Vancouver V6R4N6",+16047382562,14,16
+95,Kitsilano,Mi Mary's Trattoria,3.6,CA$25 for two,"Asian, Canadian","The Brick Yard, 3188 Macdonald Street, Vancouver V6K 4W7",+16042821285,6,6
+96,Kitsilano,Yuwa,-,CA$35 for two,Japanese,"2775 W 16th Avenue, Vancouver, BC V6K 3X5, Vancouver",+16047319378,3,19
+97,Kitsilano,Whole Foods Market,-,CA$30 for two,"Cafe, Bakery, Healthy Food, Canadian","2285 West 4th Avenue, Vancouver",+16047396676,3,26
+98,Kitsilano,Fiore Famiglia,-,CA$35 for two,Italian,"2603 W 16th Ave, Kitsilano, Vancouver, Vancouver",+116045582603,3,9
+99,Kitsilano,Pizza Hut,3.3,CA$20 for two,"Pizza, Fast Food","1829 West 4th Avenue, Vancouver V6J3H3",+16047420966,8,28
+100,Kitsilano,Pure Delight Café,3.6,CA$25 for two,Vietnamese,"3236 W Broadway, Vancouver, Vancouver V6K 2H4",+116045688812,4,9
+101,Kitsilano,Hundy,-,CA$20 for two,American,"2042-B W 4th Ave, Vancouver, Vancouver",+17789966290,2,3
+102,Kitsilano,Ice Queen,3.4,CA$10 for two,"Ice Cream, Desserts","2967 W Broadway, Vancouver, Vancouver V6K 4N3",+16045595563,5,7
+103,Kitsilano,Share Tea Kitsilano,-,CA$15 for two,"Bubble Tea, Taiwanese","1965 West 4th Ave 107, Vancouver, BC, Vancouver",+17787374433,2,6
+104,Kitsilano,Sweet Barrel Creamery and Coffee Roasters,-,CA$20 for two,"Cafe, Coffee and Tea","2729 Arbutus Street, Metro Vancouver, Vancouver",+17789864866,2,4
+105,Kitsilano,Josie's World,-,CA$25 for two,Chinese,"2708 4th Avenue W, Vancouver, Vancouver V6K 3W2",+16047421717,3,0
+106,Kitsilano,Subway,3.1,CA$25 for two,Fast Food,"1807 Burrard Street, Vancouver V6J3G9",+16047367827,6,13
+107,Kitsilano,Z&W Shanghai Kitchen,-,CA$30 for two,Shanghai,"2126 W Broadway, Kitsilano, Vancouver, Vancouver V6K 2C8",+16044232999,1,6
+108,Kitsilano,Delhi6 Indian Bistro,-,CA$35 for two,Indian,"1766 W 7th Avenue, Vancouver, BC V6J 4Z9, Vancouver",+16047423311,0,0
+109,Kitsilano,The Blenheim,-,CA$55 for two,Pub Food,"3293 W 4th Ave, Vancouver, Vancouver",+16047360212,0,0
+110,Kitsilano,Cafe,-,CA$25 for two,Cafe,"2610 West 4th, Vancouver",+16047421752,0,0
+111,Kitsilano,Tim Hortons,-,CA$20 for two,"Fast Food, Cafe","3102 West Broadway Street, Vancouver",+16047309700,0,11
+112,Kitsilano,Best Falafel,-,CA$15 for two,Lebanese,"1859 W 4th Avenue, Vancouver, BC V6J 1M4, Vancouver",+16044285522,0,0
+113,Kitsilano,Thomas Haas,4.9,CA$20 for two,"Desserts, Bakery","2539 West Broadway, Vancouver V6K 2E9",+16047361848,901,395
+114,Kitsilano,Octopus' Garden,4.3,CA$60 for two,"Sushi, Japanese, Asian","1995 Cornwall Avenue, Vancouver V6J 1C9",+16047348971,308,362
+115,Kitsilano,Hitoe Sushi,4.5,CA$40 for two,"Sushi, Japanese, Asian","3347 W 4th Avenue, Vancouver V6K 1R8",+17783714619,361,125
+116,Kitsilano,East Is East,4.5,CA$50 for two,"Indian, Middle Eastern","3035 West Broadway, Vancouver V6K2H5",+16047345881,594,85
+117,Kitsilano,Mamalee Malaysian Delight,4.1,CA$30 for two,Malaysian,"3144 West Broadway, Vancouver V6K 2H3",+16047338882,336,196
+118,Kitsilano,Linh Cafe - French Cooking,4.2,CA$70 for two,"Vietnamese, French, Fusion","2836 West 4th Avenue, Vancouver V6K 1R2",+16045594668,135,299
+119,Kitsilano,Sophie's Cosmic Cafe,4.1,CA$40 for two,Diner,"2095 West 4th Avenue, Kitsilano, Vancouver, Vancouver V6J1M7",+16047326810,486,94
+120,Kitsilano,Forty Ninth Parallel Cafe & Lucky's Doughnuts,4.2,CA$20 for two,"Cafe, Desserts","2198 W 4th Avenue, Vancouver V6K 1N6",+16044204901,334,135
+121,Kitsilano,Cafe Zen,4.2,CA$25 for two,"Canadian, Diner","1631 Yew Street, Vancouver V6K 3E6",+16047314018,315,76
+122,Kitsilano,Rocky Mountain Flatbread Co.,4.1,CA$50 for two,"Pizza, Italian","1876 West 1st Avenue, Vancouver V6J 1G5",+16047300321,257,106
+123,Kitsilano,Noodlebox,3.8,CA$25 for two,"Asian, Chinese","1867 W 4th Avenue,Vancouver, Vancouver V6J 1M3",+16047341310,342,55
+124,Kitsilano,Neverland Tea Salon,3.6,CA$35 for two,"Cafe, Tea","3066 West Broadway, Vancouver V6K 2G9",+16044283066,100,173
+125,Kitsilano,Tractor,3.9,CA$30 for two,Healthy Food,"1903 West 4th Avenue, Vancouver V6J 1M7",+16043431164,144,72
+126,Kitsilano,Harvest Deli,4.3,CA$30 for two,"Sandwich, Deli","2963 W Broadway, Vancouver V6K2G9",+16047393354,141,18
+127,Kitsilano,Strike,4.0,CA$30 for two,"Taiwanese, Asian, Bubble Tea","3217 West Broadway, Vancouver V6K 4N7",+16045583217,141,103
+128,Kitsilano,Bangkok City Cafe,4.1,CA$45 for two,"Thai, Asian","2 2953 West 4th Avenue, Vancouver V6K 1R3",+16047365474,111,37
+129,Kitsilano,The Boathouse Restaurant,3.9,CA$75 for two,"Seafood, Steak","1305 Arbutus Street, Vancouver V6J 5N2",+16047385487,211,128
+130,Kitsilano,Nuba,4.0,CA$60 for two,"Lebanese, Middle Eastern","3116 West Broadway, Vancouver V6K 2G9",+16043361797,157,100
+131,Kitsilano,Plaisir Sucre,4.1,CA$20 for two,"Bakery, Cafe","2668 Arbutus Street, Vancouver V6J5L8",+16047360515,100,25
+132,Kitsilano,Sunshine Diner,3.9,CA$45 for two,Diner,"2649 West Broadway, Vancouver V6K2G3",+16047337717,136,53
+133,Kitsilano,Iki Japanese Bistro,4.3,CA$45 for two,"Sushi, Japanese, Asian","2756 West Broadway, Vancouver V6K 2G4",+16047314771,155,30
+134,Kitsilano,Sushi Bella,4.0,CA$30 for two,"Sushi, Japanese, Asian","2059 West 4th Avenue, Vancouver V6J1M7",+16047344990,133,56
+135,Kitsilano,Baguette & Co,4.2,CA$25 for two,"Cafe, Bakery, French","3273 West Broadway, Vancouver V6K2H5",+16047378050,93,59
+136,Kitsilano,Edible Flours,3.9,CA$15 for two,Bakery,"2280 West Broadway, Vancouver V6K2E3",+16047348351,81,19
+137,Kitsilano,Notte's Bon Ton Pastry & Confectionary,4.0,CA$15 for two,Desserts,"3150 West Broadway, Vancouver V6K2G9",+16046813058,80,33
+138,Kitsilano,Tera V Burger,4.1,CA$25 for two,Burger,"2961 West Broadway, Kitsilano, Vancouver, Vancouver V6K 2G9",+16043363575,82,24
+139,Kitsilano,Sejuiced,4.1,CA$30 for two,"Healthy Food, Beverages","1958 West 4th Avenue, Vancouver V6J1M7",+16047309906,87,10
+140,Kitsilano,Terra Breads Bakery & Cafe,4.0,CA$20 for two,"Bakery, Cafe","2380 West 4th Avenue, Vancouver V6K 1P2",+16047361838,88,25
+141,Kitsilano,Solly's Bagelry,3.9,CA$20 for two,Bakery,"2873 West Broadway, Vancouver V6K2G6",+16046759770,99,36
+142,Kitsilano,Mr. Red Cafe,3.5,CA$25 for two,Vietnamese,"2680 West Broadway, Vancouver, Vancouver V6K 2G3",+16045596878,36,90
+143,Kitsilano,Healthy Noodle House,3.9,CA$25 for two,Vietnamese,"2716 West 4th Avenue, Vancouver V6K3V9",+17783718371,54,12
+144,Kitsilano,Peaceful Restaurant,3.6,CA$40 for two,Chinese,"2394 West 4th Avenue, Vancouver V6K 1P2",+16045599533,77,32
+145,Kitsilano,Nishi Sushi,4.1,CA$40 for two,"Sushi, Japanese","1-2953 West 4th Avenue, Vancouver V6K4T3",+16047343881,69,30
+146,Kitsilano,Koko Monk Chocolates,3.5,CA$20 for two,Desserts,"1849 West 1st Avenue, Vancouver V6J5B8",+16047083366,41,44
+147,Kitsilano,Platform 7,3.6,CA$25 for two,Cafe,"2300 West Broadway, Vancouver V6K 2E5",+16046202717,26,30
+148,Kitsilano,Aphrodite's Organic Cafe and Pie Shop,3.2,CA$20 for two,"Bakery, Cafe","3598 West 4th Avenue, Vancouver V6R 1N8",+16047385879,26,63
+149,Kitsilano,9th Avenue Grill,3.5,CA$30 for two,Diner,"1822 West Broadway, Vancouver V6J",+16047140744,74,15
+150,Kitsilano,Beyond Bread Artisan Bakery,4.0,CA$20 for two,"Bakery, Cafe","3686 West 4th Avenue, Vancouver V6R4N6",+16047333931,51,20
+151,Kitsilano,Mazuya Sushi,3.4,CA$35 for two,"Sushi, Japanese, Asian","2355 Burrard Street, Vancouver V6J3J2",+16047333838,67,15
+152,Kitsilano,Epicurean Caffe,3.5,CA$35 for two,"Cafe, Italian","1898 West 1st Avenue, Vancouver V6J1G5",+16047315370,63,13
+153,Kitsilano,Kahve Cafe,3.5,for two,"Cafe, Desserts","1822 West 1st Avenue, Metro Vancouver, Vancouver V6J 0B3",+16042229002,17,56
+154,Kitsilano,Arbutus Coffee,3.3,CA$30 for two,Cafe,"2200 Arbutus Street, Vancouver V6K 1V6",+16047365644,47,31
+155,Kitsilano,Yagoto Sushi Dining,3.9,CA$40 for two,"Sushi, Japanese, Asian","2180 West Broadway, Vancouver V6K",+16045590022,32,35
+156,Kitsilano,Napoletana Pizza,3.8,CA$30 for two,"Pizza, Ice Cream","2576 Arbutus Street, Kitsilano, Vancouver, Vancouver V6J3Y2",+16047369800,55,10
+157,Kitsilano,Jun Sushi Japanese,3.9,CA$30 for two,"Sushi, Japanese, Asian","3309 West Broadway, Vancouver V6R",+16047397181,56,9
+158,Kitsilano,Evelyn's Cafe and Grill,3.9,CA$30 for two,"Diner, Chinese, Asian","2176 West Broadway, Vancouver V6K4L3",+16047317117,40,8
+159,Kitsilano,Planet Veg,3.8,CA$25 for two,Indian,"1941 Cornwall Avenue, Vancouver V6J1C8",+16047341001,55,9
+160,Kitsilano,Hoshi Sushi,3.9,CA$45 for two,"Sushi, Japanese, Asian","2825 West Broadway, Vancouver V6K2G6",+16047394791,58,14
+161,Kitsilano,Sushi Aoki,3.5,CA$30 for two,"Sushi, Japanese, Asian","1888 West Broadway, Vancouver V6J 1Y9",+16047315577,58,13
+162,Kitsilano,The Only Cafe,3.6,CA$10 for two,"Coffee and Tea, Tea","2678 W 4th Avenue, Vancouver V6K 1P8",+17783793299,17,70
+163,Kitsilano,Viva Fine Foods & Bakery,3.8,CA$20 for two,"Bakery, Coffee and Tea","1555 Yew Street, Vancouver, Vancouver V6K 3E5",+16047388482,41,10
+164,Kitsilano,Irori Sushi,3.4,CA$45 for two,"Sushi, Japanese, Asian","3692 W 4th Avenue, Vancouver V6R 3P8",+16045580885,31,8
+165,Kitsilano,Silk Road Cafe,3.9,CA$20 for two,Middle Eastern,"1956 West 4th Avenue, Vancouver, Vancouver V6J1M5",+16045581050,40,23
+166,Kitsilano,Deacon's Corner - Kitsilano Diner,2.8,CA$35 for two,"Burger, Diner","3189 West Broadway, Vancouver V6K 2H2",+17783793727,37,34
+167,Kitsilano,Bon Macaron Patisserie,3.7,CA$15 for two,Desserts,"2823 West Broadway, Vancouver V6K 2G6",+17783796055,23,43
+168,Kitsilano,Olive & Ruby Cafe,3.4,CA$15 for two,"Cafe, Juices, Coffee and Tea","2839 West Broadway, Vancouver V6K 2G6",+16048019600,13,28
+169,Kitsilano,Pete's Meat Butcher Shop & Deli,3.8,CA$20 for two,"Sandwich, Deli","2817 Arbutus Street, Vancouver V6J3Y5",+16047301661,33,22
+170,Kitsilano,Parthenon Supermarket,3.9,CA$20 for two,"Greek, Deli","3080 West Broadway, Vancouver V6K 2H1",+16047334191,38,13
+171,Kitsilano,Sushi Sushi,3.3,CA$35 for two,"Sushi, Japanese, Asian","2965 West Broadway, Vancouver V6K2G9",+16047308164,42,20
+172,Kitsilano,Jackson's Meat & Deli,3.9,CA$20 for two,"Sandwich, Deli","2214 West 4th Avenue, Vancouver V6K4S2",+16047386328,32,5
+173,Kitsilano,Thai Basil,3.5,CA$30 for two,Thai,"2184 Cornwall Avenue, Vancouver V6K 1B4",+16046776767,30,16
+174,Kitsilano,Panne Rizo,3.6,CA$25 for two,"Cafe, Bakery","1939 Cornwall Avenue, Vancouver V6J",+16047360885,27,10
+175,Kitsilano,Gyo Para Gyoza & Ramen Bar,3.7,CA$20 for two,Ramen,"2120 W Broadway, Vancouver, BC V6K 2C8, Canada, Vancouver",+16042882941,26,14
+176,Kitsilano,Pane From Heaven,3.8,CA$20 for two,Cafe,"1670 Cypress Street, Vancouver V6J1G6",+16047365555,35,17
+177,Kitsilano,I Sushi,3.7,CA$40 for two,Sushi,"2568 Arbutus Street, Vancouver V6J 4S2",+16047370909,36,11
+178,Kitsilano,Juliet's Cafe,3.1,CA$35 for two,Cafe,"1905 Cornwall Avenue, Vancouver V6J3L3",+16047328212,35,8
+179,Kitsilano,Teriyaki Bowl,3.8,CA$30 for two,Japanese,"3648 West Broadway, Vancouver V6R2B8",+16045591780,18,15
+180,Kitsilano,Hoké Poké,2.8,CA$20 for two,"Hawaiian, Seafood","1834 W 4th Avenue, Vancouver, Vancouver V6J 1M3",+16045648885,14,8
+181,Kitsilano,Chai,3.4,CA$50 for two,"Middle Eastern, Pakistani","3243 West Broadway, Vancouver V6K2H5",+16047345881,26,5
+182,Kitsilano,Artistry Coffee House & Bistro,3.5,CA$30 for two,Cafe,"2959 West 4th Avenue, Vancouver V6K4A9",+16045581302,20,13
+183,Kitsilano,Glory Juice Co.,3.5,CA$25 for two,"Juices, Beverages, Healthy Food","2180 West 4th Avenue, Vancouver",+17783794511,11,26
+184,Kitsilano,DAVIDsTEA,3.8,CA$15 for two,"Tea, Beverages","2230 West 4th Avenue, Vancouver V6K4S2",+16047343440,35,7
+185,Kitsilano,Sakura Cafe,3.4,CA$30 for two,Cafe,"2389 Burrard Street, Vancouver",+17783793188,6,33
+186,Kitsilano,Kits Sushi,3.1,CA$30 for two,"Sushi, Japanese, Asian","1518 Yew Street, Vancouver V6K1B5",+16047329655,23,3
+187,Kitsilano,Corner Cup Coffee House,3.4,CA$25 for two,Cafe,"3301 West 4th Avenue, Vancouver V6K1R8",+16047344524,21,8
+188,Kitsilano,Cornerstone Coffee Bar,3.5,CA$25 for two,Cafe,"2698 West 4th Avenue, Vancouver V6K3W1",+16047140259,17,10
+189,Kitsilano,Paradiso Gelato Bistro,3.7,CA$15 for two,"Ice Cream, Desserts","1520 Yew Street, Vancouver V6K3E4",+16045690600,15,12
+190,Kitsilano,Heart & Vine,3.7,CA$25 for two,Cafe,"2480 Vine Street, Vancouver V6K3K8",+16046771557,20,8
+191,Kitsilano,Triple O's,3.5,CA$25 for two,Fast Food,"Donegal Place, 1881 Cornwall Avenue, Vancouver V6J1C7",+16047383888,23,21
+192,Kitsilano,The Juicery Co.,3.4,CA$20 for two,"Juices, Beverages, Healthy Food","3576 West 4th Avenue, Vancouver",+16045584131,10,12
+193,Kitsilano,RedBeef Noodle Kitchen,3.6,CA$35 for two,Chinese,"1947 W 4th Ave, Vancouver, Vancouver",+16045581237,9,15
+194,Kitsilano,Papillon Cafe & Bistro,-,CA$25 for two,Cafe,"3403 West Broadway, Vancouver V6R 2B4",+16047363403,0,26
+195,Kitsilano,Caffe W,3.5,CA$20 for two,"Cafe, Desserts","3646 West Broadway, Vancouver",+16047309298,8,6
+196,Kitsilano,Nelly's Grill,3.1,CA$30 for two,Diner,"2061 West 4th Avenue, Vancouver",+16047366588,10,13
+197,Kitsilano,Booster Juice,3.4,CA$20 for two,"Juices, Beverages, Fast Food","1965 Cornwall Avenue, Vancouver V6J",+16046287571,15,7
+198,Kitsilano,Angus Bakery & Cafe,3.7,CA$10 for two,"Cafe, Bakery","3636 West Broadway, Vancouver V6R",+16047339955,16,6
+199,Kitsilano,Aroma Coffee,3.0,CA$20 for two,Cafe,"2797 Arbutus Street, Vancouver V6J3Y6",+16045591661,12,8
+200,Kitsilano,Ajiya Sushi,3.3,for two,Sushi,"1822 West 4th Avenue, Vancouver",+16047373999,10,3
+201,Kitsilano,Masala Cafe,3.3,CA$30 for two,Indian,"3211 West Broadway, Vancouver V6K 2H5",+16045683308,12,3
+202,Kitsilano,Dip Ice Cream,2.8,CA$10 for two,"Ice Cream, Frozen Yogurt","2967 West Broadway, Vancouver V6K 4N3",Not available for this place,4,5
+203,Kitsilano,Minerva's Mediterranean Deli,3.4,CA$20 for two,"Greek, Mediterranean, Deli","3207 West Broadway, Vancouver V6K2H5",+16047333954,11,3
+204,Kitsilano,Chewie's Biscuit Co.,3.5,CA$20 for two,American,"2822 W 4th Ave, Vancouver",+16043369996,8,13
+205,Kitsilano,Jitters Caffe,2.9,CA$25 for two,Cafe,"1966 West 4th Avenue, Vancouver V6J1M7",+16047310222,12,7
+206,Kitsilano,Jam Cafe,3.5,CA$30 for two,Cafe,"2153 W 4th Avenue, Kitsilano, Vancouver, Vancouver",+16044233350,4,7
+207,Kitsilano,Broadway Seafood & Sushi,2.8,CA$20 for two,Sushi,"2697 West Broadway, Vancouver V6K",+16047309229,10,4
+208,Kitsilano,Cafe Lokal,3.3,CA$10 for two,"Cafe, Sandwich","2610 West 4th Avenue, Vancouver V6K 1P8",+16047390098,5,13
+209,Kitsilano,Their There,-,CA$20 for two,Cafe,"2042 W 4th Ave, Vancouver, Vancouver",+16047368828,3,3
+210,Kitsilano,Bayswater Tea,3.7,CA$25 for two,"Tea, Beverages","2966 West Broadway, Vancouver V6K2G9",+16047335767,8,3
+211,Kitsilano,Starbucks,3.3,CA$20 for two,Cafe,"1500 Yew Street, Vancouver V6K3E4",+16047312059,8,19
+212,Kitsilano,Bean Around the World,-,CA$20 for two,Cafe,"1945 Cornwall Avenue, Vancouver V6J1C8",+16047391069,3,8
+213,Kitsilano,Daily Grind Cafe,2.6,CA$20 for two,Cafe,"2255 Burrard Street, Vancouver V6J5A5",+16047332250,5,5
+214,Kitsilano,Uno Gelato,-,CA$10 for two,"Desserts, Ice Cream","2579 W Broadway, Vancouver, Vancouver",+16047335884,3,0
+215,Kitsilano,Starbucks,-,CA$20 for two,Cafe,"2902 West Broadway, Vancouver",+16047367876,2,1
+216,Kitsilano,No. 1 Dumpling,-,CA$15 for two,Chinese,"1888 W Broadway, Metro Vancouver, Vancouver",+16047315577,2,4
+217,Kitsilano,Tree's Organic Coffee,-,CA$15 for two,"Cafe, Coffee and Tea","1598 W Broadway, Vancouver, Vancouver V6J 5K9",+17783794050,1,0
+218,Kitsilano,Pacific Poke,-,CA$30 for two,Asian,"2151 W 4th Ave, Kitsilano, Vancouver, Vancouver",+16046201080,1,5
+219,Kitsilano,Turf,-,CA$40 for two,Vegetarian,"2041 W 4th Ave, Kitsilano, Vancouver, Vancouver",+16044289970,1,5
+220,Kitsilano,Gobble,-,CA$25 for two,American,"2017 West 4th Avenue, Vancouver",+16047328111,0,1
+221,Kitsilano,The Ripped Banana,-,CA$20 for two,"Juices, Beverages","2581 West Broadway, Vancouver",+16047393339,0,2
+222,Kitsilano,Cantina Pana,-,CA$15 for two,Mexican,"1941 Cornwall Avenue Kitsilano, Vancouver, Vancouver",+16047341001,0,0
+223,Kitsilano,AH Long Sushi,-,CA$20 for two,Sushi,"2697 West Broadway, Kitsilano, Vancouver, Vancouver",+16047309229,0,0
+224,Kitsilano,Kung Fu Tea,-,CA$15 for two,Bubble Tea,"2855 W Broadway, Vancouver, Vancouver",+16042102894,0,0
+225,Kitsilano,The Pie Hole,-,CA$10 for two,Bakery,"1864 W 4th Ave, Kitsilano, Vancouver, Vancouver",+16045631000,0,0

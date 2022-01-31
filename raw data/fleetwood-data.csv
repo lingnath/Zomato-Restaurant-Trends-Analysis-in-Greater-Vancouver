@@ -1,0 +1,67 @@
+,Location,Name,Rating,Price Range,Cuisine Type,Address,Phone Number,Num Reviews,Num Photos
+0,Fleetwood,Nagoya Sushi,4.2,CA$40 for two,"Sushi, Japanese, Asian","Green Timbers Plaza, 9175 148 Street, Surrey V3R3W7",+16045856040,153,77
+1,Fleetwood,Chef's Kebab Restaurant,4.1,CA$40 for two,"Indian, Pakistani, Afghan","16225 Fraser Highway, Surrey V4N0G1",+16045935384,91,85
+2,Fleetwood,Full Ramen,3.7,CA$25 for two,"Ramen, Japanese, Asian","103-15925 Fraser Highway, Surrey V4N0Y3",+16045036388,79,48
+3,Fleetwood,Il Uk Jo Restaurant,2.3,CA$35 for two,"Japanese, Korean, Asian","15188 Fraser Highway, Surrey V3R3P1",+16045839622,111,75
+4,Fleetwood,Tobiko Sushi,4.0,CA$35 for two,"Sushi, Japanese, Asian","Fleetwood Town Square, 102-15951 Fraser Highway, Surrey V4N0Y3",+16045725005,118,43
+5,Fleetwood,Jerusalem Grill,4.1,CA$30 for two,"Middle Eastern, Kebab","105-15933 Fraser Highway, Surrey V4N0Y3",+16045935603,87,23
+6,Fleetwood,On Yuen Chinese Restaurant,4.0,CA$40 for two,"Chinese, Asian","304-9014 152 Street, Surrey V3R4E7",+16045833238,92,20
+7,Fleetwood,Gulberg Restaurant (Fleetwood),3.9,CA$35 for two,"Indian, Pakistani","Fleetwood Park Village, 509-15950 Fraser Highway, Surrey V4N 0X8",+17785655430,58,44
+8,Fleetwood,Al & Jan's Fish & Chips,4.0,CA$25 for two,Fish and Chips,"201-9014 152 Street, Surrey V3R4E7",+16049302021,58,10
+9,Fleetwood,Assini Pizza Restaurant,3.8,CA$50 for two,"Greek, Italian, Pizza","109-15551 Fraser Highway, Surrey V3S2V8",+16045897203,61,12
+10,Fleetwood,Sunny Dragon Restaurant,3.2,CA$35 for two,"Chinese, Japanese, Korean, Asian","Fleetwood Town Square, 101-15988 Fraser Hwy, Surrey V4N0X8",+16045725122,53,28
+11,Fleetwood,Greek Islands Restaurant,3.6,CA$35 for two,"Greek, Italian, Mediterranean","108-9547 152 Street, Surrey V3V5Y5",+16044980177,49,30
+12,Fleetwood,Noodle Island,3.5,CA$25 for two,"Vietnamese, Asian","Fleetwood Town Square, 302-15988 Fraser Highway, Surrey V4N0X8",+16045916528,57,13
+13,Fleetwood,Soboya Sushi,3.5,CA$30 for two,"Sushi, Japanese, Asian","Evergreen Mall, 8952 152 Street, Surrey V3R0J2",+16045891141,40,29
+14,Fleetwood,Asia Restaurant,3.4,CA$35 for two,"Chinese, Asian","104-15551 Fraser Highway, Surrey V3S2V8",+16045836828,55,15
+15,Fleetwood,Jack's Public House,3.3,CA$60 for two,Bar Food,"9082 152 Street, Surrey V3R4E7",+16045806477,42,9
+16,Fleetwood,Pho 99,2.7,CA$30 for two,"Vietnamese, Asian","Evergreen Mall, 8934 152 Street, Surrey V3R4E4",+16044981399,37,35
+17,Fleetwood,Royal Oak Restaurant,3.4,CA$50 for two,"Greek, Pizza, Steak","15336 Fraser Highway, Surrey V3R3P5",+16045813330,39,13
+18,Fleetwood,Sofi's Shawarma & Donairs,3.3,CA$20 for two,"Middle Eastern, Kebab","Evergreen Mall, 8928 152 Street, Surrey V3R0J2",+16049572344,31,9
+19,Fleetwood,Diamond Sweets & Restaurant,3.6,CA$40 for two,Indian,"102-15933 Fraser Hwy, Surrey V4N0Y3",+16045935566,36,10
+20,Fleetwood,Yoko Sushi & Noodle House,3.1,CA$35 for two,"Sushi, Japanese, Asian","102-16013 Fraser Highway, Surrey V4N 0G2",+16045075575,38,8
+21,Fleetwood,Salty's Fish & Chips,3.1,CA$40 for two,"Fish and Chips, British","Fleetwood Town Square, 101-15953 Fraser Highway, Surrey V4N0Y3",+16045999215,29,6
+22,Fleetwood,Boston Pizza,3.2,CA$45 for two,"Pizza, Bar Food","801-15980 Fraser Highway, Fleetwood, Surrey, Surrey V3S 2W4",+16045075507,30,25
+23,Fleetwood,Great Pizza,3.3,CA$25 for two,"Pizza, Indian","Fleetwood Town Square, 203-15988 Fraser Highway, Surrey V4N0X8",+16045070241,23,1
+24,Fleetwood,Kwantlen Pizza Sweets & Snacks,3.6,CA$20 for two,"Indian, Pizza","Chimney Hill Plaza, 108-15122 72 Avenue, Surrey V3S2G3",+16045971211,24,12
+25,Fleetwood,Dragon's Chop Suey House,3.5,CA$40 for two,"Chinese, Asian","16055 Fraser Highway, Surrey V4N0G3",+16045016006,25,5
+26,Fleetwood,Dae-ji,3.7,CA$25 for two,"Korean, Asian Fusion","Fleetwood Park Village, 15949 Fraser Highway, Surrey V4N 0Y3",+16045937655,14,7
+27,Fleetwood,Church's Chicken,3.1,CA$20 for two,Fast Food,"15318 Fraser Highway, Surrey V3R4E4",+16045883666,16,11
+28,Fleetwood,Pink Lotus Cafe,3.5,CA$25 for two,Vietnamese,"104-16016 Fraser Highway, Surrey V4N 0G3",+16045430515,17,20
+29,Fleetwood,BBQ King Delight,3.1,CA$35 for two,"BBQ, Chinese, Asian","8973 152 Street, Surrey V3R4E5",+16044984069,9,17
+30,Fleetwood,Green Timbers Pub,2.8,CA$50 for two,Bar Food,"Green Timbers Plaza, 9167 148 Street, Surrey V3R3W7",+16045886587,16,5
+31,Fleetwood,Ricky's All Day Grill,3.3,CA$50 for two,"Grill, Bar Food","Evergreen Mall, 8958 152 Street, Surrey V3R4E4",+16045813212,16,17
+32,Fleetwood,Lee's Express Chinese Food,3.0,CA$20 for two,"Chinese, Fast Food","Green Timbers Plaza, 9181 148 Street, Surrey V3R3W7",+16045813615,13,1
+33,Fleetwood,D-Plus Pizza,3.6,CA$20 for two,"Pizza, Fast Food","103-15933 Fraser Highway, Surrey V4N0Y3",+16045935555,14,2
+34,Fleetwood,Triple O's,3.5,CA$25 for two,Fast Food,"15588 Fraser Highway, Surrey V3S2V9",+16045431707,15,18
+35,Fleetwood,A&W,3.1,CA$20 for two,Fast Food,"15988 Fraser Highway, Surrey V4N0X8",+16045979599,14,6
+36,Fleetwood,Dairy Queen,3.1,CA$20 for two,"Fast Food, Desserts","9110 152 Street, Surrey V3R4E7",+16045810400,11,21
+37,Fleetwood,McDonald's,3.0,CA$20 for two,Fast Food,"15574 Fraser Highway, Surrey V3S2V9",+16045077900,13,12
+38,Fleetwood,Tim Hortons,3.4,CA$20 for two,"Fast Food, Cafe","15551 Fraser Hwy Unit 101, Surrey V3S2V8",+16045831332,10,19
+39,Fleetwood,Starbucks,3.5,CA$20 for two,Cafe,"15941 Fraser Highway, Surrey V4N0Y3",+16045965459,10,17
+40,Fleetwood,KFC,2.9,CA$20 for two,Fast Food,"9056 152 Street, Surrey V3R4E7",+16045837775,9,6
+41,Fleetwood,Quiznos,3.2,CA$25 for two,"Fast Food, Sandwich","15940 Fraser Hwy Unit 403, Surrey V4N 0G3",+16045437080,6,8
+42,Fleetwood,Pizza Hut,3.7,CA$20 for two,"Pizza, Fast Food","Fleetwood Town Square, 103-15951 Fraser Highway, Surrey V3S2W7",+16045077118,9,28
+43,Fleetwood,Goru Goru,3.4,CA$25 for two,"Korean, Asian, Fast Food","Fleetwood Park Village, 305-15930 Fraser Highway, Surrey",+16046749864,5,2
+44,Fleetwood,Bharat Sweets & Restaurant,2.7,CA$20 for two,"Indian, Desserts","15166 Fraser Highway, Surrey V3R3P1",+16045830220,6,3
+45,Fleetwood,Perfect 2 For 1 Pizza,3.6,CA$20 for two,"Pizza, Fast Food","15625 96 Avenue, Surrey V4N2T5",+16045820222,7,2
+46,Fleetwood,Wendy's,3.7,CA$20 for two,Fast Food,"15959 Fraser Hwy, Surrey V3S2W7",+16045990219,8,30
+47,Fleetwood,Payal Sweets & Restaurant,-,CA$30 for two,Indian,"104-15988 Fraser Highway, Surrey V4N",+17785789622,3,2
+48,Fleetwood,Pasand Sweets,3.6,CA$20 for two,"Indian, Desserts","15932 96 Avenue, Surrey V4N2R8",+16045815657,4,5
+49,Fleetwood,Taco Bell,2.9,CA$20 for two,"Mexican, Fast Food","9056 152 Street, Surrey V3R4E7",+16045837775,4,12
+50,Fleetwood,Subway,3.4,CA$25 for two,Fast Food,"15551 Fraser Highway, Surrey V3S2V8",+16045837824,4,13
+51,Fleetwood,Pizza Express,3.9,CA$25 for two,"Pizza, Fast Food","15932 96 Avenue, Surrey V4N2L6",+16044961900,4,3
+52,Fleetwood,Browns Social House,-,CA$30 for two,"Bar Food, American","9666 King George Boulevard, Unit A1, Surrey, Surrey V3T 2V4",+16044970100,2,1
+53,Fleetwood,Creekside Grill,-,CA$35 for two,Bar Food,"7778 152 Street, Surrey V3S3M4",+16045974653,3,5
+54,Fleetwood,Holy Taco,-,CA$15 for two,Tex-Mex,"15951 Fraser Highway, Suite 100-A, Surrey, BC V4N 0Y3, Surrey",+16045031146,2,7
+55,Fleetwood,Thali Sweets & Restaurant Indian Cuisine Surrey,-,CA$30 for two,"Indian, Desserts","102 - 15932 96 Avenue, Surrey, BC V4N 2R8, Surrey",+16045815657,1,2
+56,Fleetwood,Bunkers Bar & Grill,-,CA$45 for two,Bar Food,"7929 152 Street, Surrey V3S8B4",+16045940282,2,0
+57,Fleetwood,Mucho Burrito,-,CA$15 for two,Mexican,"9666 King George Boulevard, Surrey V3T 2V5",+17782931600,1,0
+58,Fleetwood,Tim Hortons,-,CA$20 for two,Cafe,"16815 96 Avenue, Surrey",+16045889159,0,1
+59,Fleetwood,Cuatro Coffee,3.9,CA$20 for two,Cafe,"202-9014 152 Street, Surrey V3R4E7",+16044982418,44,16
+60,Fleetwood,De Dutch Pannekoek House,2.9,CA$40 for two,European,"101-15235 Fraser Highway, Surrey V3R3P3",+16049518476,27,14
+61,Fleetwood,Prairie Cafe,3.1,CA$25 for two,"Diner, Chinese, Asian","15280 Fraser Highway, Surrey V3R4E4",+16045886185,17,11
+62,Fleetwood,Ruben's Restaurant,3.7,CA$15 for two,Filipino,"15282 Fraser Highway, Surrey V3R",+16045856708,15,1
+63,Fleetwood,Marini Italian Foods,3.7,CA$20 for two,"Italian, Deli","15151 Fraser Highway, Surrey V3R3P2",+16045892488,13,3
+64,Fleetwood,Surrey Golf Club,-,CA$40 for two,Diner,"7700 168 Street, Surrey V3S3T6",+16045768224,3,2
+65,Fleetwood,Two Pals,-,for two,Drinks Only,"8410 160 Street Surrey, BC, Surrey",+1503.0055,0,0

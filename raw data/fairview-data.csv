@@ -1,0 +1,160 @@
+,Location,Name,Rating,Price Range,Cuisine Type,Address,Phone Number,Num Reviews,Num Photos
+0,Fairview,Suika,4.7,CA$65 for two,"Japanese, Asian, Tapas","1626 W Broadway, Vancouver V6J 1X6",+16047301678,0,1003
+1,Fairview,Peaceful Restaurant,4.3,CA$40 for two,Chinese,"532 W Broadway, Suite 110, Vancouver V5Z 1E9",+16048799878,829,227
+2,Fairview,"Cheesecake, etc.",4.2,CA$20 for two,"Desserts, Bakery","2141 Granville Street, Vancouver V6H 3E9",+16047347704,588,124
+3,Fairview,Banana Leaf,4.4,CA$45 for two,"Malaysian, Asian","820 West Broadway, Vancouver V5Z 1J8",+16047316333,648,258
+4,Fairview,Farmer's Apprentice,4.1,CA$100 for two,"Canadian, Pacific Northwest","1535 West 6th Avenue, Vancouver V6J 3G1",+16046202070,254,155
+5,Fairview,Tojo's,4.1,CA$80 for two,Sushi,"1133 West Broadway, Vancouver V6H 1G1",+16048728050,363,225
+6,Fairview,Rangoli,4.5,CA$40 for two,Indian,"1488 West 11th Avenue, Vancouver V6H 1L1",+16047365711,443,113
+7,Fairview,Afghan Horsemen,4.2,CA$50 for two,"Middle Eastern, Afghan","202-1833 Anderson Street, Vancouver V6J 1H2",+16048735923,325,112
+8,Fairview,Lin Chinese Cuisine,4.2,CA$50 for two,Chinese,"1537 W Broadway, Vancouver V6J 1W6",+16047339696,336,217
+9,Fairview,Dynasty Seafood Restaurant,4.1,CA$65 for two,"Dim Sum, Chinese, Asian, Seafood","108-777 W Broadway, Vancouver V5Z4J7",+16048768388,211,278
+10,Fairview,Heirloom Vegetarian,3.7,CA$80 for two,"Pacific Northwest, Healthy Food","1509 West 12th Avenue, Vancouver V6J 2E2",+16047332231,260,105
+11,Fairview,Tomokazu Japanese Restaurant,4.0,CA$50 for two,"Sushi, Japanese","201-1128 West Broadway, Vancouver V6H 1G5",+16046770434,247,218
+12,Fairview,Gyu-Kaku Japanese Barbecue,4.1,CA$50 for two,"BBQ, Japanese, Asian","Level 1, 201-950, West Broadway, Vancouver",+16045583898,128,246
+13,Fairview,Benkei Ramen,3.7,CA$25 for two,Ramen,"545 W Broadway, Vancouver V5Z 0B4",+16045686178,208,99
+14,Fairview,Shizen Ya,4.1,CA$30 for two,"Sushi, Healthy Food","1102 West Broadway, Vancouver 0 V6H 1G5",+16045693721,155,84
+15,Fairview,Tropika,3.9,CA$65 for two,"Malaysian, Thai, Asian","2975 Cambie Street, Vancouver V5Z 2V7",+16048796002,214,97
+16,Fairview,New India Buffet & Restaurant,3.5,CA$40 for two,Indian,"Broadway Centre, 805 West Broadway, Vancouver V5Z 1K1",+16048745800,169,179
+17,Fairview,Seoul House Royal Korean Restaurant,3.7,CA$50 for two,Korean,"1215 West Broadway, Vancouver V6H 1G7",+16047399001,108,116
+18,Fairview,Salmon n' Bannock,4.2,CA$40 for two,Canadian,"1128 West Broadway, Vancouver V6H 1G5",+16045688971,111,45
+19,Fairview,Allegro Cafe,4.0,CA$20 for two,Cafe,"Inside Whole Foods Market, 510 West 8th Avenue, Vancouver V5Z1C6",+17783704210,155,92
+20,Fairview,Ebisu,3.8,CA$55 for two,"Sushi, Japanese","12-601 West Broadway, Vancouver V5Z 4C2",+16048763388,112,208
+21,Fairview,I Cafe,3.8,CA$45 for two,Hong Kong Style,"2525 Heather Street, Vancouver V5Z 3J2",+16046300238,138,82
+22,Fairview,Milestones,3.6,CA$65 for two,"Canadian, Grill","2425 Cambie Street, Vancouver V5Z 4M5",+16046788488,138,153
+23,Fairview,Portobello Ristorante,4.0,CA$60 for two,Italian,"1429 West Broadway, Vancouver V6H3G6",+16047340697,97,46
+24,Fairview,Jitlada Thai Restaurant,3.9,CA$45 for two,Thai,"1459 West Broadway, Vancouver V6H 1H6",+16047389888,85,48
+25,Fairview,Earls,3.9,CA$70 for two,Canadian,"1601 West Broadway, Vancouver V6J1X6",+16047365663,119,106
+26,Fairview,Indian Roti Kitchen,4.1,CA$35 for two,Indian,"2961 Cambie Street, Vancouver V5Z 2V7",+16048763767,74,7
+27,Fairview,Taste of Vietnam,3.6,CA$25 for two,"Vietnamese, Asian","1016 West Broadway, Fairview, Vancouver 0V6H 1E6",+16047308383,113,41
+28,Fairview,Little Sheep Mongolian Hot Pot,3.7,CA$40 for two,"Mongolian, Asian","101-1788 West Broadway, Vancouver V6J 3J3",+16045634868,54,101
+29,Fairview,Rogue Kitchen & WetBar,3.5,CA$80 for two,"Canadian, Grill","602 West Broadway, Vancouver",+16045689400,107,65
+30,Fairview,Cactus Club Cafe,3.9,CA$70 for two,Canadian,"575 West Broadway, Vancouver V5Z 1E6",+16047146000,123,62
+31,Fairview,Osaka Teppanyaki,3.7,CA$80 for two,"Japanese, Asian","102-1788 West Broadway, Vancouver V6J1Y2",+16047338258,74,10
+32,Fairview,Ro Sushi,4.1,CA$30 for two,Sushi,"678 W Broadway Avenue, Fairview, Vancouver V5Z 1E9",+16048769899,93,28
+33,Fairview,Apollonia Greek Restaurant,4.1,CA$55 for two,"Greek, Mediterranean","1830 Fir Street, Vancouver V6J",+16047369559,83,14
+34,Fairview,Hokkaido Ramen Santouka,3.7,CA$30 for two,"Ramen, Japanese","558 W Broadway, Vancouver V5Z 1E9",+16045651770,55,105
+35,Fairview,Branas Mediterranean Grill,3.9,CA$80 for two,"Greek, Italian, Mediterranean","617 Stamps Landing, Vancouver, Vancouver V5Z3Z1",+16045686707,74,14
+36,Fairview,The Wicklow Pub,4.0,CA$50 for two,"Bar Food, British","610 Stamps Landing, Vancouver V5Z3Z1",+16048790821,86,38
+37,Fairview,Original Joe's,3.1,CA$65 for two,"Burger, Bar Food","2525 Cambie Street, Vancouver V5Z 3Y6",+16044345636,95,36
+38,Fairview,The Stable House Bistro,3.8,CA$65 for two,French,"1520 West 13th Avenue, Vancouver V6J 2G4",+16047361520,42,21
+39,Fairview,Sushi Van,3.9,CA$45 for two,"Sushi, Japanese, Asian","2566 Granville Street, Vancouver V6H 3G7",+16047399440,72,41
+40,Fairview,Bashu Sichuan Restaurant,3.2,CA$35 for two,"Dim Sum, Sichuan, Chinese, Asian","205-1668 West Broadway, Vancouver V6J",+16047395888,22,101
+41,Fairview,Max's Bakery & Delicatessen,3.5,CA$25 for two,"Deli, Bakery","3105 Oak Street, Vancouver",+16047334838,79,39
+42,Fairview,Speakeasy,2.6,CA$60 for two,Bar Food,"901 West Broadway, Vancouver V5Z1K3",+16045584100,85,8
+43,Fairview,Q Q Sushi,3.3,CA$25 for two,"Sushi, Japanese","1640 West Broadway, Vancouver V6J",+16045689018,75,9
+44,Fairview,Szechuan Chili Restaurant,4.0,CA$45 for two,"Chinese, Asian","Gold Plaza, 804 West 6th Avenue, Vancouver V5Z",+16048743737,71,7
+45,Fairview,Sushi Dragon,3.7,CA$35 for two,"Sushi, Japanese, Asian","614 West Broadway, Vancouver V5Z 1G1",+16048791889,46,19
+46,Fairview,B-Bin,3.8,CA$45 for two,Sushi,"3093 Oak Street, Vancouver V6H 2K8",+16045688215,40,14
+47,Fairview,Fortune Garden,3.3,CA$70 for two,"Chinese, Asian","1475 West Broadway, Vancouver V6H1H6",+16047366868,80,4
+48,Fairview,Chatime,3.4,CA$20 for two,"Bubble Tea, Beverages","1545 West Broadway, Vancouver",+17783797711,45,51
+49,Fairview,Mahony & Sons,3.0,CA$70 for two,"Bar Food, Irish","601 Stamps Landing, Vancouver V5Z3Z1",+16048760234,42,42
+50,Fairview,The Marquis,3.7,CA$60 for two,Bar Food,"2666 Granville Street, Vancouver V6H 3H8",+16045680670,71,10
+51,Fairview,Yanaki Sushi,4.1,CA$45 for two,"Sushi, Japanese, Asian","Gold Plaza, 816 West 6th Avenue, Vancouver V5Z",+16047085006,57,12
+52,Fairview,Zaccary's Pizza,4.0,CA$25 for two,"Pizza, Fast Food","3150 Oak Street, Vancouver",+16047371933,49,4
+53,Fairview,Shanghai Lu Restaurant,3.1,CA$45 for two,"Chinese, Shanghai, Dim Sum, Asian","705 West Broadway, Vancouver V5Z 1G8",+16048739147,18,75
+54,Fairview,Masa Japanese,3.3,CA$30 for two,Sushi,"1418 West Broadway, Vancouver V6B 1R3",+16047320112,31,79
+55,Fairview,Boston Pizza,3.2,CA$45 for two,"Pizza, Bar Food","190-1333, West Broadway, Vancouver, Vancouver V6H 4C1",+16047302822,55,43
+56,Fairview,Grapes & Soda,3.6,CA$50 for two,Pacific Northwest,"1537 West 6th Avenue, Vancouver V6J",+16043362456,16,28
+57,Fairview,Kisokoma,3.2,CA$40 for two,Sushi,"Broadway Centre, 112-805 West Broadway, Vancouver V5Z1K1",+16048751117,32,40
+58,Fairview,New Sun Szechuan Restaurant,3.9,CA$30 for two,"Chinese, Asian","2925 Cambie Street, Vancouver 0V5Z 2V7",+16048761277,30,4
+59,Fairview,Bawan's Donair & Pizza,3.6,CA$40 for two,"Greek, Pizza","1453 West Broadway, Vancouver V6H1H6",+16046771703,35,11
+60,Fairview,Donair Spot,3.2,CA$25 for two,Mediterranean,"806 West Broadway, Vancouver V5Z",Not available for this place,37,9
+61,Fairview,Whole Foods Market,3.2,CA$30 for two,"Cafe, Bakery, Healthy Food, Canadian","510 West 8th Avenue, Vancouver V5Z1C6",+17783704210,18,57
+62,Fairview,My Slice Pizza,3.7,CA$25 for two,"Pizza, Fast Food","1630 West Broadway, Vancouver V6J1W9",+16047345700,22,12
+63,Fairview,Broadway Chinese Restaurant,2.9,CA$35 for two,"Chinese, Asian","1410 West Broadway, Vancouver V6H1H4",+16047310488,26,4
+64,Fairview,Bella Pizza,3.2,CA$35 for two,"Pizza, Italian","2525 Hemlock Street, Vancouver V6H3G8",+16047326565,27,7
+65,Fairview,Jamjar,3.7,CA$25 for two,Lebanese,"1488 West 11th Avenue, Vancouver, Vancouver V6H 3H8",+16047332211,7,12
+66,Fairview,Assembli,3.2,CA$25 for two,"Pizza, Salad","2325 Cambie Street, Vancouver, Vancouver v5z2t9",+16048731253,12,13
+67,Fairview,Tim Hortons,2.3,CA$20 for two,"Fast Food, Cafe","865 West Broadway, Vancouver V5Z1J9",+16048720348,20,17
+68,Fairview,Pepper Lunch Canada,3.0,CA$30 for two,Japanese,"2323 Cambie Street, Vancouver",+17783795138,4,9
+69,Fairview,Domino's,2.9,CA$20 for two,"Pizza, Fast Food","1312 West Broadway, Vancouver",+16047318200,19,6
+70,Fairview,Unchai Thai Restaurant,3.7,CA$25 for two,Thai,"2351 Burrard Street, Fairview, Vancouver, Vancouver",+16042605827,6,4
+71,Fairview,Blenz Coffee,3.6,CA$20 for two,"Cafe, Coffee and Tea","695 West Broadway, Vancouver V5Z1G1",+16045689664,14,15
+72,Fairview,Fiore Restaurants,3.1,CA$50 for two,Cafe,"1485 W 12th Ave, Vancouver, BC, Vancouver",+16045581485,6,3
+73,Fairview,Stages Bistro and Lounge,3.8,CA$80 for two,Canadian,"Holiday Inn, 711 West Broadway, Vancouver V5Z1J6",+17783302406,9,3
+74,Fairview,McDonald's,2.5,CA$20 for two,Fast Food,"1482 West Broadway, Vancouver V6H1H6",+16047181191,14,14
+75,Fairview,Fairview Pub,2.6,CA$50 for two,Bar Food,"Park Inn by Radisson, 898 West Broadway, Vancouver",+16048721262,12,2
+76,Fairview,Freshslice Pizza,2.6,CA$20 for two,"Pizza, Fast Food","500 West Broadway #103, Vancouver V5Z 1E9",+16046300030,10,16
+77,Fairview,A&W,3.7,CA$20 for two,Fast Food,"104-777 West Broadway, Vancouver V5Z4J7",+16048770796,10,5
+78,Fairview,Yu Shang Hot Pot,3.4,CA$25 for two,Chinese,"202-950 W Broadway Vancouver, BC V5Z 1K7, Vancouver",+16045646686,5,15
+79,Fairview,Denny's,3.0,CA$40 for two,American,"1759 West Broadway, Vancouver V6J1Y2",+16046789973,5,36
+80,Fairview,Subway,2.7,CA$25 for two,Fast Food,"1288 West Broadway, Vancouver V6H3X8",+16047363311,8,14
+81,Fairview,Panago,3.4,CA$30 for two,"Pizza, Fast Food","1278 West Broadway, Vancouver",+16043100001,8,15
+82,Fairview,Starbucks,3.7,CA$20 for two,Cafe,"104-500 West Broadway, Vancouver",+16048725666,7,16
+83,Fairview,Regal Mansion Cuisine,-,CA$60 for two,Chinese,"555 W 12th Ave #201, Fairview, Vancouver, Vancouver",+16048798038,1,0
+84,Fairview,La Taqueria,-,CA$25 for two,Mexican,"2450 Yukon Street, Fairview, Vancouver, Vancouver",+16045582549,1,2
+85,Fairview,Milksha,-,CA$20 for two,"Bubble Tea, Taiwanese","6111, Number 3 Road, Fairview, Vancouver, Vancouver",+16043306658,1,0
+86,Fairview,Megabite Pizza,-,CA$20 for two,"Pizza, Fast Food","106-1833 Anderson Street, Vancouver V6H",+16047330888,1,13
+87,Fairview,Edge Yuandian Tea & Juice Bar,-,CA$20 for two,"Beverages, Bubble Tea","106-950 W Broadway, Fairview, Vancouver, Vancouver",+16044232808,0,0
+88,Fairview,Tim Hortons,-,CA$20 for two,Cafe,"818 West 6th Street, Vancouver",+16045640440,0,1
+89,Fairview,Tim Hortons,-,CA$20 for two,Cafe,"1790 West 4th Avenue West, Vancouver",+16047307889,0,1
+90,Fairview,Chipotle Mexican Grill,-,CA$20 for two,Mexican,"532 West Broadway Suite 100, Vancouver, BC V5Z 1E9, Vancouver",+16048291374,0,0
+91,Fairview,Tim Hortons,-,CA$25 for two,Cafe,"1398 West Broadway, Fairview, Vancouver, Vancouver",+16047397677,0,0
+92,Fairview,Cafe Salade de Fruits,4.8,CA$80 for two,French,"Inside French Cultural Centre, 1551 W 7th Avenue, Vancouver V6H 4H7",+16047145987,577,168
+93,Fairview,Go Fish Ocean Emporium,4.5,CA$25 for two,"Seafood, Fish and Chips","1505 W 1st Avenue, Vancouver V6J1E8",+16047305040,527,106
+94,Fairview,Beaucoup Bakery & Cafe,4.2,CA$20 for two,"Cafe, Bakery, French","2150 Fir Street, Vancouver V6J 3B5",+16047324222,367,183
+95,Fairview,Blue Hat Bistro,4.2,CA$80 for two,"French, Pacific Northwest","1505 #101, West 2nd Ave, Fairview, Vancouver, Vancouver V6J 1H2",+16047340101,189,295
+96,Fairview,Patisserie Lebeau,4.3,CA$20 for two,"Cafe, Desserts","1728 West 2nd Avenue, Vancouver V6J1H7",+16047313528,190,43
+97,Fairview,Moii Cafe,4.2,CA$30 for two,"Cafe, Bubble Tea, Desserts","2559 Cambie Street, Vancouver, Vancouver 0V5Z 3Y6",+16045690666,182,86
+98,Fairview,Paul's Place Omelettery,4.2,CA$30 for two,"Canadian, Diner, Sandwich","2211 Granville Street, Vancouver V6H3G1",+16047372857,275,92
+99,Fairview,Caffè Cittadella,4.2,CA$15 for two,Cafe,"2310 Ash Street, Vancouver V5Z 3C3",+16045685909,138,67
+100,Fairview,Chocolate Arts Cafe,4.3,CA$20 for two,"Cafe, Desserts","1620 West 3rd Avenue, Vancouver V6J5E2",+16047390475,99,46
+101,Fairview,Elysian Coffee,4.3,CA$20 for two,Cafe,"590 West Broadway, Vancouver V5Z 1E9",+16048745909,216,60
+102,Fairview,Yolk's,3.4,CA$30 for two,"Canadian, Diner","546 West Broadway, Vancouver V6A 1S6",+16045599655,70,102
+103,Fairview,Chiffon Patisserie,3.9,CA$30 for two,"Cafe, Desserts","1073 West Broadway, Vancouver V6H",+16047321232,48,15
+104,Fairview,Sushi Bang,3.5,CA$45 for two,Sushi,"100-500 West Broadway, Vancouver V5Z 1E9",+16048750131,94,34
+105,Fairview,Soffee Cafe,3.7,CA$30 for two,Cafe,"1426 West 8th Avenue, Vancouver V6H1E1",+16047366668,21,44
+106,Fairview,Breakfast Table,3.4,CA$25 for two,"American, Coffee and Tea","1481 West Broadway, Vancouver V6H 1H6",+16048051900,28,45
+107,Fairview,Wicked Cafe,3.2,CA$25 for two,Cafe,"1399 West 7th Avenue, Vancouver V6H1B8",+16047339425,59,32
+108,Fairview,Pekoe Tea Lounge,3.6,CA$15 for two,"Tea, Cafe","895 West Broadway, Vancouver V5Z",+17783718343,47,21
+109,Fairview,IHOP,4.0,CA$25 for two,American,"Level 1, 200-950 West Broadway, Vancouver V5Z 1K7",+16047328800,52,42
+110,Fairview,Dose Espresso Bar,3.9,CA$20 for two,Cafe,"1517 West Broadway, Vancouver V6J 5K9",+16047347711,38,14
+111,Fairview,Porto Cafe,3.4,for two,"Coffee and Tea, Cafe","2207 Cambie Street, Vancouver V5Z 2T5",Not available for this place,23,47
+112,Fairview,Minato,3.0,CA$35 for two,"Sushi, Japanese, Asian","102-1001 West Broadway, Vancouver V6H 4E4",+16047326554,48,12
+113,Fairview,Liquids + Solids,3.4,CA$25 for two,Healthy Food,"1550 West Broadway, Vancouver V6J5K9",+16043367687,36,17
+114,Fairview,Duke's on Broadway,3.6,CA$25 for two,Cafe,"736 West Broadway, Vancouver",+16048763853,37,8
+115,Fairview,Falafully Good,3.6,CA$45 for two,"Middle Eastern, Mediterranean","3170 Oak Street, Vancouver",+16047313553,30,12
+116,Fairview,De Dutch Pannekoek House,2.9,CA$40 for two,European,"3192 Oak Street, Vancouver",+16047321915,46,17
+117,Fairview,Freshii,2.3,CA$25 for two,"Healthy Food, Juices","561 West Broadway, Vancouver V5Z0B4",+16043363155,35,15
+118,Fairview,Blue Moon Flying Swan Coffee House,3.4,CA$35 for two,"Diner, Chinese","1724 West 4th Avenue, Vancouver V6J1M2",+16047382656,26,6
+119,Fairview,Phoscao Cafe,3.4,CA$25 for two,Cafe,"3007 Granville Street, Vancouver",+16047309555,27,9
+120,Fairview,Charlottle Dessert Shop,3.3,CA$15 for two,Desserts,"City Square Mall, Food Court, 555 West 12th Avenue, Vancouver",+16048722659,23,13
+121,Fairview,WestCoast Poké,3.1,CA$20 for two,Hawaiian,"463 W 8th Avenue, Vancouver, Vancouver V5Y 3Z5",+17783795344,21,11
+122,Fairview,Bin 4 Burger Lounge,3.6,CA$20 for two,Burger,"2996 Granville Streetbi, Vancouver V6H 3J7",+16044287649,18,23
+123,Fairview,Slickity Jim's Chat & Choux,3.1,CA$40 for two,Canadian,"1387 West 7th Avenue, Vancouver",+16047325544,9,12
+124,Fairview,Daniel Le Chocolat Belge,3.1,CA$15 for two,Desserts,"2820 Granville Street, Vancouver",+16047331994,16,14
+125,Fairview,Willow Cafe & Bakery,3.2,CA$20 for two,Cafe,"797 West 16th Avenue, Vancouver",+16045682443,17,10
+126,Fairview,Tony's Coffee,3.1,CA$20 for two,Cafe,"Broadway Centre, 111-805 West Broadway, Vancouver V5Z1K1",+16048710007,16,4
+127,Fairview,Blondy's Coffee,3.4,CA$20 for two,Cafe,"1705 West 4th Avenue, Vancouver V6J1M2",+16047324561,16,3
+128,Fairview,Deja Brew Coffee Shop,3.3,CA$30 for two,Cafe,"160-943 West Broadway, Vancouver V5Z4E1",+16045583113,10,15
+129,Fairview,Heirloom Juice Co.,3.3,CA$30 for two,"Juices, Beverages, Healthy Food, Desserts, Fast Food, Sandwich, Vegetarian","2861 Granville Street, Vancouver",+16047300022,8,8
+130,Fairview,Vivanty's Kitchen,-,CA$25 for two,"Beverages, Cafe, Healthy Food","802 West Broadway, Vancouver",Number not available,0,4
+131,Fairview,Ichibankan Express,2.8,CA$20 for two,"Sushi, Japanese, Asian","730 West Broadway, Vancouver",+16048722898,19,3
+132,Fairview,Soup Zone,2.9,CA$20 for two,"Sandwich, Healthy Food","City Square Mall, Food Court, 555 West 12th Avenue, Vancouver",+17783718781,12,2
+133,Fairview,Waves Coffee,3.1,CA$20 for two,Cafe,"1095 West Broadway, Vancouver V6H1E2",+16047319283,13,21
+134,Fairview,Le Bread Pan Bakery and Cafe,3.6,CA$20 for two,"Bakery, Cafe","665A Market Hill, Vancouver V5Z3Z3",+16046759885,7,3
+135,Fairview,Bean Around the World,3.5,CA$20 for two,Cafe,"2977 Granville Street, Vancouver",+16047319522,11,5
+136,Fairview,Tandem Bike Cafe,3.6,CA$15 for two,Cafe,"3195 Heather Street, Vancouver",+16043768223,8,4
+137,Fairview,Curry Point,3.6,CA$20 for two,"Fast Food, Indian","City Square Mall, Food Court, 555 West 12th Avenue, Vancouver",+16046537125,5,3
+138,Fairview,Teya Grill,2.8,CA$20 for two,"Fast Food, Japanese","City Square Mall, Food Court, 555 West 12th Avenue, Vancouver",+16048739095,6,3
+139,Fairview,Vana Vietnamese Cuisine,2.8,CA$20 for two,"Fast Food, Vietnamese, Asian","City Square Mall, Food Court, 555 West 12th Avenue, Vancouver",+16048798986,9,3
+140,Fairview,K Cafe,3.3,CA$25 for two,"Cafe, Korean","2533 Heather Street, Vancouver",+17787379295,4,6
+141,Fairview,Sushigo,3.1,CA$25 for two,"Sushi, Japanese, Asian","103-1833 Anderson Street, Vancouver V6J 1H2",+16047319990,10,3
+142,Fairview,Two Tarts Cafe & Catering,3.3,CA$15 for two,Cafe,"3-3195 Granville Street, Vancouver",+17788928278,6,2
+143,Fairview,5 Spice Vietnamese Cuisine,3.6,CA$25 for two,Vietnamese,"1513 West Broadway, Vancouver, Vancouver V6J 1W6",+16046208115,4,2
+144,Fairview,Cultured Coffee & Tea,3.1,CA$20 for two,Cafe,"City Square Mall, Upper Level, 555 West 12th Avenue, Vancouver",+16045692477,5,5
+145,Fairview,Sizzling Wok,3.4,CA$20 for two,"Fast Food, Chinese","City Square Mall, Food Court, 555 West 12th Avenue, Vancouver",+16048728837,7,1
+146,Fairview,Ooh La La Cafe,3.7,CA$25 for two,Canadian,"150 1333 West Broadway, Vancouver V6H 4C1",+16047370230,5,3
+147,Fairview,Trees Organic Coffee,-,CA$20 for two,"Cafe, Coffee and Tea, Desserts","1598 West Broadway, Vancouver, Vancouver V6J 5K9",+17783794050,2,1
+148,Fairview,Market Cafe,3.3,CA$45 for two,Canadian,"Park Inn by Radisson, 898 West Broadway, Vancouver",+16048728661,4,2
+149,Fairview,Goodge Place,-,CA$15 for two,Cafe,"1523 West 8th Avenue, Vancouver",+16047141133,3,5
+150,Fairview,Hybar Naturally,-,CA$20 for two,"Healthy Food, Juices","City Square Mall, 555 West 12th Avenue, Vancouver",+16048727080,2,2
+151,Fairview,Thai Away Home,-,CA$25 for two,Thai,"555, W 12th Ave #28, Fairview, Vancouver, Vancouver",+16048796565,2,1
+152,Fairview,Water80,-,CA$30 for two,"Fast Food, Dim Sum, Bubble Tea","City Square Mall, Food Court, 555 West 12th Avenue, Vancouver",+16049229666,1,2
+153,Fairview,Paragon Tea Room,-,CA$15 for two,"Cafe, Desserts","2207 Cambie Street, Fairview, Vancouver, Vancouver",+16046168386,1,0
+154,Fairview,RedBeef Noodle Kitchen (Main Street),-,CA$35 for two,Taiwanese,"550 Main St, Vancouver, BC V6A 2T9, Fairview, Vancouver, Vancouver",+16044235500,1,0
+155,Fairview,Yu Noodle House,-,CA$20 for two,"Northern Chinese, Ramen","2445 Burrard Street, Vancouver, BC V6J 3J3, Vancouver",+16045598953,1,3
+156,Fairview,Baroness Bubble Tea,-,CA$25 for two,"Cafe, Coffee and Tea, Desserts","2790 W Broadway, Fairview, Vancouver, BC V6K 3Z2, Vancouver",+16044233990,1,0
+157,Fairview,One Spot Feast,-,CA$20 for two,"Greek, Indian","28-555 W 12th Avenue, Vancouver, Vancouver V5Z 3X7",+17787100816,0,0
+158,Fairview,Starbucks,-,CA$20 for two,Cafe,"2787 Laurel Street Vancouver, BC V5Z 3J5, Vancouver",+16047099799,0,0

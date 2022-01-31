@@ -1,0 +1,133 @@
+,Location,Name,Rating,Price Range,Cuisine Type,Address,Phone Number,Num Reviews,Num Photos
+0,Kensington,Earnest Ice Cream,4.8,CA$15 for two,"Ice Cream, Desserts","3992 Fraser Street, Vancouver V5V4E4",+16044280697,813,186
+1,Kensington,Bandidas Taqueria,4.2,CA$40 for two,Mexican,"2781 Commercial Drive, Vancouver V5N 4C5",+16045688224,544,141
+2,Kensington,Western Lake Chinese Seafood Restaurant,4.5,CA$35 for two,"Dim Sum, Chinese, Asian, Seafood","4989 Victoria Drive, Vancouver V5P",+16043216862,427,606
+3,Kensington,CHAU VeggiExpress,4.7,CA$30 for two,"Vietnamese, Asian","5052 Victoria Drive, Vancouver V5P3T8",+16045689508,322,268
+4,Kensington,House of Dosas,4.3,CA$40 for two,"Sri Lankan, South Indian, Indian","1391 Kingsway, Kensington, Vancouver, Vancouver V5V 3E3",+16048751283,371,141
+5,Kensington,Sushi by Yuji,4.2,CA$35 for two,"Sushi, Japanese, Asian","2252 Kingsway, Vancouver V5N 2T7",+16044340003,217,219
+6,Kensington,Kalvin's Szechuen Restaurant,4.4,CA$30 for two,"Sichuan, Taiwanese, Chinese, Asian","5225 Victoria Drive, Vancouver V5P",+16043212888,227,187
+7,Kensington,Dai Tung Chinese Seafood Restaurant,4.1,CA$60 for two,"Dim Sum, Chinese, Asian","108-1050 Kingsway, Vancouver V5V3C6",+16048722268,274,199
+8,Kensington,Mui Ngo Gai,4.2,CA$35 for two,"Vietnamese, Asian","2052 Kingsway, Vancouver V5N2T3",+16048768885,171,128
+9,Kensington,Hai Phong Vietnamese Restaurant,4.1,CA$30 for two,"Vietnamese, Asian","1246 Kingsway, Vancouver, Vancouver V5V",+16048723828,179,158
+10,Kensington,Duffin's Donuts,4.3,CA$15 for two,"Cafe, Sandwich","1391 E 41st Avenue, Vancouver V5W 3R9",+16043255544,211,138
+11,Kensington,Hoi An Cafe,4.3,CA$30 for two,"Vietnamese, Asian","5002 Victoria Drive, Vancouver V5P",+16045669283,157,160
+12,Kensington,Green Lemongrass,4.2,CA$45 for two,"Vietnamese, Asian","1086 Kingsway, Vancouver V5V 3C6",+16048756638,157,103
+13,Kensington,Shima-Ya,4.3,CA$25 for two,"Sushi, Japanese, Asian","5589 Victoria Drive, Vancouver, Vancouver V5P 3W2",+16043224649,162,58
+14,Kensington,Green Lettuce,4.3,CA$35 for two,"Indian, Chinese, Asian","1949 Kingsway, Vancouver V5N 2T1",+16048769883,190,103
+15,Kensington,Amay's House Burmese and Asian Cuisine,4.2,CA$30 for two,"Burmese, Chinese, Asian","5076 Victoria Drive, Vancouver V5P 3V1",+16043272629,117,157
+16,Kensington,Bun Cha Ca Hoang Yen,4.0,CA$30 for two,"Vietnamese, Asian","5083 Victoria Drive, Vancouver, Vancouver V5P 3T9",+16043212711,109,123
+17,Kensington,Deutsches Haus at the Vancouver Alpen Club,3.8,CA$50 for two,German,"4875 Victoria Drive, Vancouver V5N4P5",+16048743811,137,140
+18,Kensington,Fatty Cow Seafood Hot Pot,3.6,CA$50 for two,"Hong Kong Style, Chinese, Asian","5108 Victoria Drive, Vancouver V5P 3V2 3V1",+16045686630,152,162
+19,Kensington,Banh Mi Saigon,4.1,CA$15 for two,"Sandwich, Vietnamese, Asian","5397 Victoria Drive, Vancouver V5P 3V6",+17783799992,101,106
+20,Kensington,Golden Swan Restaurant,3.7,CA$45 for two,"Chinese, Asian","5380 Victoria Drive, Vancouver V5P3V7",+16043216621,157,301
+21,Kensington,Oka-San Kitchen and Cafe,3.5,CA$30 for two,"Japanese, Asian Fusion","3578 Fraser Street, Vancouver V5V 0B3",+16046209898,54,155
+22,Kensington,Pink Peppercorn Seafood House,4.2,CA$100 for two,Seafood,"1485 Kingsway, Vancouver V5N",+16045693626,122,102
+23,Kensington,Chongqing Restaurant,4.1,CA$35 for two,"Chinese, Asian","2808 Commercial Drive, Vancouver V5N 4C6",+16042547434,213,57
+24,Kensington,Cafe Xu Hue,4.0,CA$15 for two,"Vietnamese, Asian","2226 Kingsway, Vancouver V5N5X6",+16044549940,110,69
+25,Kensington,Masayoshi,3.4,CA$300 for two,"Sushi, Japanese","4376 Fraser Street, Vancouver, Vancouver V5V 4G3",+16044286272,30,142
+26,Kensington,Koon Bo Seafood Restaurant,3.8,CA$30 for two,"Chinese, Asian","5682 Fraser Street, Vancouver V5W2Z3",+16043231218,113,144
+27,Kensington,El Caracol Cafe,4.2,CA$30 for two,"Mexican, Latin American","5190 Victoria Drive, Vancouver V5P",+16043253461,112,72
+28,Kensington,The Tipper Restaurant,4.0,CA$50 for two,Canadian,"2066 Kingsway, Vancouver V5N2T3",+16048731010,130,40
+29,Kensington,Ken's Kitchen,3.7,CA$50 for two,"Hong Kong Style, Chinese, Asian","1097, Kingsway, Kensington, Vancouver, Vancouver V5V 3C7",+16048736338,142,134
+30,Kensington,Bakery Sate,3.9,CA$10 for two,"Cafe, Desserts, Bakery","2879 Commercial Drive, Vancouver V5N0A6",+16045060290,63,56
+31,Kensington,Po Kong Vegetarian Restaurant,4.0,CA$50 for two,"Chinese, Asian","1334 Kingsway, Vancouver V5V 3E4",+16048763088,86,95
+32,Kensington,Pho Thai Hoa,3.8,CA$25 for two,"Vietnamese, Asian","1625 Kingsway, Vancouver, Vancouver V5N 3X3",+16048732348,125,81
+33,Kensington,Aree Thai Restaurant,3.9,CA$30 for two,"Thai, Asian","1150 Kingsway, Vancouver V5V3C6",+16047099229,108,41
+34,Kensington,Veggiebowl,4.0,CA$30 for two,"Vietnamese, Asian","2222 Kingsway, Vancouver V5N 2T5",+16046207672,66,60
+35,Kensington,BT Cafe,3.7,CA$20 for two,"Chinese, Asian","920 Kingsway, Vancouver V5V 3C4",+16048723368,89,104
+36,Kensington,Chomp Vegan Eatery,3.8,CA$30 for two,Cafe,"2234 East Hastings, Vancouver",+16049170201,88,7
+37,Kensington,Got Pho? Thien Kim Vietnamese Restaurant,4.1,CA$25 for two,"Vietnamese, Asian","2523 Nanaimo Street, Vancouver V5N5E6",+16042538239,79,57
+38,Kensington,Hapag Ihaw-Ihaw Filipino Grill,3.9,CA$40 for two,"Filipino, Asian","5432 Victoria Drive, Vancouver V5P 3V8",+16044280097,41,60
+39,Kensington,Truong Thanh Vietnamese Restaurant,3.9,CA$35 for two,"Vietnamese, Asian","2096 Kingsway, Vancouver V5N3C6",+16048769288,73,82
+40,Kensington,Adelitas,3.9,CA$30 for two,Mexican,"5178 Victoria Drive, Vancouver V5P3T8",+16046771580,64,59
+41,Kensington,17℃ Bubble Tea & Dessert Cafe,2.9,for two,"Cafe, Desserts","2229 Kingsway, Vancouver, Vancouver V5N 2T6",+16046209633,31,82
+42,Kensington,Vegan Pizza House,3.9,CA$25 for two,"Pizza, Fast Food","2119 Kingsway, Vancouver V5N2T4",+1604248-5336,64,11
+43,Kensington,Boteco Brasil,3.7,CA$50 for two,Brazilian,"2545 Nanaimo Street, Vancouver V5N 1Y4",+17783797995,56,47
+44,Kensington,Kent's Kitchen,3.9,CA$25 for two,Chinese,"5659 Victoria Drive, Vancouver V5P3W2",+16043218666,88,39
+45,Kensington,Sandy La Chinese Restaurant,2.7,CA$50 for two,"Chinese, Asian","5257 Victoria Drive, Vancouver V5P3V4",+16043271862,61,119
+46,Kensington,Dosa Factory,3.6,CA$25 for two,"Indian, South Indian, Chinese","1345 Kingsway, Metro Vancouver, Vancouver V5V 3E3",+17783797791,51,97
+47,Kensington,Madras Dosa House,4.0,CA$45 for two,Indian,"5656 Fraser Street, Vancouver V5W2W4",+16043271233,64,53
+48,Kensington,Cedar Cottage Neighbourhood Pub,3.8,CA$40 for two,Canadian,"3728 Clark Drive, Vancouver V5V3E2",+16048761411,55,20
+49,Kensington,Pho Long,3.6,CA$25 for two,"Vietnamese, Asian","3370 Fraser Street, Vancouver V5V1B8",+16048722879,67,27
+50,Kensington,Kokoro Ramen,3.1,CA$25 for two,"Japanese, Ramen","5695 Victoria Drive, Vancouver, Vancouver V5P 4Y3",+17783797688,44,64
+51,Kensington,Happy Sushi,3.2,CA$30 for two,"Sushi, Japanese, Asian","5632 Victoria Drive, Vancouver, Vancouver V5P 3W4",+16045683727,71,33
+52,Kensington,Pho Quyen,3.8,CA$35 for two,"Vietnamese, Asian","3916 Fraser Street, Vancouver V5V4E4",+16048733638,64,33
+53,Kensington,Thai Hang Vietnamese Restaurant 2,3.4,CA$25 for two,"Diner, Chinese, Asian","1962 Kingsway, Vancouver V5N 2S9",+16044281962,43,61
+54,Kensington,Kawa Sushi Japanese Restaurant,3.5,CA$30 for two,"Sushi, Japanese, Asian","5088 Victoria Drive, Vancouver V5P 3T8",+16045595998,51,40
+55,Kensington,White Spot,3.6,CA$50 for two,Canadian,"1476 Kingsway, Vancouver V5N2R5",+16048742825,55,64
+56,Kensington,Nooru Mahal,3.4,CA$50 for two,"Indian, Singaporean, Sri Lankan, Asian","4354 Fraser Street, Vancouver V5V2N6",+16048739263,46,24
+57,Kensington,Casa Verde,3.8,CA$35 for two,"Portuguese, Mediterranean","3532 Commercial Street, Vancouver V5N4E9",+16048767647,31,22
+58,Kensington,Sun Bo Kong Vegetarian Restaurant,3.7,CA$30 for two,"Vegetarian, Cantonese, Chinese","1363 Kingsway, Kensington, Vancouver",+16042558927,25,70
+59,Kensington,Pho Hoa Noodle Soup,2.4,CA$30 for two,Vietnamese,"2257 Kingsway, Vancouver V5N2T6",+16044326022,64,20
+60,Kensington,Broadway Station Sushi,3.5,CA$30 for two,"Sushi, Japanese, Asian","Commercial-Broadway Station, 101-1638 East Broadway, Vancouver V5N",+16046764300,55,22
+61,Kensington,Happy Family Restaurant,3.1,CA$50 for two,"Chinese, Asian","2178 Kingsway, Vancouver V5N2G5",+16046778286,37,37
+62,Kensington,Gojo Little Africa Ethiopian Cafe,3.7,CA$35 for two,"Ethiopian, African","2838 Commercial Drive, Vancouver V5N4C6",+16047085394,34,13
+63,Kensington,Sun Tin Day Cafe,2.9,CA$30 for two,"Cantonese, Chinese, Asian","5137 Victoria Drive, Vancouver V5P",+16043366168,32,48
+64,Kensington,Hoy's Wonton House,3.6,CA$30 for two,"Chinese, Asian","1202 Kingsway, Vancouver V5V",+16048744433,49,22
+65,Kensington,Prado Cafe,3.0,CA$20 for two,Cafe,"4208 Fraser Street, Vancouver",+16046207977,19,41
+66,Kensington,Commercial Sushi,3.7,CA$25 for two,"Sushi, Japanese, Asian","Commercial-Broadway Station, 2575 Commercial Drive, Vancouver V5N 4C1",+16045598866,36,15
+67,Kensington,Benss Cafe,2.8,CA$30 for two,"Hong Kong Style, Chinese, Asian","5628 Victoria Drive, Vancouver V5P 3W2",+16045583839,26,51
+68,Kensington,JR's Taste of Ceylon,3.3,CA$35 for two,Indian,"3929 Knight Street, Vancouver V5N3L8",+16047083008,37,7
+69,Kensington,Jamaican Pizza Jerk,3.7,CA$30 for two,"Jamaican, Pizza, Caribbean","2707 Commerical Drive Vancouver, BC V5N 4C5, Vancouver V5N",+16048763374,26,5
+70,Kensington,Icy Bar,2.9,for two,"Chinese, Desserts","1475 Kingsway, Vancouver",+17783798288,22,30
+71,Kensington,Nammos Estiatorio,3.3,CA$50 for two,"Greek, Tapas","3980 Fraser Street, Vancouver V5V 4E4",+16044286850,21,25
+72,Kensington,The Pizza King,3.8,CA$25 for two,"Pizza, Fast Food","1464 East Broadway, Vancouver V5N1V6",+16048751254,30,9
+73,Kensington,Fairy Cakes Cupcakes,3.6,CA$15 for two,Desserts,"3586 Fraser Street, Vancouver V5V4C6",+16044429866,31,8
+74,Kensington,Falafel Café,3.4,CA$20 for two,Mediterranean,"1385 Kingsway, Vancouver, Vancouver V5V 4Y6",+16044284721,25,8
+75,Kensington,Sushi Wind Japanese Restaurant,2.9,CA$30 for two,"Sushi, Japanese, Asian","1284 Kingsway, Vancouver V5V3E1",+16048748028,11,42
+76,Kensington,Spicy Beauty Restaurant,3.3,CA$45 for two,"Chinese, Asian","1707 Kingsway, Vancouver V5N3Z8",+16045596611,25,2
+77,Kensington,Thu Hien Deli,3.8,CA$20 for two,"Sandwich, Vietnamese, Asian","1388 Kingsway, Vancouver V5V3E4",+16048749243,19,13
+78,Kensington,Ananda Bhavan Dosa & Tandoori,3.5,CA$45 for two,Indian,"2269 Kingsway, Vancouver V5N2Z9",+16043365666,21,21
+79,Kensington,Indian Bay Leaf,3.6,for two,Indian,"4890 Victoria Drive, Metro Vancouver, Vancouver V5N 4P5",+16043360350,22,7
+80,Kensington,Kilimanjaro Snack House and Catering,3.4,CA$30 for two,Indian,"789 Kingsway, Vancouver V5V3C2",+16045597050,16,16
+81,Kensington,Pallet Coffee Roasters,3.5,CA$20 for two,"Cafe, Sandwich, Coffee and Tea","1398 Kingsway, Vancouver, Vancouver V5V 3E4",+16042552014,12,22
+82,Kensington,Pho Hue,3.4,for two,Vietnamese,"5497 Victoria Drive, Vancouver V5P 3V9",+17783795033,9,37
+83,Kensington,Camy's Pizza,3.7,CA$25 for two,Pizza,"5688 Fraser Street, Vancouver",+16043242200,25,5
+84,Kensington,Kyle's Cafe,3.5,CA$30 for two,"Canadian, Chinese, Asian","2627 Commercial Drive, Vancouver V5N",+16048725885,18,5
+85,Kensington,Dang Anh Cafe,3.2,for two,Vietnamese,"5186 Victoria Drive, Vancouver",+17783797977,9,16
+86,Kensington,Cedar Cottage Coffee House,3.7,CA$20 for two,Cafe,"1303 Kingsway, Vancouver V5V3E2",+16048750070,18,4
+87,Kensington,Kings Cafe,3.4,CA$20 for two,"Cafe, Sandwich, Coffee and Tea","2223 Kingsway, Vancouver, Vancouver V5N 5A1",+16044345764,14,15
+88,Kensington,AA Plus Restaurant,3.6,CA$25 for two,Chinese,"5207 Victoria Drive, Vancouver V5P 3V4",+16045658121,5,22
+89,Kensington,Royal Fortune Szechuan Restaurant,3.5,CA$30 for two,"Chinese, Asian","3944 Fraser Street, Vancouver",+16048793633,16,5
+90,Kensington,Do Chay,3.8,CA$30 for two,Vegetarian,"1392 Kingsway, Kensington, Vancouver, Vancouver",+16042258349,11,16
+91,Kensington,Ashiana Tandoori,3.5,CA$45 for two,Indian,"1440 Kingsway, Vancouver V5N 2R5",+16048745060,9,21
+92,Kensington,The Palm Tree Restaurant,3.7,CA$20 for two,Middle Eastern,"724 Kingsway, Vancouver V3C6R8",+16047244617,9,9
+93,Kensington,KFC,3.0,CA$20 for two,Fast Food,"2190 Kingsway, Vancouver V5N2T3",+16044380355,16,14
+94,Kensington,McDonald's,2.8,CA$20 for two,Fast Food,"2021 Kingsway, Vancouver V5N2T2",+16047181060,18,13
+95,Kensington,Dairy Queen Grill & Chill,3.4,CA$20 for two,"Fast Food, Desserts","4990 Victoria Drive, Vancouver V5P3T6",+16043213855,12,23
+96,Kensington,Shiok Singaporean Cuisine,3.0,CA$40 for two,Singaporean,"1716 Kingsway, Vancouver, BC V5N 2S4, Vancouver",+16044233838,6,14
+97,Kensington,New Sam Po,3.7,CA$25 for two,"Chinese, Asian","1382 Kingsway, Vancouver V5V",+16048791068,11,1
+98,Kensington,Starbucks,2.6,CA$20 for two,Cafe,"5603 Victoria Drive, Vancouver V5P3W2",+16043226515,9,21
+99,Kensington,Quiznos,3.4,CA$25 for two,"Fast Food, Sandwich","2580 Commercial Drive, Vancouver V5N4C1",+16048728097,8,13
+100,Kensington,New Mandarin Seafood Restaurant,2.9,CA$25 for two,"Chinese, Asian, Seafood","4650 Gladstone St, Vancouver, BC V5N 2T6, Vancouver",+16043369388,4,1
+101,Kensington,Subway,3.1,CA$25 for two,Fast Food,"Commercial-Broadway Station, 2569 Commercial Drive, Vancouver V5N4C1",+16048759970,5,18
+102,Kensington,Golden Joy,3.6,CA$20 for two,Asian,"4288 Fraser Street, Vancouver V5V4E8",+16048720720,4,3
+103,Kensington,Kaur's Coffee,-,CA$15 for two,"Cafe, Coffee and Tea","2406 E Broadway, Metro Vancouver, Vancouver V5M 4T9",+16045651111,3,3
+104,Kensington,Sumi Korean Restaurant,-,CA$40 for two,Korean,"5628 Victoria Drive, Kensington, Vancouver",+16046209235,3,10
+105,Kensington,Freshslice Pizza,3.5,CA$20 for two,"Pizza, Fast Food","2582 Commercial Drive, Vancouver V5N 4G1",+116047076669,5,13
+106,Kensington,Viet Mama Cafe,-,for two,Vietnamese,"5118 Victoria Dr, Vancouver, BC V5P 3V2, Metro Vancouver, BC, Metro Vancouver, Kensington, Vancouver, Vancouver",+17789889257,2,4
+107,Kensington,Fritou,-,CA$25 for two,Fast Food,"1391 East 41st Avenue, Vancouver",+16043255544,3,3
+108,Kensington,Kozak Ukrainian Eatery,-,CA$30 for two,"Ukrainian, Bakery","5077 Victoria Dr, Vancouver, BC V5P 3T9, Vancouver",+16044284421,2,1
+109,Kensington,Good Sushi,-,CA$45 for two,"Japanese, Korean, Sushi","3916 Fraser Street, Vancouver, BC V5V 4E4, Vancouver",+16048733638,2,5
+110,Kensington,Viva Sushi Bar,-,CA$55 for two,"Sushi, Japanese","1947 Kingsway St, Vancouver, Vancouver",+16043367727,1,2
+111,Kensington,Ngon Banh Mi and Tea,-,for two,"Vietnamese, Sandwich, Beverages","2228 Kingsway, Vancouver, BC, Metro Vancouver, Kensington, Vancouver, Vancouver",+16044286220,1,2
+112,Kensington,Serra Coffee Bar & Billiards,-,CA$15 for two,Cafe,"2139 Kingsway, Vancouver V5N5A1",+16045633505,1,3
+113,Kensington,Tim Hortons,-,CA$20 for two,"Fast Food, Cafe","2001 Kingsway, Vancouver",+16048771958,0,11
+114,Kensington,Tina Cake Desserts,-,CA$40 for two,"Asian, Desserts, Vietnamese","28-888, Kingsway, Metro Vancouver, Vancouver",+16045514187,0,0
+115,Kensington,Batard Boulangerie and Cafe Moderne,3.9,CA$30 for two,"Cafe, Bakery","3958 Fraser Street, Vancouver V5V4E4",+16045063958,65,85
+116,Kensington,My Chau,4.0,CA$20 for two,Vietnamese,"1715 Kingsway, Vancouver V5N 2S4",+16048746880,59,62
+117,Kensington,Lam Hoa Quan,3.8,CA$25 for two,"Vietnamese, Asian","5073 Victoria Drive, Vancouver, Vancouver V5P 3T9",+16043265880,55,47
+118,Kensington,Thanh Xuan Cafe,3.6,CA$25 for two,"Vietnamese, Asian","2261 Kingsway, Vancouver V5N2T6",+16044399696,21,51
+119,Kensington,De Dutch Pannekoek House,2.8,CA$40 for two,European,"4003 Knight Street, Vancouver V5N3L9",+16048768221,36,27
+120,Kensington,Boston Restaurant,2.7,for two,Chinese,"5155 Victoria Drive, Vancouver",+17783798868,11,71
+121,Kensington,Commercial Street Cafe,3.2,CA$30 for two,Cafe,"3599 Commercial Street, Vancouver V5N4E9",+16048778669,28,14
+122,Kensington,European Breads Bakery,3.3,CA$20 for two,Bakery,"4320 Fraser Street, Vancouver V5V4G3",+16048795101,15,18
+123,Kensington,Pho Duy,3.5,CA$25 for two,"Vietnamese, Asian","1996 Kingsway, Vancouver, Vancouver V5N 4N8",+16048759740,6,6
+124,Kensington,Circus PlayCafe,3.6,CA$25 for two,Cafe,"1650 East 12th Avenue, Vancouver",+16045582545,5,10
+125,Kensington,Duna Delicatessen,3.6,CA$15 for two,"Hungarian, Coffee and Tea","5026 Victoria Drive, Vancouver, Vancouver V5P 3T9",+16043242715,5,7
+126,Kensington,Knight Street Cafe,3.5,CA$10 for two,"Cafe, Canadian","3911 Knight Street, Vancouver V5N 3L8",+16045632877,6,7
+127,Kensington,Aperture Coffee Bar,-,CA$10 for two,Cafe,"4124 Main St, Vancouver, BC V5V 3P7, Canada, Vancouver",+16046208056,2,6
+128,Kensington,Trung Nguyen Cafe,-,CA$20 for two,"Cafe, Vietnamese, Coffee and Tea","1441 Kingsway, Vancouver, Vancouver V5N 5R3",+16045680806,2,7
+129,Kensington,Thanh Thanh,-,CA$30 for two,"Vietnamese, Asian","775 Kingsway, Vancouver V5V3C2",+16048730775,2,1
+130,Kensington,Excellent Dim Sum King,-,CA$40 for two,"Chinese, Dim Sum","2141 Kingsway, Vancouver, Kensington, Vancouver, Vancouver",+16044233633,1,4
+131,Kensington,Bean Banh Mi,-,CA$15 for two,"Vietnamese, Sandwich","1198 Kingsway, Vancouver, BC V5V 3C8, Vancouver",+16048753394,1,1

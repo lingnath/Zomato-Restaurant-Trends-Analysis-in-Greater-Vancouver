@@ -1,0 +1,255 @@
+,Location,Name,Rating,Price Range,Cuisine Type,Address,Phone Number,Num Reviews,Num Photos
+0,Whalley,Pho Tam,4.6,CA$30 for two,"Vietnamese, Asian","Andes Plaza, 10-10302 City Parkway, Surrey, Surrey V3T 4Y8",+16045894223,290,78
+1,Whalley,Sushi & Roll,4.1,CA$30 for two,"Sushi, Japanese, Asian","103-10241 King George Boulevard, Surrey, Surrey V3T 2W6",+16044984568,248,229
+2,Whalley,Bubble 88,4.2,CA$30 for two,"Dim Sum, Chinese, Taiwanese, Bubble Tea, Asian","Plaza 102, 10209 King George Boulevard, Surrey V3T 2W6",+17783958899,173,125
+3,Whalley,Taste Of Punjab,3.6,CA$45 for two,"Fusion, Indian","King George Centre, 10009 Whalley Boulevard, Surrey V3T 1H9",+16045887700,168,71
+4,Whalley,Nahm Thai Bistro,4.1,CA$60 for two,"Thai, Asian","202-13650 102 Avenue, Surrey V3T 2W5",+16049308833,151,46
+5,Whalley,Central City Brewing Co.,3.5,CA$55 for two,Bar Food,"Central City, 13450 102 Avenue, Surrey V3T 5X4",+16045826620,123,59
+6,Whalley,Neptune Seafood Restaurant,3.4,CA$65 for two,"Dim Sum, Cantonese, Chinese, Asian","Central City, 10153 King George Boulevard, Surrey V3T 2W1",+16044958886,126,108
+7,Whalley,Fresgo Inn Restaurant & Bakery,4.0,CA$50 for two,"Canadian, Bar Food","10102 King George Boulevard, Surrey V3T 2W4",+16045880878,114,46
+8,Whalley,King Do Restaurant,3.7,CA$35 for two,"Dim Sum, Chinese, Asian","13922 104 Avenue, Surrey V3T 1X2 1X2",+16045826911,68,63
+9,Whalley,Lotus Chinese Restaurant,3.8,CA$35 for two,"Dim Sum, Chinese, Asian","8939 Scott Road, Surrey V4C 3H5",+17785937366,84,32
+10,Whalley,Vlassis Souvlaki & Greek Taverna,4.0,CA$40 for two,"Greek, Italian","10028 King George Highway, Surrey V3T 2W4",+16045841884,74,6
+11,Whalley,Mahek Restaurant & Lounge,4.1,CA$45 for two,Indian,"9470 120 Street, Surrey V3V4B9",+16045853331,81,18
+12,Whalley,All About Pho,2.7,CA$30 for two,"Vietnamese, Asian","10190 King George Boulevard, Surrey V3T 2W4",+16044980222,85,22
+13,Whalley,Red Hot Chili Pepper,3.5,CA$35 for two,"Hakka Chinese, Chinese, Asian","12790 96 Avenue, Surrey V3V 1X7",+16045839987,71,8
+14,Whalley,Doni Korean Restaurant,3.6,CA$30 for two,"Japanese, Korean, Asian","24-10592 King George Boulevard, Surrey V3T2X3",+16045818808,30,52
+15,Whalley,Mehfil India Restaurant & Sweets,3.7,CA$35 for two,Indian,"9570 120 Street, Surrey V3V 4C1",+16045873200,52,32
+16,Whalley,Sushi Plus,3.9,CA$30 for two,"Sushi, Japanese, Asian","103-10777 University Drive, Surrey V3T 5T6",+16045887587,69,5
+17,Whalley,Sushi King George,3.4,CA$25 for two,"Sushi, Sandwich, Canadian","10344 King George Boulevard, Suite 102, Surrey, Surrey V3T 2W5",+17783958989,28,59
+18,Whalley,Asian Spice,3.7,CA$45 for two,"Chinese, Indian, Asian","9436 Scott Road, Surrey V3V 4B9",+16045828388,41,23
+19,Whalley,An Pho Vietnamese Restaurant,3.8,CA$25 for two,"Vietnamese, Asian","Plaza 104, 13784 104 Avenue, Surrey V3T 4H4",+16045898919,23,28
+20,Whalley,Top King's Chinese Restaurant and Cafe,3.7,CA$30 for two,"Chinese, Asian","101-10294 City Parkway, Surrey V3T4Y8",+16049306688,38,8
+21,Whalley,Chatime,3.4,CA$15 for two,"Beverages, Bubble Tea","10255 King George Boulevard, Surrey V3T 2W6",+16045886863,31,47
+22,Whalley,Mal Li Jang Sung,3.8,CA$50 for two,"Chinese, Korean, Asian","13648 105A Avenue, Surrey V3T4B9",+16045886100,30,25
+23,Whalley,White Spot,3.0,CA$50 for two,Canadian,"13580 102 Avenue, Surrey V3T4X8",+16045812511,43,40
+24,Whalley,Bozzinis Restaurant,3.0,CA$45 for two,"Canadian, Fusion","13655 104 Avenue, Ste 104, Surrey V3T 2W8",+16045886880,29,23
+25,Whalley,Izumo Sushi Japanese Restaurant,3.3,CA$45 for two,"Sushi, Japanese, Asian","King George Centre, 13631 100 Avenue, Surrey V3T 1H9",+16045893405,36,22
+26,Whalley,Rickshaw,2.2,CA$30 for two,"Dim Sum, Chinese, Asian","10505 King George Boulevard, Surrey V3T2W9",+16045811161,34,21
+27,Whalley,Knight & Day,3.0,CA$45 for two,Diner,"9677 King George Boulevard, Surrey V3T 2V3",+16045887575,28,21
+28,Whalley,Chicken World,3.1,CA$20 for two,Fast Food,"Cedar Hills Plaza, 12842 96 Avenue, Surrey V3V 6A8",+16045880221,31,10
+29,Whalley,Boston Pizza,3.2,CA$45 for two,"Pizza, Bar Food","#1081 - 10153 King George Hwy, Surrey V3T 2W1",+16045826795,29,36
+30,Whalley,Ricky's All Day Grill,3.3,CA$50 for two,"Grill, Bar Food","1076 Central City, Surrey V3T2W1",+16045822545,30,26
+31,Whalley,Uncle Fatih's Pizza,3.5,CA$25 for two,"Pizza, Fast Food","101-10277 City Parkway, Surrey",+16044981010,22,10
+32,Whalley,Super Pho VN,3.7,CA$35 for two,"Vietnamese, Asian","9544 120 St, Surrey, Surrey V3V 4C1",+16045810122,12,23
+33,Whalley,Mr Pickwick's Fish & Chips,3.6,CA$25 for two,Fish and Chips,"Cedar Hills Plaza, 12884 96 Avenue, Surrey V3V6A8",+16049302008,21,9
+34,Whalley,Neptune Wonton Noodle,3.3,CA$40 for two,"Cantonese, Chinese","Central City, 10153 King George Boulevard, Surrey V3T 2W3",+16044958882,24,19
+35,Whalley,Pho Hoa Hong,3.2,CA$35 for two,"Vietnamese, Asian","Andes Plaza, 4-10302 City Parkway, Surrey V3T 4Y8",+16045888890,22,8
+36,Whalley,China Village Wonton House,3.3,CA$30 for two,"Chinese, Asian","9644 King George Boulevard, Surrey V3T 2V5",+16045811933,13,16
+37,Whalley,Jaipur,3.6,CA$30 for two,Indian,"8840 120 Street, Surrey V3V 4B4",+17785641110,14,0
+38,Whalley,Pacific Kabab Hut & Catering,3.4,CA$30 for two,"Greek, Middle Eastern","10731 King George Boulevard, Surrey V3T 2X6",+16049570924,16,6
+39,Whalley,Tomato Shack Pizza,3.5,CA$35 for two,Pizza,"10322 Whalley Boulevard, Surrey",+16045882727,13,15
+40,Whalley,Donegal's Pub,3.3,CA$70 for two,Bar Food,"12054 96 Avenue, Surrey V3V4C1",+16045842112,15,8
+41,Whalley,Burger King,3.3,CA$20 for two,"Burger, Fast Food","10153 King George Hwy Central City, Surrey V3T2W5",+16045843371,13,131
+42,Whalley,Booster Juice,2.9,CA$20 for two,"Juices, Beverages, Fast Food","Central City, Upper Level, Food Court, 700-10153 King George Boulevard, Surrey V3T5X4",+16045848800,12,6
+43,Whalley,McDonald's,2.7,CA$20 for two,Fast Food,"10240 King George Highway, Surrey V3T2W5",+16045877015,13,10
+44,Whalley,Charley's Grilled Subs,3.3,CA$25 for two,Fast Food,"Central City, Food Court, Upper Level, 704-10153 King George Boulevard, Surrey V3T5X4",+17783955913,13,6
+45,Whalley,D-Plus Pizza,3.4,CA$20 for two,"Pizza, Fast Food","Plaza 102, 10207 King George Boulevard, Surrey V3T",+16045884545,12,3
+46,Whalley,Toyama Sushi Express,2.6,CA$25 for two,"Fast Food, Sushi, Japanese, Asian","Central City, Food Court, Upper Level, 701-10153 King George Boulevard, Surrey V3T",+16045848785,11,5
+47,Whalley,Freshslice Pizza,3.4,CA$20 for two,"Pizza, Fast Food","10252 City Parkway, Surrey V3T5X4",+16049572277,13,12
+48,Whalley,Lighthouse Fresh &Tasty,3.5,CA$35 for two,"Indian, Canadian","9631 128 Street, Surrey V3T",+16045839958,13,2
+49,Whalley,Go-Grill,3.3,CA$25 for two,"Fast Food, Asian Fusion","Central City, Food Court, Upper Level, 702-10153 King George Boulevard, Surrey V3T",+17783955599,10,6
+50,Whalley,OPA!,3.0,CA$20 for two,"Fast Food, Greek","Central City, Food Court, Upper Level, 707-10153 King George Boulevard, Surrey V3T5X4",+17783956555,12,4
+51,Whalley,Don Chepe's,3.4,CA$30 for two,Latin American,"Plaza 104, 13780 104 Avenue, Surrey",+16045820178,8,11
+52,Whalley,Manchu Wok,2.3,CA$20 for two,"Fast Food, Chinese, Asian","Central City, Food Court, Upper Level, 703-10153 King George Boulevard, Surrey V3T5X4",+16045858608,13,6
+53,Whalley,A&W,3.4,CA$20 for two,Fast Food,"Central City, Food Court, Upper Level, 701-10153 King George Boulevard, Surrey V3T5X4",+16045814569,9,7
+54,Whalley,Tim Hortons,2.9,CA$20 for two,"Fast Food, Cafe","9595 King George Hwy, Surrey V3V5W4",+16045820909,8,14
+55,Whalley,Thai Express,3.0,CA$20 for two,"Fast Food, Thai, Asian","Central City, Food Court, Upper Level, 708-10153 King George Boulevard, Surrey V3T5X4",+16045811889,9,8
+56,Whalley,Taco Time,2.9,CA$20 for two,"Fast Food, Mexican","8942 Scott Road, Surrey, Surrey V3V 4B4",+16045011199,9,10
+57,Whalley,Cultures,3.5,CA$20 for two,"Fast Food, Healthy Food","Central City, Upper Level, Food Court, 10153 King George Boulevard, Surrey V3T",+16044983912,6,9
+58,Whalley,Kingfisher Fish & Chips,2.9,CA$35 for two,"Chinese, Asian","13569 105A Avenue, Surrey V3T",+16045898233,7,6
+59,Whalley,Fern's Kitchen,3.5,CA$25 for two,"Indian, Pakistani","13553 105A Avenue, Surrey V3T4Z1",+17783957880,4,3
+60,Whalley,Church's Chicken,3.5,CA$20 for two,Fast Food,"10542 King George Boulevard, Surrey V3T2W9",+16045882252,6,4
+61,Whalley,Popular Fish House,2.8,CA$25 for two,"Indian, Fish and Chips, Fast Food","Scott Town Plaza, 9532 120 Street, Surrey V3V4B9",+16045882299,6,2
+62,Whalley,KFC,2.8,CA$20 for two,Fast Food,"Central City, Food Court, Upper Level, 10153 King George Boulevard, Surrey V3T5X4",+16045808422,8,4
+63,Whalley,Starbucks,-,CA$20 for two,Cafe,"Concord Pacific, 15-9908 King George Boulevard, Surrey",+16045881845,2,24
+64,Whalley,Taco Bell,2.9,CA$20 for two,"Mexican, Fast Food","Central City, Food Court, Upper Level, 10153 King George Boulevard, Surrey V3T5X4",+16045808422,6,11
+65,Whalley,Pizza Hut,3.6,CA$20 for two,"Pizza, Fast Food","Plaza 104, 13786 104 Avenue, Surrey V3T1W9",+16045821740,7,27
+66,Whalley,Blenz Coffee,3.3,CA$20 for two,"Cafe, Coffee and Tea","Central City, Lower Level, 250-13450 102nd Avenue, Surrey V3T 5X4",+16045833370,5,17
+67,Whalley,Pizza Point,3.5,CA$25 for two,Pizza,"King George Centre, 13651 100 Avenue, Surrey V3T1H9",+16045858886,4,1
+68,Whalley,Wendy's,2.1,CA$20 for two,Fast Food,"9412 Scott Road, Surrey V3V4B9",+16045817744,4,27
+69,Whalley,Subway,-,CA$25 for two,Fast Food,"10761 King George Boulevard, Surrey V3T2C5",+16045830888,2,12
+70,Whalley,Barcelo's Flame Grilled Chicken,-,for two,Portuguese,"113-12499 88 Avenue, Surrey",+17785659099,3,3
+71,Whalley,Dairy Queen (Treat),3.3,CA$20 for two,"Fast Food, Desserts","2591-10153 King George Hwy, Surrey V3T 5X4",+16045886810,4,14
+72,Whalley,Quiznos,-,CA$25 for two,"Fast Food, Sandwich","12815 96 Avenue, Surrey V3V6A8",+16045889661,3,9
+73,Whalley,Sumerian Grill,-,CA$20 for two,Lebanese,"10671A King George Blvd, Surrey, Surrey",+16044970332,2,4
+74,Whalley,Rose Sweets & Tandoori Hut,-,for two,Indian,"114 - 12565 88th Avenue, Surrey V3W 3J7",+16045930150,2,0
+75,Whalley,Pizza Plus,-,CA$25 for two,"Pizza, Indian","12050 96 Avenue, Surrey V3V4C1",+16045874992,2,1
+76,Whalley,Castro’s Tacos,-,CA$15 for two,Mexican,"13646 Grosvenor Rd, Surrey, Surrey",+16045800840,2,0
+77,Whalley,Rana Catering,-,CA$30 for two,Indian,"The Plaza, 8910 Scott Road, Surrey V3V",+16045887262,1,2
+78,Whalley,Golden Chongqing House,-,CA$30 for two,Chinese,"10537 King George Blvd, Surrey, Surrey",+16042567198,1,0
+79,Whalley,Bridgeview Pizza,-,CA$20 for two,"Pizza, Fast Food, Canadian","Royal Bridgeview Plaza, 106-11267 125A Street, Surrey V3V8C5",+16045804444,0,1
+80,Whalley,Orange Julius,-,CA$15 for two,"Fast Food, Juices, Beverages","K101-10153 King George Hwy, Surrey",+16045886811,0,0
+81,Whalley,Romeo's Garden,-,CA$30 for two,"Diner, Chinese, Asian","Turf Hotel, 12411 King George Highway, Surrey",+16045803123,0,0
+82,Whalley,Papa John's Pizza,-,CA$20 for two,Pizza,"10558 King George Boulevard, Surrey",+16049540677,0,6
+83,Whalley,Quesada Burritos &amp; Tacos,-,CA$25 for two,Mexican,"13737 96 Ave #101, Whalley, Surrey, Surrey",+17782931238,0,0
+84,Whalley,Mezbaan Indian & Indo Chinese,-,CA$30 for two,Indian,"12790 96 Ave, Whalley, Surrey, Surrey V3V 1X7",+16045839987,0,0
+85,Whalley,Whalley Round Up Cafe,3.9,CA$35 for two,Diner,"10449 King George Boulevard, Surrey V3T 1Z8",+16045810337,65,28
+86,Whalley,La Conquistadora,3.8,for two,"Latin American, Mexican","10511 King George Boulevard, Surrey V3T 2C5",+16045882291,55,21
+87,Whalley,The Taste Of Africa,3.7,CA$25 for two,African,"105 -10665 King George Boulevard, Surrey V3T 2X6",+16045824803,30,19
+88,Whalley,Grandt Kitchen,3.7,CA$40 for two,"Asian, Filipino","12297 Industrial Rd, Surrey, Surrey V3V 3S4",+17783950900,21,41
+89,Whalley,Afghan Bakery & Fast Food,3.9,CA$20 for two,Afghan,"Plaza 104, 13748 104 Avenue, Surrey V3T 1W9",+16045810100,28,11
+90,Whalley,New Town Bakery & Restaurant,3.6,CA$25 for two,"Bakery, Hong Kong Style, Chinese, Asian","Andes Plaza, 7-10302 City Parkway, Surrey V3T4C3",+16045881828,47,21
+91,Whalley,Jasna Cafe,3.6,CA$25 for two,Cafe,"1-10320 Whalley Boulevard, Surrey V3T 1N7",+17783953883,26,17
+92,Whalley,Di Reggae Cafe,3.3,CA$25 for two,Jamaican,"13593 King George Boulevard, Surrey V3T 2V1",+17789962887,10,9
+93,Whalley,Famous Kulcha & Gelato,3.6,CA$40 for two,"Ice Cream, Indian","Plaza 102, 10227 King George Boulevard, Surrey V3T2W6",+16044972033,9,5
+94,Whalley,Alebi African Cuisine,3.2,for two,African,"10695 135A Street, Surrey",+17782932988,5,15
+95,Whalley,Tay Do Deli,3.4,CA$20 for two,"Vietnamese, Asian","Plaza 104, 13740 104 Avenue, Surrey V3T1W9",+16045813559,11,2
+96,Whalley,Rocksteady Grille Catering,3.3,CA$25 for two,Caribbean,"13380 108 Avenue, Surrey, Surrey",+17788026582,8,6
+97,Whalley,Take Five Cafe,-,CA$20 for two,Cafe,"Inside City Hall, 135-13450 104 Avenue, Surrey V3T",+17783949030,1,30
+98,Whalley,Big Star Sandwich,3.0,CA$20 for two,Sandwich,"104-13402 104 Avenue, Surrey, Surrey BC V3T",+116044983101,7,9
+99,Whalley,Waves Coffee,3.2,CA$20 for two,Cafe,"102-10777 University Drive, Surrey",+16044982283,9,19
+100,Whalley,Aling Mary's,3.6,CA$30 for two,"Filipino, Asian","103-13979 104 Avenue, Surrey V3T4L5",+16049306059,9,0
+101,Whalley,Railway Cafe,3.3,CA$25 for two,Diner,"1-13375 115 Avenue, Surrey V3R5T6",+16045888410,6,2
+102,Whalley,Blue Elephant Bistro & Catering,-,CA$20 for two,"Sri Lankan, South Indian, Malaysian, Asian","12043 88 Avenue, Surrey V3W3J3",+16045034003,2,8
+103,Whalley,Gateway Java,-,CA$20 for two,Cafe,"108-13401 108 Avenue, Surrey V3T5T4",+16045885089,3,2
+104,Whalley,Cafe Nelly,-,CA$25 for two,Cafe,"107-13401 108 Avenue, Surrey V3T5T4",+16045820060,2,5
+105,Whalley,Thu Mai Coffee & Sandwiches,-,CA$15 for two,"Cafe, Asian","Asian Centre, 10673 King George Boulevard, Surrey V3T2X6",+17788826921,2,5
+106,Whalley,Nickel's Bakery and Krakus Deli,-,CA$25 for two,Deli,"Asian Centre, 10675 King George Boulevard, Surrey V3T2C5",+16045830466,3,2
+107,Whalley,RK Sweets & Restaurant,-,CA$25 for two,Indian,"9386 120 Scott Road, Surrey V3V4B9",+16045853433,3,2
+108,Whalley,Fresh Cravings Restaurant,-,CA$30 for two,Cafe,"8851 120th Street Delta, Whalley, Surrey, Surrey",+17784382635,0,0
+109,Whalley,AM Expresso,-,CA$20 for two,Cafe,"101 - 10277 City Parkway, Surrey V3T4C3",+16049301505,1,0
+110,Whalley,Bistro Panini,-,CA$20 for two,Cafe,"107-10277 City Parkway, Surrey V3T4C3",+16045897870,0,2
+111,Whalley,Pita Pita,-,for two,Fast Food,"Concord Pacific, 14-9908 King George Boulevard, Surrey",Not available for this place,0,0
+112,New Westminster,Victoria Sushi,4.4,CA$45 for two,"Sushi, Japanese, Asian","10-15 Royal Avenue East, Metro Vancouver V3L 0C7",+16047593848,190,283
+113,New Westminster,Burger Heaven,4.3,CA$55 for two,"Burger, Canadian","77 10th Street, Metro Vancouver V3M 1C4",+16045228339,328,84
+114,New Westminster,Cockney Kings Fish & Chips,4.5,CA$40 for two,"Fish and Chips, British","Columbia Square Plaza, 130-66 10th Street, Metro Vancouver V3M 1A6",+16045226099,316,68
+115,New Westminster,Longtail Kitchen,4.1,CA$35 for two,"Fast Food, Thai, Asian","River Market, 116-810 Quayside Drive, Metro Vancouver V3M6B9",+16045533855,150,173
+116,North Delta,Tasty Indian Bistro,4.4,CA$55 for two,Indian,"8295 120 Street, Metro Vancouver V4C 6R1",+16045079393,285,177
+117,New Westminster,Big Star Sandwich Company,4.2,CA$25 for two,"Sandwich, Canadian","664 Columbia Street, Metro Vancouver V3M 4J7",+16045210019,107,29
+118,New Westminster,Re-Up BBQ,3.8,CA$30 for two,"Fast Food, BBQ","River Market, 114-810 Quayside Drive, Metro Vancouver V3M6Z6",+16045533997,114,66
+119,New Westminster,Angelina's,3.9,CA$30 for two,"European, Canadian","115-960 Quayside Drive, Metro Vancouver V3M 6C9",+16045206468,107,75
+120,New Westminster,The Spud Shack Fry Co.,4.0,CA$40 for two,"Bar Food, Sandwich","800 Carnarvon Street, Unit 352, New Westminster, Metro Vancouver V3M 1C4",+16045532582,144,73
+121,New Westminster,The Hide Out Cafe,3.6,CA$30 for two,Cafe,"716 Carnarvon Street, Metro Vancouver V3M 1E6",+16045213344,59,8
+122,New Westminster,De Dutch Pannekoek House,3.4,CA$40 for two,European,"Columbia Square Plaza, 102-1035 Columbia Street, Metro Vancouver V3M 1C4",+16045212288,70,50
+123,Fleetwood,Al & Jan's Fish & Chips,4.0,CA$25 for two,Fish and Chips,"201-9014 152 Street, Surrey V3R4E7",+16049302021,58,10
+124,New Westminster,Old Crow Coffee Co.,3.2,CA$20 for two,Cafe,"655 Front Street, Metro Vancouver V3M1A2",+17789608790,28,19
+125,New Westminster,Tre Galli Gelato Caffe,3.8,CA$25 for two,"Cafe, Desserts, Pizza","River Market, 121-810 Quayside Drive, Metro Vancouver V3M6B9",+16045256745,38,28
+126,New Westminster,Freebird Chicken Shack,3.2,CA$30 for two,Asian,"105-810 Quayside Drive, Metro Vancouver",+16045531382,23,36
+127,New Westminster,Great Wall Tea Company,3.8,CA$10 for two,Tea,"River Market, 109-810 Quayside Drive, Metro Vancouver V3M6Z6",+16045203007,49,5
+128,Fleetwood,Cuatro Coffee,3.9,CA$20 for two,Cafe,"202-9014 152 Street, Surrey V3R4E7",+16044982418,44,16
+129,New Westminster,Ki Sushi,4.0,CA$55 for two,"Sushi, Japanese, Asian","31 8th Street, Metro Vancouver V3M1E6",+16045211833,280,86
+130,North Delta,La Meza Grill,3.2,CA$30 for two,"Filipino, Asian","11955 88 Avenue, Metro Vancouver V4C",+16045010963,23,59
+131,New Westminster,Pamola Bakery & Deli,3.6,CA$20 for two,"Bakery, Latin American, Mexican","River Market, 117-810 Quayside Drive, Metro Vancouver V3M6Z6",+17783971677,36,11
+132,Newton,Snak Shak & Thai Restaurant,3.5,CA$25 for two,"Thai, Asian","4-13560 77 Avenue, Surrey V3W 6Y2",+16045967211,21,12
+133,Newton,IHOP,3.9,CA$25 for two,American,"8170 120 Street, Surrey V3W 3N3",+16045964994,34,24
+134,Newton,Calypso Foods,3.8,CA$20 for two,Caribbean,"208-8322 130th Street, Surrey V3W8J9",+16045981170,13,8
+135,New Westminster,The Old Bavaria Haus,4.2,CA$75 for two,German,"233 6th Street, Metro Vancouver V3L 3A5 3A5",+16045245824,142,63
+136,Guildford,YL's Curry Bowl,3.4,CA$20 for two,"Fast Food, Chinese, Asian","Impact Plaza, T&T Supermarket Food Court, 15277 100 Avenue, Surrey",+16049301155,20,11
+137,Guildford,Sushi California,3.4,for two,"Japanese, Sushi","10320 152A Street, Surrey V3R 7P6",Not available for this place,11,35
+138,Newton,Cafe Madras,3.7,CA$15 for two,Indian,"111-8381 128 Street, Surrey V3W4G1",+16045033030,16,13
+139,New Westminster,Pink Ribbon Bakery,3.6,CA$10 for two,Bakery,"103-306 6th Street, Metro Vancouver V3L3A8",+16048374025,17,9
+140,Guildford,Ba Le Deli & Sandwiches,3.6,CA$20 for two,"Fast Food, Vietnamese, Deli, Asian","Impact Plaza, T&T Supermarket Food Court, 15277 100 Avenue, Surrey",+16045897572,25,6
+141,Newton,Golden Samosa Bakery,3.6,CA$15 for two,Indian,"12025 Nordel Way, Surrey V3W 1W1",+16045949696,20,0
+142,Fleetwood,Prairie Cafe,3.1,CA$25 for two,"Diner, Chinese, Asian","15280 Fraser Highway, Surrey V3R4E4",+16045886185,17,11
+143,Fleetwood,Ruben's Restaurant,3.7,CA$15 for two,Filipino,"15282 Fraser Highway, Surrey V3R",+16045856708,15,1
+144,New Westminster,Rain City Juicery,3.0,CA$20 for two,"Juices, Beverages","417 Front Street, Metro Vancouver",+17783971106,6,3
+145,Guildford,Kwan Kee Noodle House,3.3,CA$20 for two,"Fast Food, Chinese, Asian","Impact Plaza, T&T Supermarket Food Court, 15277 100 Avenue, Surrey V3R8X2",+16045882521,16,6
+146,New Westminster,Greens & Beans Deli Inc.,3.3,CA$25 for two,Cafe,"143 East Columbia Street, Metro Vancouver V3L3W3",+16047770998,17,1
+147,Fleetwood,Marini Italian Foods,3.7,CA$20 for two,"Italian, Deli","15151 Fraser Highway, Surrey V3R3P2",+16045892488,13,3
+148,Newton,The Samosa House,3.4,CA$10 for two,Indian,"12837 88 Avenue, Unit 109, Surrey, Surrey V3W 3K2",+16045937000,8,5
+149,Guildford,Kambingan,3.7,CA$35 for two,"Filipino, Chinese, Asian","14775 108th Avenue, Surrey V3R1V8",+16044965160,10,6
+150,New Westminster,Truffles Fine Foods Cafe,3.1,CA$25 for two,Cafe,"777 Columbia Street, Metro Vancouver V3M1B6",+16045054961,9,13
+151,Newton,Calgary Sweets & Restaurant,3.5,CA$35 for two,"Indian, Desserts","113-7928 128 Street, Surrey V3W 4E9",+16045919955,16,5
+152,Guildford,Happy Jack's Cafe,3.4,CA$20 for two,"Diner, Cafe","110-10470 152 Street, Surrey V3R0W8",+16045888533,8,6
+153,Newton,Basant Sweets & Dosa House,3.5,CA$25 for two,"Indian, Desserts","Payal Business Centre, 402 - 8148,128 Street, Surrey V3W 7X4",+16045953535,7,13
+154,North Delta,Viti Curry,3.7,CA$30 for two,Indian,"Wescana Centre, 8697 120 Street, Metro Vancouver V4C6R4",+16045994552,12,3
+155,New Westminster,BANHMi Bar,3.5,CA$10 for two,Vietnamese,"722 Carnarvon Street, New Westminster, Metro Vancouver V3M 6V4",+16045539966,7,4
+156,Guilford,Jugo Juice,3.4,CA$20 for two,"Juices, Beverages, Fast Food","Unit #1386, 10355 152 Street, Surrey, Surrey V3R 7C1",+16044985846,13,32
+157,Newton,New City Diner,3.7,CA$25 for two,Diner,"5-12950 80 Avenue, Surrey V3W0H7",+16045900321,6,6
+158,Newton,Rocky Mountain Pita Bakery,-,CA$20 for two,"Bakery, Middle Eastern","4-12950 80 Avenue,, Surrey V3W 3B2",+16045926868,1,15
+159,Guildford,Little Tea House,3.1,CA$10 for two,"Bubble Tea, Beverages","Impact Plaza, T&T Supermarket Food Court, 15277 100 Avenue, Surrey V3R8X2",+16045883050,12,1
+160,New Westminster,Coffee Bar,3.3,CA$15 for two,Coffee and Tea,"656 Columbia Street, Metro Vancouver V5Y 0E5",Not available for this place,6,3
+161,New Westminster,Lou Lou Lounge,3.6,CA$35 for two,Cafe,"612 Victoria Street, Metro Vancouver V3M1G8",+16045445055,8,4
+162,New Westminster,V Cafe,3.4,CA$25 for two,"Vegetarian, Vietnamese","789 Carnarvon St, New Westminster, BC V3M 1E6, Metro Vancouver",+16045538789,5,11
+163,Newton,Shagun Sweets,3.7,CA$30 for two,"Indian, Desserts","11-8388 128 Street, Surrey V3W 1R1",+16045977877,7,2
+164,North Delta,Jagga Sweets,3.6,CA$10 for two,"Desserts, Indian","Delta Village, 9277 120 Street, Metro Vancouver V4C6R8",+16045831324,6,5
+165,North Delta,Bing's Kitchenette,3.5,CA$25 for two,"Filipino, Asian","11956 88 Avenue, Metro Vancouver",+16045966722,7,2
+166,New Westminster,Columbia Street Sandwich Company,3.5,CA$20 for two,"Sandwich, Cafe","550 Columbia Street, Metro Vancouver",+16045171986,5,9
+167,New Westminster,Bruncheria Cafe,-,CA$20 for two,Cafe,"656 Columbia Street, New Westminster, BC V3M 1A9, Metro Vancouver",+16045440018,3,9
+168,Guildford,Rodem Korea,3.3,CA$20 for two,"Fast Food, Korean, Asian","Impact Plaza, T&T Supermarket Food Court, 15277 100 Avenue, Surrey V3R8X2",+17786866032,8,1
+169,Coquitlam,Creekside Cafe,3.8,CA$20 for two,Cafe,"104-1368 United Boulevard, Coquitlam V3K6T1",+16045407629,6,4
+170,Guildford,Hangry Health Bar,3.0,CA$25 for two,Healthy Food,"103A-15380 102A Avenue, Surrey",+16044971877,7,1
+171,North Delta,Fiji's Exotic Restaurant,2.7,CA$40 for two,Indian,"Wescana Centre, 8653 120 Street, Metro Vancouver V4C6R4",+17785930512,5,3
+172,New Westminster,Rong Rong Tea House,3.6,CA$25 for two,"Bubble Tea, Beverages, Asian, Chinese","74 8th Street, Metro Vancouver V3M5Z5",+16045168207,6,6
+173,New Westminster,Jam's Cafe,3.3,CA$20 for two,Cafe,"6-30 Capilano Way, Metro Vancouver V3L5H2",+16045222705,4,2
+174,Coquitlam,Corporate Deli Cafe,-,CA$15 for two,Cafe,"62 Fawcett Road, Coquitlam V3K6V5",+16045215999,3,3
+175,New Westminster,Your’s Cafe Shop,-,CA$15 for two,Cafe,"47 6th St, New Westminster, BC, Metro Vancouver",+16045538883,1,6
+176,Coquitlam,Sandwich Tray,-,CA$15 for two,"Cafe, Canadian, Sandwich","62 Fawcett Road, Coquitlam V3K 6V5",+16045215999,2,3
+177,Guildford,Archie's,3.3,CA$25 for two,Filipino,"8, 10180, 153th Street, Guildford, Surrey",+16043399792,4,4
+178,Newton,Victoria's Mexican Bakery,-,for two,"Bakery, Desserts","8056 King George Boulevard, Surrey V3W 5B5",+17785787830,3,0
+179,Newton,The Java Hut,-,CA$25 for two,Cafe,"#107 7728 128 Street, Surrey V3W1L3",+16045723700,2,2
+180,Guildford,Cabizerra Bistro,-,CA$30 for two,Filipino,"14775 108 Ave, Guildford, Surrey, Surrey V3R 1V9",+16044965160,1,4
+181,Guildford,Bahay Kubo,-,for two,"Asian, Filipino","10294 City Parkway, Surrey",+16045854508,1,5
+182,Coquitlam,Fuel Cafe,-,CA$20 for two,Cafe,"Hard Rock Casino, 2080 United Boulevard, Coquitlam V3K6W3",+16045236888,0,1
+183,Guildford,Ur Retsaurant,-,CA$20 for two,Middle Eastern,"108a Ave, Surrey, BC V3R 1W8, Surrey",+17786801010,1,6
+184,New Westminster,Amaranthus,-,for two,Vegetarian,"810 Quayside Dr, New Westminster, BC V3M 6C1, Metro Vancouver",+16045532231,1,4
+185,Newton,TNT Tattoo Sports Cafe,-,CA$35 for two,Canadian,"107-7999 King George Boulevard, Surrey V3W5B3",+16045961261,1,3
+186,Newton,Kwality Sweets & Restaurant,-,for two,"Desserts, Indian","8383 128 St, Unit 101, Surrey, Surrey V3W 4G1",+16045729998,0,0
+187,Guildford,Khang's Kitchen Express,-,CA$20 for two,"Fast Food, Japanese, Vietnamese, Asian","Impact Plaza, T&T Supermarket Food Court, 15277 100 Avenue, Surrey",+16045841190,1,1
+188,Newton,Rick's Cafe,-,CA$15 for two,Cafe,"7-8145 130 Street, Surrey",+16045943384,0,1
+189,Newton,Dairy Queen,-,CA$15 for two,Fast Food,"9436 King George Hwy, Surrey",+16045815311,0,0
+190,New Westminster,Sushi Well,4.0,CA$40 for two,"Sushi, Japanese, Asian","26 4th Street, Metro Vancouver V3L1G1",+17783970567,170,141
+191,Guildford,Tengoku Sushi,3.6,CA$45 for two,"Sushi, Japanese, Asian","10194 152 Street, Surrey V3R8X8",+16045849787,156,166
+192,Guildford,Seoul Grill House,3.7,CA$50 for two,"Korean, Asian","15155 101st Avenue, Surrey V3R 7V4",+16045888292,84,244
+193,Guildford,Guildford Station Pub,4.3,CA$50 for two,Bar Food,"10176154 Street, Surrey V3R 4J7",+16045822800,199,35
+194,Fleetwood,Nagoya Sushi,4.2,CA$40 for two,"Sushi, Japanese, Asian","Green Timbers Plaza, 9175 148 Street, Surrey V3R3W7",+16045856040,153,77
+195,Guildford,Akasaka Japanese Restaurant,4.0,CA$50 for two,"Sushi, Japanese, Korean, Asian","15110-101 Avenue, Surrey V3R 7V4",+16045881244,153,113
+196,Guildford,Lee Yuen Seafood Restaurant,4.1,CA$40 for two,"Seafood, Asian","14755 104th Avenue, Surrey, Surrey V3R 6S4",+16045831399,155,114
+197,Guildford,Hanako Japanese Restaurant,4.3,CA$40 for two,"Sushi, Japanese, Asian","15135, 101 Avenue, Suite 205, Surrey V3R 7Z1",+16045828833,143,73
+198,Guildford,Texx Big Burger,4.2,CA$25 for two,Burger,"14783 108th Avenue, Surrey V3R1V9",+16045880093,153,27
+199,Guildford,Malaysian Hut Restaurant,4.1,CA$30 for two,"Malaysian, Asian","14727 108th Avenue, Surrey V3R 1V8",+16045881718,85,55
+200,New Westminster,The Old Spaghetti Factory,3.4,CA$50 for two,Italian,"50 8th Street, Metro Vancouver V3M 3N8",+16045249788,158,153
+201,Guildford,Bubble World,3.8,CA$30 for two,"Bubble Tea, Beverages, Asian","137-10090 152nd Street, Surrey V3R 8X8",+16045853399,149,108
+202,Guildford,Boom Beer,4.0,CA$50 for two,"Korean, Asian","15155 101 Avenue, Suite 101, Guildford Town Centre, Surrey V3R7V4",+16045803553,87,75
+203,North Delta,Mirch Masala Restaurant,4.4,CA$50 for two,Indian,"9545 Scott Road, Metro Vancouver V4C6S3 6S4",+16045887795,108,72
+204,Guildford,Mek's Delight,4.0,CA$30 for two,"Malaysian, Thai, Asian","14910 104 Avenue, Surrey V3R",+16045882338,112,36
+205,New Westminster,North Noodle House,3.9,CA$35 for two,"Chinese, Asian","New West, Third Floor, 356-800 Carnarvon Street, Metro Vancouver V3M0G3",+16045446611,82,47
+206,Guildford,Jin Soo Sung Chan Korean Restaurant,3.9,CA$50 for two,"Korean, Asian","10312 152A Street, Surrey, Surrey V3R",+16044983177,64,77
+207,New Westminster,The Boathouse Restaurant,2.9,CA$75 for two,"Seafood, Steak","900 Quayside Drive, Metro Vancouver V3M 6C9",+16045253474,149,83
+208,Guildford,Big Chicken Town,3.6,CA$35 for two,"Korean, Asian","130-15280 101st Avenue, Surrey V3R8X8",+16044965007,74,40
+209,Guilford,Sushi Zen,4.1,CA$25 for two,"Sushi, Japanese, Asian","Riverside Heights, 14839 108 Avenue, Surrey V3R1W1",+16049302949,93,32
+210,Guildford,Donair Affair,4.0,CA$20 for two,"Kebab, Middle Eastern","10786 148 Street, Surrey V3R3X6",+16045843839,120,9
+211,North Delta,Thai By Thai,4.0,CA$50 for two,"Thai, Asian","9164 120 Street, Metro Vancouver V3V",+16045935244,92,41
+212,New Westminster,Taverna Greka,4.1,CA$60 for two,Greek,"326 Columbia Street, Metro Vancouver V3L 1A7",+16045266651,106,45
+213,Fleetwood,Il Uk Jo Restaurant,2.3,CA$35 for two,"Japanese, Korean, Asian","15188 Fraser Highway, Surrey V3R3P1",+16045839622,111,75
+214,Fleetwood,On Yuen Chinese Restaurant,4.0,CA$40 for two,"Chinese, Asian","304-9014 152 Street, Surrey V3R4E7",+16045833238,92,20
+215,Guildford,Pho Tau Bay,4.1,CA$35 for two,"Vietnamese, Asian","10782 148 Street, Surrey V3R3Y3",+16045851833,90,39
+216,Guildford,Sabai Thai Restaurant,4.0,CA$45 for two,"Thai, Asian","10391 150th Street, Surrey V3R 4B1",+16045889819,101,23
+217,Guildford,Guildford Sushi House,3.8,CA$30 for two,"Sushi, Japanese, Asian","10330 152 Street, Surrey V3R 4G8",+16045888620,96,33
+218,New Westminster,El Santo,3.2,CA$25 for two,Mexican,"680 Columbia Street, Metro Vancouver",+16047278176,53,109
+219,New Westminster,Hub Restaurant,3.0,CA$65 for two,Bar Food,"New West, Third Floor, 344-800 Carnarvon Street, Metro Vancouver V3M0G3",+16045440401,86,40
+220,New Westminster,Stefanos,3.6,CA$95 for two,"Greek, Mediterranean","315 Columbia Street, Metro Vancouver V3L 1A7",+16045209911,89,38
+221,Newton,Afghan Chopan Restaurant & Bakery,3.8,CA$40 for two,Afghan,"104-12888 80 Avenue, Surrey V3W 4E9",+16045432385,43,89
+222,North Delta,Desi Dosa Madras,4.1,CA$45 for two,Indian,"Kennedy Heights, 8859 Scott Road, Metro Vancouver V4C 6R4",+16045911591,67,28
+223,Guilford,Red Robin Gourmet Burgers and Brews,3.6,CA$30 for two,"Burger, Canadian","10237 152 St, Surrey, Surrey V3R 7C1",+16049302415,81,62
+224,Guilford,Milestones,2.8,CA$65 for two,"Canadian, Grill","10355 152nd St, Surrey V3R 7C1",+16045800600,40,135
+225,Guildford,Fresh Restaurant and Lounge - Sheraton Vancouver Guildford Hotel,3.5,CA$90 for two,Pacific Northwest,"Sheraton Vancouver Guildford Hotel, 15269 104th Avenue, Surrey V3R1N5",+16045876127,30,83
+226,Newton,Nordel Sushi,3.2,CA$65 for two,"Sushi, Japanese, Asian","Nordel Crossing, 125-12080 Nordel Way, Surrey V3W 1P6",+16045977220,67,32
+227,Guildford,Maguro Japanese Restaurant,3.8,CA$35 for two,"Sushi, Japanese, Asian","Impact Plaza, 141-10090 152nd Street, Surrey V3R8X8",+16045850054,61,35
+228,New Westminster,Royal Tandoori Indian,3.5,CA$50 for two,Indian,"83 6th Street, Metro Vancouver V3L2Z8",+16045212247,66,21
+229,New Westminster,Pizza Garden,4.0,CA$25 for two,Pizza,"New West, Second Floor, 255-800 Carnarvon Street, Metro Vancouver V3M 1E6",+16045203050,69,30
+230,New Westminster,Chronic Tacos,3.3,CA$30 for two,Mexican,"Columbia Square Plaza, 110-66 10th Street, Metro Vancouver V3M 1C4",+17783971811,76,21
+231,North Delta,Greek Village,4.1,CA$65 for two,"Greek, Italian","7953-120 Street, Metro Vancouver V4C 1Y2",+16045971515,71,16
+232,North Delta,Asian Jazz,3.8,CA$35 for two,"Chinese, Malaysian, Asian","8263 120 Street, Metro Vancouver V4C6R1",+16045917993,61,14
+233,Guildford,Sanhao BBQ Delight,3.5,CA$35 for two,"Chinese, Asian","Guildford Towngate, 1-15138 100th Avenue, Surrey V3R0J8",+16044983288,45,33
+234,New Westminster,Bobacabana,3.3,CA$20 for two,"Beverages, Desserts","360-800 Carnarvan Street, Metro Vancouver V3M 0G3",+16045531922,31,23
+235,New Westminster,Paddlewheeler Neighbourhood Pub,3.0,CA$55 for two,Bar Food,"River Market, 105-810 Quayside Drive, Metro Vancouver V3M6Z6",+16045241894,75,13
+236,Guildford,Famoso Neapolitan Pizzeria,3.1,CA$65 for two,"Italian, Pizza","1001-10355 152 Street, Surrey V3R 7C1",+17783955541,42,52
+237,New Westminster,Heritage Grill,3.0,CA$60 for two,"Canadian, Burger","447 Columbia Street, Metro Vancouver V3L1A9",+16047590819,70,11
+238,Guildford,The Taphouse,2.7,CA$75 for two,"Bar Food, Canadian","15330 102A Avenue, Surrey",+16045838828,58,20
+239,Guildford,Hong Ma No Korean Restaurant,3.8,CA$40 for two,"Chinese, Korean, Asian","Guildford Place, 10330 152 Street, Surrey V3R4G8",+16046340111,52,23
+240,North Delta,One20 Public House,3.8,CA$55 for two,Canadian,"8037 120 Street, Metro Vancouver V4C6P7",+16045913519,55,38
+241,Fleetwood,Greek Islands Restaurant,3.6,CA$35 for two,"Greek, Italian, Mediterranean","108-9547 152 Street, Surrey V3V5Y5",+16044980177,49,30
+242,Guildford,Jade Valley Chinese Restaurant,4.0,CA$30 for two,"Chinese, Asian","Impact Plaza, 149-10090 152nd Street, Surrey V3R 8X8",+16045882345,52,17
+243,Guildford,Palmyra Mediterranean Grill,3.9,CA$20 for two,Mediterranean,"167-10020 152 Street, Surrey, Surrey V3R 8X8",+16044960448,47,22
+244,New Westminster,Taza Falafel House,3.6,CA$30 for two,"Middle Eastern, Fast Food","344 6th Street, Metro Vancouver V3L3A9",+16045227900,38,39
+245,Guildford,Sushi Train Restaurant,3.8,CA$30 for two,"Sushi, Japanese, Asian","102-15380, 102 A Avenue, Surrey V3R 7K1",+16045808802,51,21
+246,Guildford,Pho Triple 8,3.6,CA$25 for two,"Vietnamese, Asian","Guildford Towngate, 102-15138 100th Avenue, Surrey V3R9P4",+16045852559,51,17
+247,Fleetwood,Soboya Sushi,3.5,CA$30 for two,"Sushi, Japanese, Asian","Evergreen Mall, 8952 152 Street, Surrey V3R0J2",+16045891141,40,29
+248,Guildford,Earls,3.1,CA$70 for two,Canadian,"Impact Plaza, 10160 152nd Street, Surrey V3R8X8",+16045840840,53,30
+249,North Delta,Denny's,2.9,CA$40 for two,American,"8487 120th Street, Metro Vancouver V4C6R2",+16045901717,36,66
+250,Newton,Taj Sweets & Restaurant,3.9,CA$30 for two,"Indian, Desserts","103-12047 80 Avenue, Surrey V3W 1M9",+16045439113,36,26
+251,New Westminster,Hayashi Sushi,3.7,CA$55 for two,"Sushi, Japanese, Asian","Columbia Square Plaza, 106-78 10th Street, Metro Vancouver V3M",+16045271194,45,28
+252,North Delta,Ocean Avenue Restaurant,3.8,CA$30 for two,"Fish and Chips, Asian","8239 120 Street, Metro Vancouver V4C6R1",+16045905455,39,15
+253,Whalley,Krishna's Dosa Grill,3.9,CA$35 for two,Indian,"The Plaza, 101-8910 Scott Road, North Delta, Metro Vancouver, Metro Vancouver V3V 4B4",+16045997010,33,17

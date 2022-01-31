@@ -1,0 +1,489 @@
+,Location,Name,Rating,Price Range,Cuisine Type,Address,Phone Number,Num Reviews,Num Photos
+0,Richmond,Dinesty Dumpling House,4.4,CA$50 for two,"Shanghai, Chinese, Asian","Richport Town Centre, 160-8111 Ackroyd Road, Richmond V6X3J9",+16043037772,779,471
+1,Central Richmond,G-men @ Nan Chu,4.4,CA$40 for two,"Ramen, Japanese, Asian","1160-8391 Alexandra Road, Richmond V6X 1C3",+16042768391,569,329
+2,Central Richmond,Gyo-O,4.5,CA$35 for two,"Japanese, Asian","Continental Centre, 3779 Sexsmith Road, Richmond V6X 3Z9",+16042954072,445,386
+3,Central Richmond,Bubble Queen,4.5,CA$10 for two,"Bubble Tea, Beverages","Pacific Plaza, 1180-8888 Odlin Crescent, Richmond V6X 3Z7",+17782977838,631,181
+4,Central Richmond,Sushi Hachi,4.6,CA$40 for two,"Sushi, Japanese, Asian","Pacific Plaza, 1287-8888 Odlin Crescent, Richmond V6X 3Z8",+16042072882,300,292
+5,Richmond,Kiriri Japanese Cuisine & Sushi Bar,4.3,CA$40 for two,"Sushi, Japanese, Asian","Blundell Plaza, 8780 Blundell Road, Richmond, Richmond V6Y 2N6",+17782974330,321,300
+6,Central Richmond,Shanghai River Restaurant,4.3,CA$75 for two,"Chinese, Asian","110-7831 Westminster Highway, Richmond V6X",+16042338885,543,460
+7,Central Richmond,HK BBQ Master,4.6,CA$25 for two,"Chinese, BBQ","4651 No 3 Road, Richmond, BC V6X 2C4, Canada, Richmond V6Y 1N3",+16042726568,345,154
+8,Richmond,Deer Garden Signatures,4.3,CA$25 for two,"Chinese, Asian","Venezia Place, 2015-8580 Alexandra Road, Richmond V6X4B3",+16042789229,440,160
+9,Central Richmond,Leisure Tea & Coffee,4.2,CA$30 for two,"Cafe, Coffee and Tea, Desserts","1110-8391 Alexandra Road, Richmond V6X 3W5",+16048219998,273,173
+10,Richmond,Ninkazu Japanese Restaurant,3.8,CA$45 for two,"Sushi, Japanese, Asian","#205-4231 Hazelbridge Way, Richmond V6X 3L7 3L7",+16042799077,374,306
+11,Richmond,Lido Restaurant,4.1,CA$25 for two,"Chinese, Asian","150-4231 Hazelbridge Way, Richmond V6X 3L7",+16042310055,330,236
+12,Richmond,Seto Japanese Restaurant,4.2,CA$35 for two,"Sushi, Japanese, Asian","Olympia Centre, 155-8400 Alexandra Road, Richmond V6X 1C3",+16042319493,281,199
+13,Richmond,Excellent Tofu & Snack,4.4,CA$15 for two,"Desserts, Chinese","160-4231 Hazelbridge Way, Richmond V6X 3L7",+16042320268,284,113
+14,Central Richmond,Pearl Castle Cafe,4.2,CA$35 for two,"Taiwanese, Asian, Bubble Tea","Continental Centre, 1128-3779 Sexsmith Road, Richmond V6X 3Z9",+16042703939,432,328
+15,Richmond,Fisherman's Terrace Seafood Restaurant,4.2,CA$55 for two,"Dim Sum, Chinese, Asian","Aberdeen Centre, Suite 3580, 4151 Hazelbridge Way, Richmond V6X4J7",+16043039739,346,232
+16,Garden City,Chen's Shanghai Kitchen,4.1,CA$50 for two,"Chinese, Asian","129-4940 No. 3 Road, Richmond, Richmond V6Y 2Y8",+16043048288,240,196
+17,Central Richmond,Snowy Village Dessert Cafe,3.6,CA$15 for two,"Cafe, Desserts","8571 Alexandra Drive, Richmond V6X 1C3",+17786817832,125,213
+18,Central Richmond,Top Shanghai Cuisine,3.9,CA$55 for two,"Shanghai, Chinese, Asian","5880 Number 3 Road, Richmond V6X",+16042788790,281,243
+19,Central Richmond,Tokyo Joe's Sushi Factory,4.2,CA$25 for two,"Sushi, Japanese, Asian","8211 Ackroyd Road, Richmond V6X 3J9",+16042733868,311,122
+20,Richmond,Kirin Seafood Restaurant,4.4,CA$60 for two,"Dim Sum, Seafood","Richmond Centre, Second Floor, 7900 Westminster Highway, Richmond V6X 1A5",+16043038833,307,280
+21,Richmond,Berry Good,4.2,CA$20 for two,"Cafe, Desserts","Excel Centre, 1120-8766 McKim Way, Richmond V6X 4G4",+16042472253,162,115
+22,Central Richmond,Yuu Japanese Tapas,3.7,CA$25 for two,"Japanese, Asian","Continental Centre, 1111-3779 Sexsmith Road, Richmond V6X 3Z9",+16042147722,189,303
+23,Richmond,Matsuyama Japanese Restaurant,3.7,CA$35 for two,"Sushi, Japanese, Asian","Connaught Plaza, 8500 Alexandra Road, Richmond V6X 1C3",+16042079178,302,196
+24,Central Richmond,Memory Corner,4.0,CA$25 for two,"Taiwanese, Chinese, Asian, Bubble Tea","6900 Number 3 Road, Richmond V6Y 2C5",+16042845434,163,220
+25,Richmond,Empire Seafood Restaurant,3.9,CA$55 for two,"Dim Sum, Cantonese, Chinese, Asian","London Plaza, 200-5951 Number 3 Road, Richmond V6X2E3",+16042490080,227,421
+26,Richmond,Chef Tony,3.9,CA$60 for two,"Dim Sum, Chinese","101-4600 Number 3 Road, Richmond V6X",+16042790083,117,331
+27,Central Richmond,Sun Sui Wah Seafood Restaurant,3.7,CA$50 for two,"Dim Sum, Chinese, Asian","4920 Number 3 Road, Richmond V6X 3A5",+16042738208,256,295
+28,Central Richmond,Boiling Point,4.0,CA$40 for two,"Taiwanese, Asian","130-4800 Number 3 Road, Richmond V6X 3A6",+16042845168,242,157
+29,Richmond,No. 9 Restaurant,3.4,CA$30 for two,"Hong Kong Style, Chinese, Asian","Lansdowne Centre, 812-5300 Number 3 Road, Richmond V6X 2X9",+16042787700,298,222
+30,Central Richmond,Shanghai Wonderful Restaurant,3.9,CA$40 for two,"Chinese, Asian","Best Western Plus, 9260 Bridgeport Road, Richmond V6X",+16042788829,225,228
+31,Central Richmond,Sea Harbour - River Rock Casino Resort,4.0,CA$60 for two,"Dim Sum, Chinese, Asian","River Rock Casino Resort, 8811 River Road, Richmond V6X 1Y7",+16042320816,203,293
+32,Central Richmond,Bubble Fruity,4.0,CA$20 for two,"Bubble Tea, Desserts","180-8188 Saba Road, Richmond V6Y 4E2",+17782976820,186,67
+33,Richmond,Double Double Restaurant,3.6,CA$30 for two,"Cantonese, Chinese","128-4600 Number 3 Road, Richmond V6X 4E8",+16043703345,176,176
+34,Richmond,Claypot Hotpot and B.B.Q.,3.9,CA$45 for two,"Cantonese, Chinese, Asian","Alexandra Plaza, 105-8291 Alexandra Road, Richmond V6X 1C3",+16042845181,173,143
+35,Central Richmond,Pepper Lunch,3.9,CA$25 for two,"Japanese, Asian","150-5951 Number 3 Road, Richmond V6X 2E3",+16042855933,156,139
+36,Central Richmond,Bubble Tea Shop,3.2,CA$20 for two,"Desserts, Bubble Tea, Cafe","105-4651 Number 3 Road, Richmond V6X",+16042858833,151,170
+37,Central Richmond,The Jade Seafood Restaurant,3.8,CA$60 for two,"Dim Sum, Cantonese, Chinese, Asian","280 - 2811 No 3 Road, Richmond, BC V6X 2B2, Richmond V6X 1C3",+16042490082,181,387
+38,Richmond,Man Ri Sung Korean Restaurant,3.9,CA$45 for two,"Korean, Asian","Aberdeen Centre, 3600-4151 Hazelbridge Way, Richmond V6X 0A4",+16048219922,134,303
+39,Richmond,Neptune Seafood Restaurant,3.6,CA$65 for two,"Dim Sum, Cantonese, Chinese, Asian","Richport Town Centre, 100-8171 Ackroyd Road, Richmond V6X 3J9",+16042079888,196,292
+40,Central Richmond,Richmond Sushi,3.2,CA$50 for two,"Sushi, Japanese, Asian","Union Square, 1488-8388 Capstan Way, Richmond V6X 4B5",+16042077799,206,285
+41,Central Richmond,Prata-Man Singapore Cuisine,3.9,CA$25 for two,"Malaysian, Asian","9060 Capstan Way, Richmond V6X 1R4",+16042781348,160,135
+42,Central Richmond,Italian Tomato,4.0,CA$30 for two,"Italian, Pizza","8380 Bridgeport Road, Richmond V6X 1R7",+16042470040,215,100
+43,Central Richmond,4 Stones Vegetarian Cuisine,4.1,CA$30 for two,Taiwanese,"Minoru Plaza, 150-7771 Westminster Hwy, Richmond V6X4J4",+16042780852,158,140
+44,Central Richmond,Green Lemongrass Vietnamese Cuisine,4.2,CA$45 for two,"Vietnamese, Asian","8180 Westminster Highway, Richmond V6X",+16042706188,235,107
+45,Central Richmond,Pho Lan,4.2,CA$25 for two,"Vietnamese, Asian","6950 Number 3 Road, Richmond V6Y 2C5",+16042731583,217,54
+46,Central Richmond,Kumare Restaurant & Bakery,4.0,CA$40 for two,"Bakery, Thai, Filipino, Asian","8130 Park Road, Richmond V6Y 1T1",+16042845111,135,186
+47,Central Richmond,Tsim Chai Noodles,4.1,CA$25 for two,"Chinese, Asian","50-8251 Westminster Highway, Richmond V6X 1A7",+16042736288,164,138
+48,Richmond,Sura Korean BBQ Restaurant,3.7,CA$55 for two,"Korean, Seafood, Asian","1830-4151 Hazelbridge Way, Richmond V6X OA4",+16043705540,180,239
+49,Central Richmond,Suhang Restaurant,3.9,CA$55 for two,"Shanghai, Chinese, Asian","100-8291 Ackroyd Road, Richmond V6X 3J9",+16042787787,151,179
+50,Central Richmond,Samsoonie Noodle & Rice,3.8,CA$30 for two,"Korean, Asian","140-8211 Westminster Highway, Richmond V6X 1A7",+17782977798,93,155
+51,Richmond,Chef Hung Taiwanese Beef Noodle,3.9,CA$35 for two,"Taiwanese, Asian","Aberdeen Centre, 2800-4151 Hazelbridge Way, Richmond V6X 0A4",+16042959357,218,175
+52,Richmond,Top Gun J&C Restaurant,3.9,CA$45 for two,"Chinese, Seafood","Excel Centre, 8766 McKim Way, Suite 2020, Richmond V6X",+16042318006,122,572
+53,Richmond,Hanok Korean Restaurant,3.9,CA$30 for two,"Korean, Asian","100-8400 Alexandra Road, Richmond V6X 3L4",+16042783180,130,117
+54,Central Richmond,Gang Nam Korean BBQ,4.0,CA$30 for two,"Korean, Asian","2065-4580 Number 3 Road, Richmond V6X 4E8",+16042143770,106,161
+55,Central Richmond,Yah Yah Ya Ramen,3.7,CA$40 for two,"Japanese, Asian, Ramen","Union Square, 1423-8388 Capstan Way, Richmond V6X 4B6",+16042855113,136,97
+56,Central Richmond,Mui Garden,4.0,CA$45 for two,"Chinese, Asian","5960 Minoru Boulevard, Richmond V6X 4J4",+16043037977,173,155
+57,Central Richmond,Garden City Hot Pot,4.1,CA$80 for two,"Dim Sum, Chinese, Asian","8788 McKim Way, Richmond, Richmond V6X4E2",+16043030909,156,91
+58,Central Richmond,Banzai Sushi House,3.9,CA$35 for two,"Sushi, Japanese, Asian","40-8251 Westminster Highway, Richmond V6X 1A7",+16048210355,195,95
+59,Central Richmond,Thai Son Restaurant,4.0,CA$25 for two,Vietnamese,"4791 McClelland Road, Richmond, Richmond V6X 0M5",+16042786436,165,118
+60,Richmond,Silver Tower Cafe Restaurant,3.9,CA$40 for two,"Chinese, Hong Kong Style, Asian","100-8500 Alexandra Road, Richmond V6X 1C3",+16042071199,169,146
+61,Central Richmond,Koto Izakaya,3.8,CA$30 for two,"Sushi, Japanese, Asian","101-8171 Alexandra Road, Richmond V6X 1C3",+16042784601,164,80
+62,Central Richmond,Well Tea,3.2,CA$25 for two,"Asian, Taiwanese, Bubble Tea, Beverages","170-4811 Hazelbridge Way, Richmond V6X 3K7",+16042787268,196,105
+63,Central Richmond,Gokudo Shabu Shabu Hot Pot,4.0,CA$45 for two,"Japanese, Taiwanese, Asian","Continental Centre, 2133-3779 Sexsmith Road, Richmond V6X 3Z9",+16042329078,123,115
+64,Central Richmond,Tsukiji Japanese Restaurant,3.8,CA$70 for two,"Sushi, Japanese, Asian","Garden City Plaza, 135-4731 Garden City Road, Richmond V6X 3M7",+16042762628,98,168
+65,Central Richmond,River Rock Buffet - River Rock Casino Resort,3.2,CA$90 for two,"Pacific Northwest, Italian, Asian","River Rock Casino Resort, 8811 River Road, Richmond V6X 3P8",+16042478935,147,272
+66,Central Richmond,Kongee Dinesty,3.8,CA$30 for two,"Chinese, Asian","150-9020 Capstan Way, Richmond V6X 3V9",+16042780077,96,156
+67,Richmond,Shiang Garden Seafood Restaurant,3.8,CA$50 for two,"Dim Sum, Chinese","Empire Centre, 1200-4540 Number 3 Road, Richmond V6X",+16042738858,116,261
+68,Central Richmond,Manzo,3.8,CA$40 for two,Japanese,"2170-8391 Alexandra Road, Richmond V6X",+16042762882,127,128
+69,Richmond,Parklane Chinese Restaurant,3.8,CA$65 for two,"Dim Sum, Chinese, Asian","200-7997 Westminster Highway, Richmond V6X 1A4",+16042730888,89,246
+70,Richmond,Gingeri Chinese Cuisine,3.2,CA$55 for two,"Dim Sum, Cantonese, Chinese, Asian","Lansdowne Centre, 323-5300 Number 3 Road, Richmond V6X",+16042786006,123,230
+71,Richmond,Kam Do Bakery,4.1,CA$10 for two,"Bakery, Chinese, Asian","Richmond Centre, 130-6211 Number 3 Road, Richmond V6Y",+16042319216,158,86
+72,Central Richmond,Bubble World,3.9,CA$30 for two,"Bubble Tea, Beverages, Asian","8368 Capstan Way, Suite 1318, Richmond V6X 2H6",+16042325222,149,157
+73,Richmond,Frappe Bliss,4.1,CA$25 for two,"Desserts, Asian","3070-4151 Hazelbridge Way, Richmond V6X 4J7",+16042956600,139,40
+74,Richmond,Max Noodle House,3.7,CA$30 for two,"Cantonese, Chinese","Alexandra Plaza, 190-8291 Alexandra Road, Richmond V6X",+16042318141,110,104
+75,Richmond,Master Hung BBQ Restaurant,4.0,CA$40 for two,"Chinese, Asian","8780 Blundell Road, Richmond V6Y 2N6",+16042723813,126,92
+76,Richmond,Ebisu,3.6,CA$55 for two,"Sushi, Japanese, Asian","Richport Town Centre, 100-8111 Ackroyd Road, Richmond V6X 3J9",+16042704846,147,179
+77,Central Richmond,Shibuyatei,4.0,CA$30 for two,"Sushi, Japanese, Asian","125-2971 Sexsmith Road, Richmond V6X 2H4",+17782971777,85,32
+78,Central Richmond,Specialty Chicken & Wonton House,3.6,CA$40 for two,"Chinese, Asian","80-90 8100 Ackroyd Road, Richmond V6X3J9",+16042788239,79,272
+79,Central Richmond,Sushi House,3.8,CA$30 for two,"Sushi, Japanese, Asian","2182-3779 Sexsmith Road, Richmond V6X 3Z9",+16042331015,139,121
+80,Richmond,Amigo Restaurant,3.7,CA$30 for two,"Chinese, Hong Kong Style, Asian","Alexandra Plaza, 160-8291 Alexandra Road, Richmond V6X1C3",+16042316028,105,100
+81,Central Richmond,Hanppy Tofu Pot House,3.7,CA$25 for two,"Korean, Asian","Union Square, 1138-8328 Capstan Way, Richmond V6X 2H6",+16042471079,120,83
+82,Richmond,Wu Fung Dessert,4.1,CA$25 for two,"Fast Food, Hong Kong Style, Cantonese, Chinese, Asian","3220-4151 Hazelbridge Way, Richmond V6X 4J7",+16042845635,146,47
+83,Central Richmond,The Boathouse Restaurant,3.8,CA$75 for two,"Seafood, Steak","8331 River Road, Richmond V6X 1Y1",+16042737014,149,154
+84,Richmond,Saboten,3.3,CA$25 for two,"Fast Food, Japanese, Asian","3180-4151 Hazelbridge Way, Richmond V6X 4J7",+16042959351,145,114
+85,Central Richmond,Ginger Indian Cuisine,4.0,CA$40 for two,Indian,"9100 Blundell Road #490, Central Richmond, Richmond V6X",+16043701200,102,56
+86,Central Richmond,Cocoru,3.4,for two,Asian,"8391 Alexandra Road, Richmond V6X 1C3",+16042858569,48,93
+87,Richmond,Point Zero Four Fusion,2.4,CA$40 for two,"Chinese, Asian","140-8500 Alexandra Road, Richmond V6X 1C3",+16042781213,83,147
+88,Central Richmond,Red Star Seafood,3.1,CA$50 for two,"Chinese, Asian","2200-8181 Cambie Road, Richmond V6X 3X9",+16042703003,94,144
+89,Central Richmond,Carver's Steakhouse - Executive Airport Plaza Hotel,3.6,CA$90 for two,"Steak, Canadian","Executive Airport Plaza Hotel, 7211 Westminster Highway, Richmond V6X 1A3",+16042077107,94,134
+90,Richmond,Toku Japanese Restaurant,3.0,CA$65 for two,"Sushi, Japanese","Lansdowne Centre, 221-5300 Number 3 Road, Richmond V6X 2C7",+16042855877,78,138
+91,Central Richmond,Bánh Mi Très Bon,3.8,CA$15 for two,"Sandwich, Vietnamese, Desserts","1840-4720 McClelland Road, Richmond",+17789287298,51,133
+92,Central Richmond,Uncle Lu,3.4,CA$25 for two,"Taiwanese, Chinese, Asian","1101-3779 Sexsmith Road, Richmond V6X 1J8",+16043700250,76,129
+93,Garden City,Golden Paramount Seafood Restaurant,3.8,CA$60 for two,"Dim Sum, Chinese, Asian","8111 Anderson Road, Richmond, BC V6Y 3Z8, Canada, Richmond V6Y 1S8",+16042780873,73,123
+94,Richmond,Taiwan Taipei Original Pot,3.7,CA$50 for two,"Chinese, Taiwanese","Venezia Place, 1160-8580 Alexandra Road, Richmond V6X4B3",+17782979777,61,55
+95,Richmond,Beard Papa's,4.0,CA$10 for two,Desserts,"Aberdeen Centre, 3160-4151 Hazelbridge Way, Richmond V6J4J7",+16042330949,160,71
+96,Richmond,Wo Fung Noodle Express,3.9,CA$20 for two,"Fast Food, Chinese","190-8400 Alexandra Road, Richmond V6X 1C3",+16042845635,87,35
+97,Central Richmond,L'otus Cake Boutique,3.4,CA$15 for two,"Bakery, Desserts, Beverages","103-8580 Cambie Road, Richmond, Richmond V6X 4K1",+16042859925,33,47
+98,Central Richmond,Enjoy Cafe 1+1,3.4,CA$35 for two,"Chinese, Asian","200-8171 Westminster Highway, Richmond V6X 1A7",+16042310037,92,101
+99,Richmond,Shi-Art Chinese Cuisine,3.0,CA$45 for two,"Dim Sum, Chinese, Asian","Richmond Centre, 1302-6551 Number 3 Road, Richmond V6Y",+16042798998,89,178
+100,Richmond,James Snacks,3.9,CA$25 for two,"Fast Food, Cantonese, Chinese","Empire Centre, Food Court, 1160-4540 Number 3 Road, Richmond V6X4E8",+16047161328,57,54
+101,Central Richmond,Chubby Lamb Hot Pot,3.7,CA$45 for two,"Chinese, Asian","8391 Alexandra Road, Richmond V6X1C3",+16043038843,94,100
+102,Central Richmond,0755 Restaurant & Lounge,2.7,CA$55 for two,"Chinese, Asian Fusion","Continental Centre, 2188-3779 Sexsmith Road, Richmond V6X",+16042730755,96,127
+103,Richmond,Bubble Waffle Cafe,3.6,CA$20 for two,"Hong Kong Style, Chinese","Aberdeen Centre, Food Court, 3000-4151 Hazelbridge Way, Richmond V6X 0A4",+16043702211,114,81
+104,Central Richmond,Pho An Nam,4.0,CA$30 for two,"Vietnamese, Asian","6820 Number 3 Road, Richmond V6Y 1P3",+16042799097,94,65
+105,Richmond,Mazazu Crepe,2.9,CA$20 for two,"Desserts, Japanese, Asian","Aberdeen Centre, Food Court, 3110-4151 Hazelbridge Way, Richmond",+16042959359,103,51
+106,Richmond,Taco Luis,4.3,CA$20 for two,"Fast Food, Mexican","Lansdowne Centre, Food Court, 1040-5300 Number 3 Road, Richmond V6X 2X9",+16042788496,121,29
+107,Central Richmond,Manzo Japanese Restaurant Itamae,3.2,CA$40 for two,"Sushi, Japanese, Asian","9020 Capstan Way#120, Richmond V6X 3V9",+16048219834,82,109
+108,Richmond,Sanbo Restaurant,3.5,CA$50 for two,"Chinese, Asian","121-4600, Number 3 Road, Richmond, B.C. V6X 2C2, Richmond V6Y 2B3",+16042782616,73,113
+109,Richmond,Teppan Kitchen,3.8,CA$25 for two,"Fast Food, Japanese, Asian","Aberdeen Centre, Food Court, 3250-4151 Hazelbridge Way, Richmond V6X 3R8",+16042956656,81,80
+110,Richmond,Mambo Cafe,3.8,CA$25 for two,"Chinese, Fast Food","3020-4151 Hazelbridge Way, Richmond V6X 4J7",+16042733669,95,70
+111,Richmond,Xi'An Cuisine,4.0,CA$25 for two,"Fast Food, Chinese, Asian","Richmond Public Market, Second Floor, Food Court, 2370-8260 Westminster Highway, Richmond V6X 1A7",+16042799727,66,51
+112,Central Richmond,"The Apron - The Westin Wall Centre, Vancouver Airport",3.7,CA$90 for two,Pacific Northwest,"The Westin Wall Centre, Vancouver Airport, 3099 Corvette Way, Richmond V6X3A3",+16042382105,50,53
+113,Richmond,Cafe D'Lite Express,3.6,CA$25 for two,"Fast Food, Malaysian, Singaporean, Asian","3210-4151 Hazelbridge Way, Richmond V6X 4J7",+16042956603,109,51
+114,Central Richmond,Dolpan Seoul BBQ,3.5,for two,Korean,"3779 Sexsmith Road, Vancouver, Richmond V6X 1J8",+16042739220,29,74
+115,Central Richmond,Happy Tree House BBQ,3.5,for two,"Chinese, Asian","8171 Alexandra Road, Richmond V6X 1C3",+17782971386,32,85
+116,Central Richmond,Kingspark Steak House,3.6,CA$30 for two,"Chinese, Asian, Steak","180-8291 Westminster Highway, Richmond V6X 1A7",+16042318798,96,70
+117,Central Richmond,Tin Tin Seafood Harbour,3.2,CA$45 for two,"Dim Sum, Chinese, Asian","3711 Number 3 Road, Richmond V6X 2B8",+16043703883,54,155
+118,Richmond,Joy's Taiwanese Kitchen,3.9,CA$25 for two,"Fast Food, Taiwanese, Chinese, Asian","Parker Place, Food Court, 1100-4380 Number 3 Road, Richmond V6X 4E8",+16042704898,45,28
+119,Central Richmond,Hugo's Churros,3.3,CA$15 for two,"Mexican, Desserts","McArthur Glen Designer Outlets, 1000-7899 Templeton Station Road, Richmond",+16042315525,36,40
+120,Central Richmond,Pho Viet Vietnamese Beef & Chicken Noodle Soup,3.9,CA$25 for two,"Vietnamese, Asian","110-8291 Westminster Highway, Richmond V6X1A7",+16042736399,91,35
+121,Richmond,Cherry Fruit Juice & Icy Bar,4.0,CA$10 for two,"Beverages, Desserts, Asian","1515-4380 Number 3 Road, Richmond V6X 4E8",+16042738337,64,28
+122,Central Richmond,Sing Yee Chinese Restaurant,3.3,CA$30 for two,"Cantonese, Chinese, Asian","Continental Centre, 2118-3779 Sexsmith Road, Richmond V6X 3Z9 3Z9",+16042321328,47,150
+123,Central Richmond,Chatime Richmond,3.5,CA$15 for two,"Beverages, Bubble Tea","9100 Blundell Road, Richmond V6Y 2N9",+16042852428,88,45
+124,Central Richmond,Cafe Savoureux,3.8,CA$20 for two,Cafe,"Union Square, 1326-8368 Capstan Way, Richmond V6X 4B5",+16042072589,52,31
+125,Central Richmond,Nu Chinese Bistro,3.3,CA$45 for two,Chinese,"Cosmo Plaza, 2170-8788 McKim Way, Richmond V6X 4E2",+17782979998,59,185
+126,Central Richmond,Beijiang Restaurant,3.6,CA$40 for two,"Xinjiang, Chinese, Asian","8111 Leslie Road, Central Richmond, Richmond V6X4B3",+17782976656,55,98
+127,Richmond,Bone Sushi,3.5,CA$30 for two,"Sushi, Japanese, Asian","Empire Centre, 1040-4540 Number 3 Road, Richmond V6X 4E4",+16043037735,62,62
+128,Central Richmond,Avery Cakes & Tea House,2.7,for two,"Bakery, Coffee and Tea","112-4751 Garden City Road, Richmond, Richmond V6S 3M7",+16042857771,9,143
+129,Central Richmond,Dazzling Cafe,2.8,CA$25 for two,"Cafe, Coffee and Tea, Sandwich","7971 Alderbridge Way, Unit 140, Richmond, Richmond V6X 2A4",+16042730514,32,86
+130,Richmond,Earls,3.8,CA$70 for two,Canadian,"Lansdowne Centre, 304-5300 Number 3 Road, Richmond V6X",+16043039702,96,56
+131,Central Richmond,Bamboo Grove,3.7,CA$40 for two,"Chinese, Asian","6920 Number 3 Road, Richmond V6Y",+16042789585,63,38
+132,Central Richmond,White Spot,3.7,CA$50 for two,Canadian,"5880 Number 3 Road, Richmond V6X2E1",+16042733699,82,107
+133,Richmond,The TRUE'STEA Restaurant,2.6,CA$30 for two,"Chinese, Taiwanese, Asian","180-8400 Alexandra Road, Richmond V6X 1C3",+16042078469,78,70
+134,Central Richmond,Harold's Bistro & Bar,3.9,CA$90 for two,Canadian,"Sheraton, 7551 Westminster Highway, Richmond V6X 0B5",+16042333968,61,55
+135,Central Richmond,75 West Coast Grill,3.6,CA$80 for two,"Pacific Northwest, Canadian","Marriott, 7571 Westminster Highway, Richmond V6X1A3",+16042322804,64,81
+136,Richmond,Leung Kee Cantonese Food,3.7,CA$25 for two,"Fast Food, Cantonese, Hong Kong Style, Chinese, Asian","3030-4151 Hazelbridge Way, Richmond V6X 4J7",+16042958212,75,62
+137,Central Richmond,Copa Cafe,2.7,CA$40 for two,"Chinese, Asian","105-6200 River Road, Richmond V7C 4N1",+16042768972,55,87
+138,Central Richmond,Newton Beef Noodle House,3.3,CA$30 for two,Taiwanese,"150-8191 Saba Road, Richmond V6Y 4B4",+16042840886,44,62
+139,Central Richmond,Tramonto - River Rock Casino Resort,3.4,CA$100 for two,"Seafood, Pacific Northwest","River Rock Casino Resort, 8811 River Road, Richmond V6X 3P8",+16042478573,54,104
+140,Central Richmond,Pho 99 Vietnamese Noodle House,3.8,CA$30 for two,"Vietnamese, Asian","180-8611 Alexandra Road, Richmond V6X",+16042786363,73,59
+141,Richmond,Wing Kee Restaurant,3.7,CA$40 for two,"Chinese, Asian","120-8260 Granville Avenue, Richmond V6Y 1P3",+16042701825,53,48
+142,Central Richmond,Fortune Terrace Chinese Cuisine,3.0,for two,"Cantonese, Chinese","130-6200 River Road, Richmond V7C 4N1",+16042858980,30,143
+143,Central Richmond,Pho Han,3.8,CA$25 for two,"Vietnamese, Asian","Oak's Plaza, 110-9020 Capstan Way, Richmond V6X",+16042845589,64,45
+144,Central Richmond,Shiny Tea,3.4,CA$15 for two,"Beverages, Bubble Tea, Taiwanese, Asian","Aberdeen Square, 2340-4000 Number 3 Road, Richmond V6X 0J8",+16045884242,64,45
+145,Central Richmond,The Captain's Boil,3.0,for two,"Cajun, Seafood","1226 - 8338 Capstan Way, Richmond V6X 4B5",+16042790158,32,37
+146,Richmond,Shun Feng Seafood Restaurant,2.6,CA$60 for two,"Dim Sum, Cantonese, Chinese, Asian","1425-4380 Number 3 Road, Richmond V6X 2C2",+16043046088,60,115
+147,Richmond,Peanut's Bubble Tea,3.9,CA$15 for two,"Bubble Tea, Beverages","Richmond Public Market, Level 2, 2130-8260 Westminster Highway, Richmond V6X 1A7",+16042789372,90,19
+148,Central Richmond,Yuan's Shanghai Serendipity Cuisine,3.1,CA$25 for two,Chinese,"180-4260 Number 3 Road, Richmond V6X 2C2",+17788681238,38,111
+149,Richmond,8 Juice,4.1,CA$20 for two,"Juices, Beverages","Aberdeen Centre, 3150-4151 Hazelbridge Way, Richmond V6X 4J7",+16042845566,83,18
+150,Central Richmond,IHOP,3.2,CA$25 for two,American,"6780 Number 3 Road, Richmond, Richmond V6Y 2C1",+16042733411,76,68
+151,Central Richmond,Yue Restaurant,3.5,CA$40 for two,"Chinese, Cantonese","110-8351 Alexandra Rd, Richmond, BC V6X 1C3, Richmond V6X",+16042331219,34,94
+152,Central Richmond,Midam Richmond,2.8,CA$40 for two,Korean,"4651 Garden City Rd,Richmond, Richmond V6X 4A9",+16042841400,25,65
+153,Garden City,Shun Xin Hot Pot,3.7,CA$40 for two,"Chinese, Asian","Park Village, 8111 Park Road, Richmond V6Y",+16042782703,52,19
+154,Richmond,Szechuan Delicious Restaurant,3.8,CA$35 for two,"Chinese, Asian","Time Square, 6610 Number 3 Road, Richmond V6Y 2C1",+16042761780,44,25
+155,Richmond,Old Xian's Food,3.0,CA$25 for two,"Chinese, Asian","Venezia Place, 2010-8580 Alexandra Road, Richmond V6X 4B3",+16043703888,34,45
+156,Central Richmond,Liuyishou Hotpot Richmond,3.7,CA$50 for two,Chinese,"150-4731 Garden City Road, Richmond V6Y 1P9",+16042856122,41,33
+157,Central Richmond,K. K. Dollar Hot Pot,3.2,CA$60 for two,"Chinese, Asian","4200 Number 3 Road, Richmond V6X2C4",+16042795588,31,62
+158,Central Richmond,Golden Sichuan Restaurant,3.1,CA$45 for two,"Chinese, Sichuan, Asian","Richview Plaza, 170-3631 Number 3 Road, Richmond V6X2B8",+16042889058,38,44
+159,Central Richmond,Silkway Halal Cuisine Restaurant,3.6,CA$35 for two,"Xinjiang, Chinese, Asian","110-8188 Saba Road, Richmond V6Y 4E2",+16042786788,32,46
+160,Richmond,R&H Chinese Food,3.7,CA$25 for two,"Fast Food, Shanghai, Chinese, Asian","5300 Number 3 Road, Richmond V6X 2X9",+17782975668,51,30
+161,Central Richmond,Boston Pizza,2.2,CA$45 for two,"Pizza, Bar Food","50 8100 Ackroyd Road, Central Richmond, Richmond, Richmond V6X3J9",+16042736151,72,48
+162,Central Richmond,Gee! Taste Good,3.7,CA$15 for two,"Fast Food, Asian","Pacific Plaza Food Court, Level 2, 2200-8888 Odlin Crescent, Richmond V6X",+16047287326,26,60
+163,Central Richmond,Meet Fresh,3.1,CA$15 for two,Desserts,"1136 8328 Capstan Way, Richmond, Richmond V6X 4B6",+17788681666,31,32
+164,Central Richmond,New Concept Hot Pot,3.3,CA$40 for two,"Chinese, Asian","Richspot Plaza, 168-8131 Westminster Highway, Richmond V6X",+16043039555,45,23
+165,Richmond,Parker Place Meat & BBQ,3.9,CA$25 for two,"Fast Food, Cantonese, Chinese, Asian","1020-4380 Number 3 Road, Richmond V6X 3V7",+16042331138,37,27
+166,Central Richmond,New Spicy Chili,3.0,CA$45 for two,"Chinese, Sichuan, Asian","160-4200 Number 3 Road, Richmond V6X2C4",+16042733388,37,41
+167,Richmond,Twinkle Cube Cafe,3.2,CA$20 for two,"Asian, Desserts","Central Plaza, 4231 Hazelbridge Way, Richmond",+16042958728,20,99
+168,Central Richmond,Kanpeki Teppanyaki Restaurant,3.1,CA$90 for two,Japanese,"140-8351 Alexandra Road, Richmond V6X1C3",+16048211323,53,13
+169,Central Richmond,Kyabia Japanese Restaurant,3.2,for two,"Japanese, Soul Food, Sushi","1028-8300 Capstan Way, Richmond V6X 4B7",+16042858882,16,46
+170,Central Richmond,Janice Cake Shop,3.8,CA$15 for two,"Bakery, Chinese, Asian","Union Square, 1106-8328 Capstan Way, Richmond V6X 2H6",+16043037718,55,21
+171,Central Richmond,Zhao's Soup House,3.6,CA$50 for two,Chinese,"8511 Alexandra Road, Richmond V6X",+16042799997,22,55
+172,Central Richmond,Northern Chinese Countryside Restaurant,3.7,CA$45 for two,"Chinese, Northern Chinese, Asian","140-4200 Number 3 Road, Richmond V6X 2C4",+16043043293,32,33
+173,Richmond,Froshberg Gelato,3.9,CA$15 for two,"Ice Cream, Desserts","Richmond Centre, 6551 Number 3 Road, Richmond V6Y",+17785880979,44,11
+174,Central Richmond,Seoul Express,3.9,CA$25 for two,"Fast Food, Korean","Yaohan Centre, Food Court, 1095-3700 Number 3 Road, Richmond V6X",+16048211775,40,15
+175,Richmond,Pho Hoa Noodle Soup,2.8,CA$30 for two,Vietnamese,"Connaught Plaza, 100-8500 Alexandra Road, Richmond V6X1C3",+16042702827,57,26
+176,Richmond,Yougo Chicken,3.4,CA$25 for two,"Fast Food, Taiwanese, Asian","Aberdeen Centre, Food Court, 3120-4151 Hazelbridge Way, Richmond V6X 0A4",+16042856695,33,28
+177,Central Richmond,Oriental Dumpling King,3.4,CA$45 for two,"Northern Chinese, Chinese, Asian","120-4200 Number 3 Road, Richmond V6X 4E8",+16042791728,20,46
+178,Central Richmond,Kizami Japanese Cuisine,3.4,CA$30 for two,Japanese,"120-8031, Leslie Road, Richmond, Richmond V6X 1E4",+16042472682,13,72
+179,Richmond,Crepe Delicious,2.9,CA$20 for two,Desserts,"Richmond Centre, Food Court, 6551 Number 3 Road, Richmond V6Y 2B6",+16043703837,47,36
+180,Richmond,Redbud Restaurant,3.4,CA$30 for two,"Chinese, Asian","8360 Granville Avenue, Richmond V6Y 0A7",+16049986776,29,42
+181,Richmond,Afghan Chopan Bakery & Diner,3.8,CA$25 for two,Afghan,"6652 Number 3 Road, Richmond V6Y 2B8",+16042786555,29,6
+182,Richmond,New New Chili Hot Pot,3.8,CA$45 for two,"Sichuan, Chinese, Asian","Venezia Place, 1185-8580 Alexandra Road, Richmond V6X",+16043030086,17,35
+183,Central Richmond,Tian Shi Fu Restaurant,3.0,CA$40 for two,Chinese,"8251 Alexandra Road, Richmond, Richmond V6X 1C3",+16042769168,27,35
+184,Central Richmond,Chuan BBQ Restaurant,3.3,CA$35 for two,"Chinese, Asian","140-8291 Westminster Hwy, Richmond",+17782975577,30,9
+185,Richmond,Bushuair Restaurant,3.5,CA$35 for two,"Chinese, Sichuan","Empire Centre, 121-4540 Number 3 Road, Richmond V6X",+16042853668,23,33
+186,Richmond,Morals Village,3.2,CA$25 for two,"Chinese, Sichuan, Asian","Empire Centre, 4540 Number 3 Road, Richmond V6X 1E4",+17782373737,20,69
+187,Central Richmond,CAVU Kitchen Bar - Hilton Vancouver Hotel,3.0,CA$60 for two,Canadian,"Hilton Vancouver Hotel, 5911 Minoru Boulevard, Richmond V6X4C7",+16042736336,24,68
+188,Central Richmond,Le Tea 樂茶,2.9,CA$15 for two,"Cafe, Chinese, Bubble Tea, Juices","1161-3779 Sexsmith Road, Richmond, Richmond V6X 3Z9",+16042487576,16,16
+189,Richmond,Shanghai Ting,3.7,CA$25 for two,"Fast Food, Shanghai, Chinese, Asian","Empire Centre, Food Court, 1130-4540 Number 3 Road, Richmond V6X4E8",+16042788335,21,27
+190,Richmond,Round Table Pizza,3.8,CA$25 for two,Pizza,"Blundell Centre, 198-8120 Number 2 Road, Richmond V7C5J8",+16042751313,52,8
+191,Central Richmond,Legends Pub,3.7,CA$40 for two,Bar Food,"9031 Blundell Road, Richmond V6Y 4J4",+16042762343,38,44
+192,Richmond,Chef Liu Kitchen,3.4,CA$25 for two,"Fast Food, Chinese, Asian","Richmond Public Market, Level 2, Food Court, 8260 Westminster Highway, Richmond V6X 1A7",+17788838128,26,28
+193,Central Richmond,Wah Yuen Noodle House,3.6,CA$25 for two,"Fast Food, Cantonese, Chinese, Asian","Yaohan Centre, Food Court, 3700 Number 3 Road, Richmond V6X",+16042319080,31,33
+194,Central Richmond,IceQueen,3.3,CA$15 for two,"Desserts, Ice Cream","2355 - 4000 Number 3 Road, Richmond, Richmond BC V6X",+16042487590,10,24
+195,Richmond,Connie's Curry Kitchen,3.8,CA$25 for two,Chinese,"Parker Place, 1235-4380 Number 3 Road, Richmond V6X 3V7",+16042313773,34,23
+196,Richmond,QQ Bubble Tea & Coffee,3.9,CA$15 for two,"Bubble Tea, Beverages, Asian","Richmond Public Market, Level 2, 2395-8260 Westminster Highway, Richmond V6X 3Y2",+17788589477,24,52
+197,Richmond,Big Chef Restaurant,3.8,CA$35 for two,"Cantonese, Chinese","Venezia Place, 1060-8580 Alexandra Road, Richmond V6X",+16042070386,33,14
+198,Central Richmond,Big G Large Fried Chicken,3.3,CA$15 for two,"Taiwanese, Fast Food","#1231 - 8338 Capstan Way, Metro Vancouver, Richmond V6X 4B5",+16042789661,7,21
+199,Richmond,Fair Bee Coffee & Tea,3.8,CA$20 for two,Cafe,"Lansdowne Centre, 222-5300 Number 3 Road, Richmond V6X 2X9",+16042708198,36,18
+200,Richmond,Kung Fu Noodle,3.1,CA$30 for two,"Chinese, Asian","Venezia Place, 1015-8580 Alexandra Road, Richmond V6X 4B3",+16042845258,19,46
+201,Central Richmond,Gyu-Kaku Japanese BBQ,3.7,CA$20 for two,"Fast Food, Chinese","7971 Alderbridge Way Unit 120, Richmond, BC V6X 2A4, Richmond",+16045583837,12,99
+202,Richmond,Umi Sushi Express,2.6,CA$20 for two,"Sushi, Japanese, Asian, Fast Food","Richmond Centre, Food Court, 6551 Number 3 Road, Richmond V6Y 2C1",+16042768879,41,27
+203,Richmond,Neptune Wonton Noodle,2.6,CA$30 for two,"Cantonese, Chinese, Asian","Richport Town Centre, 110-8171 Ackroyd Road, Richmond V6X 3K1",+16042079889,26,49
+204,Central Richmond,Kitcho Izakaya,3.5,CA$55 for two,"Japanese, Asian","133-4800 Number 3 Road, Richmond, BC, Richmond V6X 3A6 3A6",+16042071188,11,49
+205,Central Richmond,Fukuroku Sushi Express,3.5,CA$25 for two,"Sushi, Japanese","4651 Number 3 Road, Richmond V6Y1N3",+16042790922,37,22
+206,Richmond,Lai Taste,3.6,CA$25 for two,"Fast Food, Chinese, Vietnamese, Asian","Parker Place, 1240-4380 Number 3 Road, Richmond V6X 2C4",+16043396263,32,16
+207,Garden City,Royal Seafood Restaurant,3.0,CA$40 for two,"Cantonese, Seafood, Dim Sum","Garden City Shopping Centre, 200-8040 Garden City Road, Richmond V6y 2N6",+16042739911,18,105
+208,Richmond,Togo Sushi,3.5,CA$20 for two,"Sushi, Japanese","Richmond Centre, 2010-6060 Minoru Boulevard, Richmond V6Y 4A7",+16043041119,37,24
+209,Central Richmond,BiBo Pizzeria,2.7,CA$75 for two,"Pizza, Italian","McArthurGlen Designer Outlet, 1000-7899 Templeton Station Road, Richmond",+16042798889,15,53
+210,Richmond,Lung Kee Congee & Noodles,3.2,CA$25 for two,"Fast Food, Chinese, Asian","Aberdeen Centre, Food Court, 3230-4151 Hazelbridge Way, Richmond V6X",+16043030911,27,26
+211,Central Richmond,Chengdu Spicy Restaurant,2.9,CA$30 for two,"Sichuan, Chinese, Asian","2150-8391 Alexandra Road, Richmond",+16042857999,15,28
+212,Central Richmond,Pizza Hut,3.2,CA$20 for two,"Pizza, Fast Food","8340 Westminster Highway, Richmond V6X3Y2",+16042331170,30,51
+213,Central Richmond,Alley BBQ Restaurant,3.4,CA$75 for two,BBQ,"7997 Westminster Hwy, Unit 250, Richmond, Richmond V6X 1A4",+17782977255,12,16
+214,Richmond,Yummy Yummy,3.4,CA$25 for two,"Fast Food, Hong Kong Style, Chinese, Asian","Parker Place, Food Court, 1238-4380 Number 3 Road, Richmond V6X 4E8",+16042708830,28,15
+215,Richmond,Chef of Dumplings,2.9,CA$20 for two,"Fast Food, Dim Sum, Chinese, Asian","Aberdeen Centre, Food Court, 4000-4151 Hazelbridge Way, Richmond",Not available for this place,29,26
+216,Central Richmond,Cactus Club Cafe Richmond Centre,3.3,CA$70 for two,Canadian,"6551 Number 3 Road #1666, Richmond V6Y 2B6",+16042449969,29,57
+217,Garden City,Church's Chicken,3.1,CA$20 for two,Fast Food,"Garden City Shopping Centre, 120-9100 Blundell Road, Richmond V6Y2N9",+16042440318,33,12
+218,Central Richmond,Super Stars Cafe,2.9,CA$25 for two,"Hong Kong Style, Chinese, Asian","110-8080 Leslie Road, Richmond V6X 2C4",+16042481293,11,54
+219,Richmond,Shanghai Goodies,3.8,CA$20 for two,"Fast Food, Shanghai, Chinese, Asian","Parker Place, Food Court, 1390-4380 Number 3 Road, Richmond V6X4E8",+16042321227,18,18
+220,Central Richmond,Sea Fortune Restaurant,3.4,for two,"Chinese, Dim Sum, Seafood","8360 Granville Avenue 145, Richmond V6Y 1P3",+16042732028,25,101
+221,Central Richmond,Ichigo Ichie Ramen,2.9,CA$20 for two,Ramen,"11060 No 5 Rd #150, Richmond, BC V7A 4E7, Richmond",+16042755200,22,31
+222,Richmond,Koryo Korean Barbeque,3.6,CA$25 for two,"Fast Food, Korean, Asian","Richmond Centre, Food Court, 6551 Number 3 Road, Richmond V6Y 2B5",+16042858432,30,25
+223,Central Richmond,Double East Cuisine,3.4,CA$35 for two,"Chinese, Cantonese, Asian","190-4200 Number 3 Road, Richmond V6X 2C2",+16042762716,16,23
+224,Richmond,Bubble Waffle Cafe,2.9,CA$20 for two,"Fast Food, Hong Kong Style, Chinese","Lansdowne Centre, Food Court, 1025-5300 Number 3 Road, Richmond",+16042842444,18,30
+225,Richmond,Estea Express,2.8,CA$20 for two,"Bubble Tea, Asian, Beverages","Aberdeen Centre, 3130-4151 Hazelbridge Way, Richmond V6X 4J7",+16042491079,35,9
+226,Central Richmond,Sulmida Dessert Cafe,2.9,CA$15 for two,"Desserts, Korean","Pricesmart, Vancouver, Richmond",+16042852718,15,18
+227,Central Richmond,Milk Cow Cafe,3.1,CA$20 for two,"Cafe, Desserts","105-5668 Hollybridge Way, Richmond, Metro Vancouver, Central Richmond, Richmond, Richmond V7C 4N3",+16042387561,21,6
+228,Central Richmond,Tasty Kitchen,3.1,CA$30 for two,"Chinese, Cantonese, Asian","Union Square, 1226-8338 Capstan Way, Richmond V6X",+16042788898,16,23
+229,Central Richmond,The Cake Workshop,3.8,CA$15 for two,"Bakery, Chinese, Asian","Pacific Plaza Food Court, Level 2, 8888 Odlin Crescent, Richmond V6X 3Z8",+16047833688,13,17
+230,Central Richmond,Tim Hortons,3.3,CA$20 for two,"Fast Food, Cafe","4151 #3 Road, Richmond V6Y1N3",+16042702241,31,26
+231,Richmond,Dolar Shop,3.6,CA$30 for two,"Asian Fusion, Chinese","Lansdowne Centre, 720-5300, Number 3 Road, Richmond, BC V6X 2C7, Canada, Richmond",+16043707077,19,48
+232,Central Richmond,Peaches Cafe,2.9,CA$30 for two,Chinese,"8580 Alexandra Road, Richmond V6X4B3",+16042853311,13,36
+233,Central Richmond,Juice King,3.5,CA$20 for two,"Bubble Tea, Asian, Beverages","Yaohan Centre, Food Court, 3700 Number 3 Road, Richmond V6X",+16043706969,27,15
+234,Central Richmond,Burger King,2.9,CA$20 for two,"Burger, Fast Food","8575 Sea Island Way, Richmond V6X1S1",+16042472510,24,84
+235,Central Richmond,Happy Lemon,3.2,CA$15 for two,"Cafe, Bubble Tea, Juices","105 6011 No.3 Road, Richmond, Richmond V6Y 2B2",+16042852825,18,19
+236,Central Richmond,Golden Rice Bowl,3.6,CA$25 for two,"Fast Food, Cantonese, Chinese","Yaohan Centre, Food Court, 3700 Number 3 Road, Richmond V6X",+16042448082,24,15
+237,Richmond,Curry Express,3.8,CA$20 for two,"Fast Food, Indian","Lansdowne Centre, Food Court, 1045-5300 Number 3 Road, Richmond V6X2X9",+16042700302,29,5
+238,Central Richmond,Estea Cafe,2.7,CA$25 for two,Cafe,"Aberdeen Square, 135-4000 Number 3 Road, Richmond",+16042786638,9,31
+239,Central Richmond,CoCo Fresh Tea & Juice Richmond,3.1,CA$10 for two,Bubble Tea,"8100 No 2 Road, Suite 140, Richmond V7C 5J9",+16044479090,18,5
+240,Richmond,Choi House Special Chicken,3.3,CA$25 for two,"Fast Food, Cantonese, Chinese","Empire Centre, Food Court, 1175-4540 Number 3 Road, Richmond V6X4E8",+16047827899,13,15
+241,Central Richmond,Little Bean Tea Station,3.0,CA$15 for two,"Bubble Tea, Beverages","Yaohan Centre, 3700 Number 3 Road, Richmond V6X",+16042787113,29,8
+242,Central Richmond,Miss Lina Crêpe Cakes,2.7,CA$20 for two,Bakery,"1200-8580 Alexandra Road, Richmond, Metro Vancouver, Richmond",+16043705110,5,5
+243,Richmond,Bourbon Street Grill,3.7,CA$25 for two,"Fast Food, BBQ","Richmond Centre, Food Court, 6551 Number 3 Road, Richmond V6Y",+16042708589,20,30
+244,Central Richmond,Mango Yummy,3.1,CA$15 for two,"Desserts, Bubble Tea, Beverages","8328 Capstan Way, Suite 1108, Richmond,, Richmond V6X 4B6",+16042859916,16,16
+245,Richmond,Wang Shun Ge,3.6,CA$35 for two,"Chinese, Asian","Olympia Centre, 165-8400 Alexandra Road, Richmond, Richmond V6X 1C3",+16044475588,11,14
+246,Richmond,Rainbow Cafe,2.8,CA$15 for two,"Chinese, Hong Kong Style","Parker Place, 1505-4380 Number 3 Road, Richmond V6X4E8",+16042760888,21,9
+247,Central Richmond,Fresh Elements,3.1,CA$15 for two,"Bubble Tea, Beverages","Yaohan Centre, Food Court, 1105-3700 Number 3 Road, Richmond V6X 2C1",+16042845382,18,15
+248,Richmond,Macau Cafe,3.0,CA$25 for two,"Fast Food, Chinese, Asian","Parker Place, Food Court, 1385-4380 Number 3 Road, Richmond V6X 3V7",+16043030029,14,26
+249,Richmond,Tak Fook Noodle and Congee Shop,3.8,CA$25 for two,"Fast Food, Cantonese, Chinese, Asian","Parker Place, Food Court, 1232-4380 Number 3 Road, Richmond V6X 4E8",+16042310893,14,6
+250,Central Richmond,Dragon Group Seafood Restaurant,2.8,for two,"Asian, Dim Sum, Seafood","150-4751 Garden City Road, Richmond V6X 3M7",+16042781233,14,74
+251,Richmond,Captain Wa,3.0,CA$20 for two,"Fast Food, Chinese, Asian","Richmond Public Market, Level 2, 2460-8260 Westminster Highway, Richmond V6X1A7",+16042148162,16,15
+252,Central Richmond,Cantonese BBQ Restaurant,2.7,CA$40 for two,"Cantonese, Chinese, Asian","1438-8388 Capstan Way, Richmond V6X 4A7",+16042784998,16,28
+253,Central Richmond,Haidilao Hotpot,3.6,CA$20 for two,Continental,"5890 No 3 Rd #200, Richmond, Richmond",+16043706665,15,7
+254,Richmond,Take Five Cafe,3.3,CA$20 for two,Cafe,"Richmond Centre, 9Z-6551 Number 3 Road, Richmond V6Y2B5",+16042329020,19,26
+255,Richmond,Pine House Bread & Cake Shop,3.6,CA$15 for two,"Bakery, Chinese, Asian","Parker Place, 1060-4380 Number 3 Road, Richmond V6X4E8",+16042149863,14,23
+256,Richmond,Tofu Hotpot,2.9,CA$25 for two,"Fast Food, Taiwanese, Chinese, Asian","Aberdeen Centre, Food Court, 3090-4151 Hazelbridge Way, Richmond",+17788588186,19,8
+257,Central Richmond,Shen Yang Kabob,2.2,CA$35 for two,"Chinese, Asian","8328 Capstan Way, Richmond",+16042852262,4,19
+258,Central Richmond,Pepper Lunch,3.2,CA$25 for two,"Japanese, Asian","1625-5791  Mcclelland Road, Richmond V6X 0M5",+16043701222,14,21
+259,Central Richmond,Sun Century,3.9,CA$25 for two,"Chinese, Cantonese","Yaohan Centre, Food Court, 1080-3700 Number 3 Road, Richmond V6X",+16042780838,10,16
+260,Richmond,Thai Express,3.1,CA$20 for two,"Fast Food, Thai, Asian","Richmond Centre, Food Court, 6551 Number 3 Road, Richmond V6Y2C1",+16042708323,21,15
+261,Central Richmond,Wo Fung Noodle House,3.3,CA$20 for two,"Fast Food, Chinese","8088 Park Road, Richmond, BC V6Y 2C4, Richmond",+16043703638,13,26
+262,Richmond,Aji Hana Japanese Eatery & Udon,3.1,CA$25 for two,"Fast Food, Sushi, Japanese, Asian","Aberdeen Centre, Food Court, 3050-4151 Hazelbridge Way, Richmond V6X",+16044476622,15,13
+263,Central Richmond,Countryside Chinese Noodle Restaurant,3.3,CA$25 for two,"Chinese, Asian","108-8571 Alexandra Road, Richmond V6X 1C3",+16047736568,11,16
+264,Richmond,Guang Dong Flavor Fast Food,3.1,CA$20 for two,"Fast Food, Chinese, Asian","Richmond Public Market, Level 2, Food Court, 2430-8260 Westminster Highway, Richmond V6X1A7",+16042784078,10,23
+265,Richmond,Bubble Waffle Cafe,3.0,CA$15 for two,"Cafe, Chinese","Ironwood Plaza, 1030-11660 Steveston Highway, Richmond V7A 1N6",+16042844433,12,23
+266,Central Richmond,Chongqing Noodle House,2.7,CA$10 for two,Chinese,"3779 Sexsmith Road, Richmond V6X 1J8",+16042852926,9,13
+267,Central Richmond,Shake Shake Tea,3.0,for two,Asian,"4600-3 Road, Suite 131, Richmond V6X",Not available for this place,9,14
+268,Central Richmond,Gong Cha,3.5,CA$15 for two,"Cafe, Tea","130 - 6068 No. 3 Road, Richmond, Richmond V6Y 2B3",+16042852208,10,3
+269,Central Richmond,Ryuu Japanese Kitchen,2.8,CA$40 for two,"Sushi, Japanese","McArthur Glen Designer Outlets, 1000-7899 Templeton Station Road, Richmond",+16042488989,14,15
+270,Richmond,Chongqing Family Food,3.9,CA$20 for two,"Fast Food, Chinese, Asian","Richmond Public Market, Second Floor, Food Court, 2410-8260 Westminster Highway, Richmond V6X",+17788923368,18,7
+271,Central Richmond,Tea Monarch,-,CA$15 for two,"Cafe, Taiwanese, Bubble Tea","175-6971 Elmbridge Way, Metro Vancouver, Richmond V7C 0A5",+16042858663,2,0
+272,Richmond,Szechuan House,3.1,CA$20 for two,"Fast Food, Sichuan, Chinese, Asian","Aberdeen Centre, Food Court, 3080-4151 Hazelbridge Way, Richmond",+16044316283,15,11
+273,Central Richmond,Chun Hing,3.4,CA$25 for two,"Fast Food, Chinese","Yaohan Centre, Food Court, 1040-3700 Number 3 Road, Richmond V6X",+16042783055,12,19
+274,Central Richmond,Agape Coffee,3.4,CA$25 for two,Cafe,"President Plaza, 8181 Cambie Road, Richmond V6X3X9",+16043036555,14,8
+275,Central Richmond,Blenz Coffee,3.4,CA$20 for two,"Cafe, Coffee and Tea","60-8100 Ackroyd Road, Richmond V6X",+16042470600,21,20
+276,Central Richmond,Pak Tak Chui Chow,3.3,CA$25 for two,"Fast Food, Cantonese, Chinese, Asian","Yaohan Centre, Food Court, 1050-3700 Number 3 Road, Richmond V6X 2C1",+16042319096,12,13
+277,Central Richmond,Joy G,2.2,CA$20 for two,"Bubble Tea, Beverages, Chinese, Asian","2110 - 8391 Alexandra Road, Richmond, Richmond V6X",+16047276856,18,7
+278,Richmond,Waves Coffee,2.7,CA$20 for two,Cafe,"London Plaza, 180-5951 Number 3 Road, Richmond V6X2E3",+16042739283,18,21
+279,Richmond,New York Fries,2.9,CA$15 for two,"Fast Food, American","Richmond Centre, Food Court, 6551 Number 3 Road, Richmond V6Y2B5",+16043700470,16,13
+280,Central Richmond,Coffee Versante,2.6,CA$15 for two,Coffee and Tea,"8280 Lansdowne Road, Suite 110, Richmond, Richmond V6X",+16042708832,4,25
+281,Central Richmond,Fresh Restaurant & Lounge,2.7,CA$45 for two,Pacific Northwest,"Radisson Hotel, 8181 Cambie Road, Richmond V6X3X9",+16042798303,14,14
+282,Central Richmond,Fuggles and Warlock,3.6,for two,Bar Food,"11220 Horseshoe Way, Richmond V7A 5H7",+17788938582,10,23
+283,Central Richmond,JiangHu Taiwanese Pot and Wok Cuisines,3.8,CA$30 for two,Taiwanese,"7911 Alderbridge Way Unit 100 Richmond, BC V6X 2A4, Richmond",+16042071388,7,12
+284,Central Richmond,Lu Charcoal Grill,3.0,CA$25 for two,Chinese,"6340 Number 3 Road Suite 9, Richmond V6Y 2B3",+16042853399,5,24
+285,Richmond,Tin Tin Kitchen,2.9,CA$20 for two,"Fast Food, Hong Kong Style, Chinese","Parker Place, Food Court 1395-4380 Number 3 Road, Richmond V6X4E8",+16042731319,17,7
+286,Richmond,Grill King,3.3,CA$25 for two,"Fast Food, Korean, BBQ, Asian","Lansdowne Centre, Food Court, 1050-5300 Number 3 Road, Richmond V6X 2X9",+16042702858,13,5
+287,Richmond,Vina Vietnamese,3.5,CA$25 for two,"Vietnamese, Asian, Fast Food","Richmond Centre, Food Court, 6551 Number 3 Road, Richmond V6Y2B5",+16048212959,19,21
+288,Richmond,V's Malay & Thai Food,3.5,CA$20 for two,"Fast Food, Malaysian, Thai","Richmond Public Market, Level 2, Food Court, 2100-8260 Westminster Highway, Richmond V6X",+16047795505,9,19
+289,Central Richmond,Datang BBQ Express,3.7,CA$20 for two,"Fast Food, Cantonese, Chinese, Asian","Yaohan Centre, Food Court, 1090-3700 Number 3 Road, Richmond V6X",+16042319673,13,9
+290,Central Richmond,Curve - River Rock Casino Resort,3.2,CA$70 for two,Bar Food,"River Rock Casino Resort, 8811 River Road, Richmond V6X 3P8",+16042731895,18,11
+291,Richmond,Edo Japan,3.3,CA$25 for two,"Fast Food, Sushi, Japanese, Asian","Richmond Centre, Food Court, 6551 Number 3 Road, Richmond V6Y2B5",+16042769011,17,5
+292,Central Richmond,Z&Y Shanghai Cuisine,3.1,CA$25 for two,"Chinese, Seafood","4711 Mcclelland Road, Unit 1010, Richmond, Richmond V6X 1C3",+17783898777,9,30
+293,Richmond,Wonder Wok,3.8,CA$20 for two,"Fast Food, Chinese, Asian","Richmond Public Market, Second Floor, Food Court, 2375-8260 Westminster Highway, Richmond V6X1A7",Not available for this place,9,21
+294,Richmond,Good Food,3.2,CA$25 for two,"Fast Food, Hong Kong Style, Chinese","Parker Place, Food Court, 1055-4380 Number 3 Road, Richmond V6X2C4",+16042310510,15,2
+295,Richmond,Pizza Express,3.5,CA$25 for two,"Pizza, Fast Food","Golden Plaza, 108-8531 Alexandra Road, Richmond V6X1C3",+16042709999,12,12
+296,Central Richmond,Sushi Aria,3.2,CA$25 for two,"Japanese, Sushi","150-9040 Blundell Road, Richmond, Richmond V6Y 1K4",+16042852742,12,43
+297,Richmond,Your Dessert,2.9,CA$25 for two,"Desserts, Asian","Admiralty Centre, Food Court, 2103-8700 McKim Way, Richmond V6X",+16042149938,11,8
+298,Central Richmond,Cheng Du Xiao Chi,3.2,CA$35 for two,"Chinese, Sichuan, Asian","150-4160 Number 3 Road, Richmond",+16042786609,6,13
+299,Central Richmond,Lu Ming Chun,2.9,CA$20 for two,"Fast Food, Northern Chinese, Chinese","Yaohan Centre, Food Court, 1100-3700 Number 3 Road, Richmond",+16048210828,9,7
+300,Richmond,Jugo Juice,2.4,CA$20 for two,"Juices, Beverages, Fast Food","Richmond Centre, Food Court, 6551 Number 3 Road, Richmond V6Y2B5",+16042709956,17,25
+301,Richmond,Polytaste Curry Kitchen,3.3,CA$25 for two,"Fast Food, Chinese, Asian","Admiralty Centre, Food Court, 2108-8700 McKim Way, Richmond V6X3Z7",+16043386770,8,6
+302,Central Richmond,Kam Ho Noodle Express,3.7,for two,Chinese,"2083 - 8700 Mckim Way Richmond, BC, Richmond, Metro Vancouver, Richmond",+17789548898,5,15
+303,Richmond,Thai Way Express,2.0,CA$25 for two,"Fast Food, Thai, Asian","Lansdowne Centre, Food Court, 1055-5300 Number 3 Road, Richmond",+16042789696,14,4
+304,Richmond,OPA!,3.0,CA$20 for two,"Fast Food, Greek","Richmond Centre, Food Court, 6551 Number 3 Road, Richmond V6Y2B5",+16042760044,11,12
+305,Central Richmond,Breadilicious,3.3,CA$10 for two,Bakery,"Aberdeen Square, 140-4000 Number 3 Road, Richmond V6X 0J8",+16042824831,15,6
+306,Central Richmond,Geng Shi Ji,-,CA$60 for two,Chinese,"1211-8338 Capstan Way, Richmond, Richmond",+16043706899,3,13
+307,Richmond,Wildleaf,2.9,CA$20 for two,Vietnamese,"Aberdeen Centre, Food Court, 4151 Hazelbridge Way, Richmond",+16042859922,4,19
+308,Central Richmond,Home BBQ,-,CA$25 for two,Asian,"150-8291 Ackroyd Road, Richmond",+16042490868,3,7
+309,Richmond,Kung Pao Wok,3.2,CA$20 for two,"Fast Food, Chinese, Asian","Richmond Centre, Food Court, 6551 Number 3 Road, Richmond V6Y2B5",+16042768871,11,3
+310,Richmond,A&W,2.6,CA$20 for two,Fast Food,"Richmond Centre, Food Court, 6551 Number 3 Road, Richmond V6Y2B5",+16042701968,15,4
+311,Richmond,Big Orange,3.1,CA$10 for two,"Bubble Tea, Beverages, Fast Food","Richmond Centre, 2261-6060 Minoru Boulevard, Richmond V6Y4A7",+16043043651,13,5
+312,Richmond,Villa Vietnamese,2.9,CA$25 for two,"Fast Food, Vietnamese, Asian","Lansdowne Centre, Food Court, 1015-5300 Number 3 Road, Richmond V6X 2C7",Not available for this place,9,11
+313,Central Richmond,C Wok Restaurant,3.0,CA$30 for two,Chinese,"138-8131 Westminster Highway, Metro Vancouver, Richmond",+16042859318,5,22
+314,Central Richmond,Lamb Hotpot,-,for two,Chinese,"3379 Sexsmith Road Suite 1103, Richmond, Richmond V6X 2H6",+16042858058,2,10
+315,Central Richmond,Co'M Vietnamese,3.5,CA$35 for two,Vietnamese,"120-7688, Alderbridge Way, Central Richmond, Richmond",+16042852654,5,10
+316,Central Richmond,Mr Black,3.0,CA$60 for two,Japanese,"2790-4151 Hazelbridge Way Richmond, Richmond",+16042956612,6,15
+317,Central Richmond,Afghan Chopan Bakery & Diner,3.3,CA$25 for two,Afghan,"8260 Westminster Highway, Richmond V6X 3Y2",+16042736505,9,14
+318,Richmond,Lee Chong Asian Foods,3.0,CA$15 for two,"Fast Food, Chinese, Asian","Richmond Public Market, Second Floor, Food Court, 2450-8260 Westminster Highway, Richmond V6X1A7",+16042783648,9,7
+319,Central Richmond,Wang Ji,2.7,for two,Chinese,"9100 Blundell Road, Suite 470, Richmond V6Y 3X9",+16042852252,6,12
+320,Richmond,Happy Together Fast Food,3.7,CA$25 for two,"Fast Food, Chinese, Asian","Admiralty Centre, Food Court, 2178-8700 McKim Way, Richmond V6X3Z7",+16042782336,7,3
+321,Central Richmond,Mezz Cafe and Lounge,3.4,CA$30 for two,Bar Food,"13100 Mitchell Road, Richmond V6V 1M8",+16043434818,8,10
+322,Central Richmond,Golden Coin,3.0,CA$30 for two,"Canadian, Chinese, Asian","6151 Westminster Highway, Richmond V7C1C6",+16042702732,9,2
+323,Central Richmond,Pearl Castle,3.1,CA$20 for two,Cafe,"3779 Sexsmith Rd #1128, Richmond, BC V6X 3Z9, Richmond",+16042790177,8,7
+324,Richmond,Shogun Akita,3.1,CA$25 for two,"Fast Food, Sushi, Japanese, Asian","Lansdowne Centre, Food Court, 1020-5300 Number 3 Road, Richmond V6X",+16042783354,10,7
+325,Richmond,KFC,2.6,CA$20 for two,Fast Food,"Richmond Centre, Food Court, 6551 Number 3 Road, Richmond V6Y1N3",+16042701151,11,6
+326,Central Richmond,Freshslice Pizza,3.6,CA$20 for two,"Pizza, Fast Food","8010 Saba Rd  #120, Richmond V6Y4E2",+17782976030,11,12
+327,Central Richmond,Seorae Korean Restaurant,-,CA$35 for two,Korean,"115-5668 Hollybridge Way, Central Richmond, Richmond, Richmond",+16043705668,1,10
+328,Central Richmond,Jack Frost,3.1,CA$45 for two,Cafe,"6916 No 3 Rd, Richmond, BC, Richmond",+16042859333,7,4
+329,Central Richmond,Romilano Pizza,3.6,CA$20 for two,Pizza,"4000 No 3 Road Suite 130, Richmond,, Richmond V6X 0J8",+16042852244,10,16
+330,Richmond,Gourmet Cup Beverage Station,3.3,CA$20 for two,Cafe,"Lansdowne Centre, 5300 Number 3 Road, Richmond V6X",+16042703877,8,7
+331,Richmond,Starbucks,3.2,CA$20 for two,Cafe,"Richmond Centre, Food Court, 6551 Number 3 Road, Richmond V6Y2C1",+16042330511,12,18
+332,Central Richmond,McDonald's,2.6,CA$20 for two,Fast Food,"8191 Alderbridge Way, Richmond V6X3L4",+16047181088,9,14
+333,Central Richmond,Sichuan Kungfu Fish 麻省理功深海烤鱼,3.5,CA$30 for two,Chinese,"2788-4151, Hazelbridge Way, Richmond, BC V6X 0A4, Canada, Richmond",+17789191238,4,13
+334,Central Richmond,Japadog,2.8,CA$20 for two,Japanese,"1000-7899 Templeton Station Road, Richmond V7B 0B7",Not available for this place,6,13
+335,Garden City,Subway,3.1,CA$25 for two,Fast Food,"Garden City Shopping Centre, 150-9100 Blundell Road, Richmond V6Y2N9",+16042447170,10,15
+336,Central Richmond,Red Lantern,3.6,CA$25 for two,"Fast Food, Northern Chinese, Chinese, Asian","President Plaza, Food Court, 2265-8181 Cambie Road, Richmond V6X 3X9",+17788298009,6,4
+337,Central Richmond,Nando's,3.3,CA$25 for two,Portuguese,"4711 Mcclelland Rd, Unit 1005, Central at Garden City, Central Richmond, Richmond, Richmond V6X 2K5",+16042448004,7,7
+338,Central Richmond,Fook Po Tong,3.8,CA$25 for two,"Chinese, Asian, Desserts","Yaohan Centre, Food Court, 1065-3700 Number 3 Road, Richmond V6X",+16042783345,5,9
+339,Central Richmond,Wang Ji Restaurant Cafe,2.8,CA$30 for two,Asian,"9100 Blundell Road, Suite 470, Richmond V6Y 3X9",+16042852252,8,15
+340,Central Richmond,Sharetea,3.2,CA$25 for two,"Cafe, Coffee and Tea","1033-8300 Capstan Way, Richmond, BC V6X 4B7, Richmond",+16042851777,8,2
+341,Richmond,Round Table Pizza,3.7,CA$25 for two,Pizza,"160-8780 Blundell Road Richmond, BC, Canada, Richmond V6Y 1K1 5J8",+1604275-4325,9,7
+342,Central Richmond,Worldwide Café - Four Points by Sheraton,3.3,CA$60 for two,Canadian,"Four Points By Sheraton, 8368 Alexandra Road, Richmond V6X",+16042073028,9,4
+343,Central Richmond,Happy Day Cafe,3.1,CA$45 for two,Hong Kong Style,"1450-4771 Mcclelland Road, Central Richmond, Richmond",+16042733308,6,6
+344,Central Richmond,Snack King Eatery,-,CA$20 for two,"Fast Food, Taiwanese, Asian","Pacific Plaza Food Court, Level 2, 8888 Odlin Crescent, Richmond V6X",+16043624442,3,10
+345,Central Richmond,Origo Club,-,CA$45 for two,French,"6888 River Rd #110, Richmond",+116042858889,3,2
+346,Richmond,Orange Julius,3.2,CA$15 for two,"Fast Food, Juices, Beverages","Richmond Centre, 1448-6551 Number 3 Road, Richmond V6Y2B5",+16042733016,9,3
+347,Richmond,Parker Good Foods,2.4,CA$25 for two,"Chinese, Asian","Parker Place, Food Court, 1105-4380 Number 3 Road, Richmond V6X 3V7",+16048211897,6,1
+348,Richmond,Hong Kong Cafeteria,3.2,CA$20 for two,"Fast Food, Hong Kong Style, Chinese, Asian","Richmond Public Market, Second Floor, Food Court, 8260 Westminster Highway, Richmond V6X1A7",+17787131143,9,5
+349,Richmond,Jimmy the Greek,3.5,CA$20 for two,"Greek, Fast Food","Lansdowne Centre, Food Court, 1030-5300 Number 3 Road, Richmond V6X 2X9",+16043043665,8,5
+350,Central Richmond,Caffe Artigiano,2.4,for two,Coffee and Tea,"1082-7899 Templeton Station Road, Richmond V7B 0B7",+16042783175,4,4
+351,Central Richmond,Triple O's - River Rock Casino Resort,2.7,CA$25 for two,Fast Food,"River Rock Casino Resort, Food Court, 8811 River Road, Richmond V6X 3P8",+16042478900,7,14
+352,Central Richmond,Mui Kee Chicken Pot,3.3,CA$20 for two,Chinese,"1120-8391 Alexandra Road, Richmond, BC V6X 3W5, Richmond",+16043704833,4,4
+353,Central Richmond,Blackball Taiwanese Dessert,-,for two,"Desserts, Beverages, Taiwanese","8300 Capstan Way Unit 1061, Central Richmond, Richmond, Richmond",Not available for this place,3,6
+354,Central Richmond,Nando's,2.9,CA$30 for two,"African, Portuguese","Unit 1005, Central at Garden City, 4711 Mcclelland Road, Richmond V6X 0M5",+16042448004,4,1
+355,Central Richmond,Greenday Vegetarian,-,CA$20 for two,Chinese,"Pacific Plaza Food Court, Level 2, 2160-8888 Odlin Crescent, Richmond",+17788636923,3,9
+356,Central Richmond,Want Want Hot & Spicy House,-,CA$20 for two,"Fast Food, Sichuan, Chinese, Asian","Yaohan Centre, Food Court, 1080-3700 Number 3 Road, Richmond V6X 2C1",+17782971776,2,5
+357,Central Richmond,DAAN Korean Cuisine Restaurant,-,CA$35 for two,Korean,"125 - 9040 Blundell Road, Richmond, BC V6Y 2N6, Richmond",+116043037076,2,14
+358,Central Richmond,BLOCK 18 Cart Noodle,-,CA$20 for two,Ramen,"8400 Alexandra Road, Suite 190, Richmond, BC V6X 1C3, Richmond",+16043702863,3,5
+359,Central Richmond,Beard Papa's Sweet Cafe,-,for two,Desserts,"5951 No 3 Road, Suite 100, Richmond, Richmond V6X 2E3",+17782977339,3,7
+360,Central Richmond,iTofu,3.2,for two,Japanese,"125 - 4940 No.3 Road, Richmond, BC V6X 3A5, Richmond",+12368886618,4,2
+361,Central Richmond,Kingwuu,-,CA$10 for two,"Chinese, Asian","145-4200 Number 3 Road, Richmond",+16042761776,3,2
+362,Central Richmond,The Fish Man,-,CA$35 for two,"Seafood, Chinese","1170-8391 Alexandra Road, Central Richmond, Richmond, Richmond",+1(6042845393,2,2
+363,Richmond,50 Hong Kong Style Continental Deli,-,CA$25 for two,"Fast Food, Hong Kong Style, Chinese","Empire Centre, Food Court, 1350-4540 Number 3 Road, Richmond V6X",Not available for this place,3,5
+364,Central Richmond,Mala 1Pot,-,CA$25 for two,"Chinese, Seafood","2130-8391 Alexandra Road, Richmond, BC, Richmond",+16042850789,1,4
+365,Richmond,MY Coffee,-,CA$20 for two,Cafe,"Lansdowne Centre, Food Court, 924-5300 Number 3 Road, Richmond V6X 2X9",+17782977004,3,3
+366,Richmond,C&M Kitchen,-,CA$25 for two,"Fast Food, Cantonese, Chinese, Asian","Admiralty Centre, Food Court, 2083-8700 McKim Way, Richmond V6X 3Z7",+17783196789,3,4
+367,Richmond,Spicy Master Fine Food Kitchen,-,CA$30 for two,"Fast Food, Chinese","Richmond Public Market, Level 2, 2429-8260 Westminster Highway, Richmond",+16042858989,1,8
+368,Central Richmond,T&T Supermarket,-,CA$20 for two,"Chinese, Japanese, Bakery","135 5511 Hollybridge Way, Metro Vancouver, Richmond V7C 0C3",+16043038633,2,3
+369,Central Richmond,Dairy Queen Grill & Chill,-,CA$25 for two,"Ice Cream, Burger","8980 number 3 Road Unit 105, Richmond V6Y 2E8",+16042789188,1,3
+370,Central Richmond,Xian Noodle Restaurant,3.3,CA$20 for two,Northern Chinese,"170-4351 No 3 Rd, Richmond, Richmond",+17786544566,4,4
+371,Central Richmond,Exposure Social house,-,CA$15 for two,Bubble Tea,"4600 No. 3 Road, Unit 131, Richmond, Richmond",+17786806808,3,1
+372,Richmond,Sisters Kitchen,-,CA$20 for two,"Fast Food, Chinese","Richmond Public Market, Level 2, 2350-8260 Westminster Highway, Richmond",+17788924833,2,3
+373,Central Richmond,Royce' Chocolate,-,for two,Desserts,"6551 No 3 Road, Metro Vancouver, Richmond V6Y 2B6",+16042840094,1,0
+374,Richmond,Gourmet Korean,-,CA$25 for two,"Korean, Asian","Aberdeen Centre, Inside H Mart, 4151 Hazelbridge Way, Richmond",+16042330496,2,3
+375,Central Richmond,1029 Cafe,-,CA$40 for two,Chinese,"9231 Beckwith Road, Richmond",+16042791029,1,3
+376,Central Richmond,White Spot,-,CA$25 for two,Canadian,"12800 Bridgeport Road, Unit 120, Richmond, Richmond V6V 0B4",+16042700375,2,7
+377,Central Richmond,River Chinese Cuisine,-,CA$10 for two,Chinese,"6091 No 3 Rd, Richmond, BC V6Y 2B1, Richmond",+16042958189,3,12
+378,Richmond,Luck's Gourmet,3.4,CA$25 for two,"Fast Food, Chinese, Asian","Admiralty Centre, Food Court, 2088-8700 McKim Way, Richmond",+17782971300,4,1
+379,Central Richmond,Davood's Bistro,-,CA$25 for two,Cafe,"120 - 12420, 1 Road, Richmond, Richmond",+16042772687,1,3
+380,Central Richmond,Share Tea,-,CA$15 for two,Bubble Tea,"6111 No 3 Road, Central Richmond, Richmond, Richmond",+16042389731,3,1
+381,Central Richmond,Yuan’s Chuan Chuan Xiang 袁记串串香温哥华店,-,CA$25 for two,Chinese,"Aberdeen Centre, 4151 Hazelbridge Way #2792, #2F, Richmond, BC V6X 4J7, Richmond",+16042859266,3,1
+382,Richmond,First Choice Cafe,3.4,CA$20 for two,"Fast Food, Chinese","Empire Centre, Food Court, 1150-4540 Number 3 Road, Richmond V6X4E8",+16048211486,4,3
+383,Central Richmond,Goodbowl,-,CA$35 for two,Mongolian,"1630, 4791 Mcclelland Road, Richmond, BC V6X 0M5, Richmond",+16042440766,3,6
+384,Central Richmond,Bobii Frutii,-,CA$20 for two,"Bubble Tea, Cafe","157 - 4800 No. 3 Road, Central Richmond, Richmond",+16043702533,2,4
+385,Central Richmond,Pho 37,-,CA$30 for two,Vietnamese,"8328 Capstan Way, Suite 1101, Central Richmond, Richmond, Richmond",+16044475158,2,1
+386,Central Richmond,Baiyulan Shanghai Cuisine,-,CA$25 for two,Chinese,"129-4940 Number 3 Road, Richmond, BC V6Y 1N5, Richmond",+16043048288,0,5
+387,Richmond,Evergreen Vegetarian House,-,CA$10 for two,"Fast Food, Chinese","Empire Centre, Food Court, 1155-4540 Number 3 Road, Richmond V6X",+16048793380,1,1
+388,Richmond,The Boss Bakery & Restaurant,-,CA$40 for two,"Chinese, Bakery","Blundell Centre, 180-8120 Number 2 Road, Richmond",+16042732677,2,0
+389,Central Richmond,Chinese Noodle Shop - River Rock Casino Resort,-,CA$15 for two,"Chinese, Asian","River Rock Casino Resort, Food Court, 8811 River Road, Richmond",+16042731895,2,7
+390,Richmond,Mai Mei Hong,-,CA$20 for two,"Fast Food, Singaporean, Asian","Parker Place, 1242-4380 Number 3 Road, Richmond V6X4E8",+16042784918,3,1
+391,Richmond,Womee Japanese Food,-,CA$25 for two,"Fast Food, Sushi, Japanese, Asian","Parker Place, Food Court, 1110-4380 Number 3 Road, Richmond V6X 4E8",+16043045199,3,2
+392,Central Richmond,O Cafe,-,CA$20 for two,Cafe,"Richmond Olympic Oval, 6111 River Road, Richmond V7C 0A2",+16042447070,1,7
+393,Central Richmond,Brain Freeze,3.3,CA$15 for two,"Desserts, Ice Cream, Frozen Yogurt","14511 Steveston Highway, Richmond V6W 1K2",+17785527246,4,1
+394,Richmond,Qoola,-,CA$10 for two,"Frozen Yogurt, Desserts","9040 Blundell Road, Unit 175, Richmond V6Y 1K3",+16043703127,1,2
+395,Central Richmond,Yi Fang Taiwan Fruit Tea,-,CA$20 for two,Taiwanese,"5555 Gilbert Road #150, R, Central Richmond, Richmond, Richmond",+16042856755,2,0
+396,Central Richmond,Richmond Xiaolongkan Hotpot,-,for two,Chinese,"8320 Alexandra Road, Richmond, BC V6X 1C4, Richmond",+17782221888,2,0
+397,Central Richmond,One Cake Boutique,-,CA$15 for two,Bakery,"8368 Capstan Way #1313, Richmond, Richmond",+16042858588,2,0
+398,Central Richmond,Vitality Steam Seafood,-,CA$35 for two,Seafood,"8500 Alexandra Road. Unit 140, Richmond, BC V6X 3L4, Richmond",+16043706699,1,0
+399,Central Richmond,Dinesty Dumpling House,-,CA$40 for two,Chinese,"5555 Gilbert Rd Unit#150, Richmond, Richmond",+116042787773,2,4
+400,Central Richmond,Yuan's Garden,-,CA$50 for two,"Shanghai, Asian Fusion","8077 Alexandra Road #101, Richmond, Richmond",+17782976098,1,15
+401,Central Richmond,Chuan Lu Restaurant,-,for two,Chinese,"8053 Alexandra Road, Richmond",+16042843999,2,7
+402,Central Richmond,Chi lian,-,CA$35 for two,Chinese,"8231 Cambie Road, Richmond",+116043705656,1,6
+403,Central Richmond,Swan Kitchen,-,CA$20 for two,"Fast Food, Chinese, Asian","Pacific Plaza Food Court, Level 2, 2195-8888 Odlin Crescent, Richmond V6X3Z8",+16047237926,3,3
+404,Central Richmond,China House,-,CA$30 for two,"Chinese, Dim Sum","8300 Capstan Way, Richmond, Richmond V6X 4B7",+16042845511,2,0
+405,Central Richmond,38 Sampal Korean BBQ,-,CA$20 for two,Korean,"8391 Alexandra Rd Unit 2160, Richmond",+16042316007,0,0
+406,Richmond,More Cafe,-,CA$10 for two,"Bubble Tea, Asian, Beverages","Parker Place, Food Court, 4380 Number 3 Road, Richmond",+16042702622,1,3
+407,Central Richmond,Nadu Restaurant,-,for two,Chinese,"6360 No.3 Road, Richmond, Richmond V6Y 2B3",+16042852895,1,5
+408,Richmond,Wonderful Milk Tea,-,CA$25 for two,"Fast Food, Hong Kong Style, Chinese","Empire Centre, Food Court, 1370-4540 Number 3 Road, Richmond",+16043630627,1,4
+409,Central Richmond,Hong Mao Seafood Restaurant,-,for two,"Chinese, Dim Sum","100-3600, 3 Road, Central Richmond, Richmond, Richmond",+17782970868,1,6
+410,Richmond,DAVIDsTEA,-,CA$15 for two,"Tea, Beverages","Richmond Centre, 1653-6551 Number 3 Road, Richmond",+16042440605,2,2
+411,Central Richmond,Tian Shi Fu,-,CA$30 for two,Chinese,"6111 No 3 Rd, Richmond, Richmond",+16042389731,1,4
+412,Central Richmond,Hainan Kitchen,-,CA$35 for two,Chinese,"485 - 9100 Blundell Road, Richmond, BC V6Y 3X9, Richmond",+16043701771,1,4
+413,Central Richmond,Fresh Slice Piiza,-,CA$25 for two,Pizza,"11060 No 5 Rd, Unit 160, Richmond, Richmond V7A 4E8",+16043702444,1,0
+414,Central Richmond,Burger King,-,CA$20 for two,Burger,"4720 Mcclelland Road #1805, Richmond",+18663942493,2,21
+415,Central Richmond,Freshii,-,CA$30 for two,"Healthy Food, Salad, Vegetarian","5668 Hollybridge Way, Richmond, Richmond",+17787320782,1,3
+416,Central Richmond,Auntie Polly's Kitchen,-,CA$25 for two,Taiwanese,"Admiralty Centre, Food Court, 2188-8700 McKim Way, Richmond",+17786811868,0,1
+417,Richmond,Szechuan Cuisine,-,CA$25 for two,"Fast Food, Sichuan, Chinese, Asian","Parker Place, 1380-4380 Number 3 Road, Richmond",+16043703919,0,2
+418,Central Richmond,K-Mix Karaoke,-,CA$50 for two,"Bubble Tea, Taiwanese, Asian","Garden City Plaza, 140-4731 Garden City Road, Richmond",+16048211820,1,3
+419,Central Richmond,The Shellfish Shack,-,CA$45 for two,"Seafood, Fish and Chips, Peruvian","1100-8580 Alexandra Rd, Richmond, Richmond",+16043702018,1,0
+420,Central Richmond,The Alley,-,CA$15 for two,"Beverages, Coffee and Tea, Desserts, Taiwanese","8368 Capstan Way Unit 1316, Richmond, BC V6X 4B4, Central Richmond, Richmond, Richmond",+17782971551,1,0
+421,Central Richmond,Hotpot palace,-,CA$50 for two,"Chinese, Seafood","168-7911, Alderbridge Way, Central Richmond, Richmond",+16042702588,1,6
+422,Richmond,Personal Dining,-,CA$25 for two,"Fast Food, Chinese, Asian","Admiralty Centre, Food Court, 2098-8700 McKim Way, Richmond",+16042783303,1,2
+423,Central Richmond,The Deli - River Rock Casino Resort,-,CA$30 for two,Deli,"River Rock Casino Resort, Food Court, 8811 River Road, Richmond",+16042731895,1,3
+424,Central Richmond,Java Jack's Coffeehouse - River Rock Casino Resort,-,CA$30 for two,Cafe,"River Rock Casino Resort, 8811 River Road, Richmond",+16042731895,1,9
+425,Central Richmond,G.L.G.W.,-,CA$20 for two,Fast Food,"8291 Westminster Highway, Suite 150, Richmond, BC V6Y 1A7, Richmond",+17782977836,1,3
+426,Central Richmond,Ji Xiang Vegetarian Cuisine,-,CA$20 for two,"Fast Food, Chinese, Asian","President Plaza, Food Court, 2275-8181 Cambie Road, Richmond V6X 3X9",+17787131628,0,1
+427,Central Richmond,Poké Bar,-,CA$30 for two,"Hawaiian, Healthy Food","4731 Mcclelland Road Unit 1110, Richmond, Richmond",+16043707075,1,1
+428,Richmond,U Grill,-,CA$15 for two,"Fast Food, Chinese, Asian","Richmond Centre, Food Court, 6551 Number 3 Road, Richmond V6Y 2B6",+16043702036,1,1
+429,Central Richmond,Dairy Queen (Treat),-,CA$10 for two,Desserts,"1708-6551 number 3 Road Unit 2485, Richmond",+16043700300,0,0
+430,Central Richmond,Boson Coffee Corp.,-,for two,"Coffee and Tea, Fast Food","2010 & 9111 1V7 Great Canadian Way & Beckwith Road, Richmond,, Richmond V6X",+16042840828,1,0
+431,Central Richmond,Park Road Social Bar & Grill,-,CA$25 for two,American,"8191 Park Road, Richmond, Richmond V6Y 1S9",+16042843989,1,0
+432,Central Richmond,Sichuan Xiaodeng,-,CA$20 for two,"Fast Food, Sichuan, Chinese, Asian","President Plaza, Food Court, 8181 Cambie Road, Richmond",+16042762251,0,1
+433,Central Richmond,Noire Cafe,-,CA$25 for two,Cafe,"8181 Cambie Rd #1140, Richmond, Richmond",+16042331500,0,0
+434,Central Richmond,The Taste Of Szechuan,-,CA$20 for two,"Fast Food, Sichuan, Chinese, Asian","Pacific Plaza Food Court, Level 2, 8888 Odlin Crescent, Richmond",Not available for this place,0,3
+435,Central Richmond,Tim Hortons,-,CA$20 for two,Cafe,"5940 Ferguson Road, Richmond",+16048211875,0,1
+436,Central Richmond,Yu Fei Yu Roast Fish,-,CA$30 for two,Vietnamese,"1161 8328 Capstan Way, Richmond",+17782972000,0,0
+437,Central Richmond,Maruwa,-,CA$25 for two,Japanese,"8211 Cook Road, Richmond V6Y 2E9",Not available for this place,0,0
+438,Central Richmond,Qian Dao Hotpot,-,CA$35 for two,Chinese,"8580 Alexandra Road. Suite 1185, Richmond, BC V6X 4B3, Richmond",+16047822599,0,0
+439,Central Richmond,Yu Fei Yu Roast Fish,-,CA$40 for two,Seafood,"8328 Capstan Way #1161, Richmond, Richmond",+17782972000,0,0
+440,Central Richmond,Big Rock Cafe,-,CA$30 for two,Fast Food,"Inside Richmond Curling Club, 5540 Hollybridge Road, Richmond",+16042072900,0,2
+441,Richmond,Amente Bakery,-,CA$15 for two,"Bakery, Asian, Desserts","Aberdeen Centre, Inside H Mart, 4151 Hazelbridge, Richmond",+16042330496,0,4
+442,Central Richmond,Romalino Pizza,-,CA$20 for two,Pizza,"130-4000 No.3 Road, Richmond",+16042852244,0,0
+443,Richmond,Wooden Cart Noodles,-,CA$25 for two,"Fast Food, Chinese, Asian","Admiralty Centre, Food Court, 2118-8700 McKim Way, Richmond V6X 3Z7",+17789893182,0,1
+444,Richmond,Orange Corner,-,CA$10 for two,"Bubble Tea, Beverages, Asian","Parker Place, 4380 Number 3 Road, Richmond V6X 3V7",+17788650566,0,1
+445,Richmond,Liukela,-,CA$20 for two,Chinese,"Richmond Public Market, Level 2, 2360-8260 Westminster Highway, Richmond",+16042853313,0,2
+446,Central Richmond,Fatburger & Buffalo's Express,-,CA$20 for two,"Burger, Fast Food","4700 McClelland Road Unit 1725, Richmond",+16042851634,0,1
+447,Central Richmond,Richmond Night Market,4.2,CA$43 for two,"Asian, Dim Sum, International","8351 River Rd, Richmond V6X1Y1",+16042448448,323,358
+448,Central Richmond,O'Tray,3.9,CA$20 for two,Chinese,"President Plaza, Food Court, 2285-8181 Cambie Road, Richmond V6X",+17788297519,52,31
+449,Richmond,Lai Leung Kee Delicatessen,3.9,CA$25 for two,"Fast Food, Chinese","Empire Centre, Food Court, 1360-4540 Number 3 Road, Richmond V6X",+16042478893,43,50
+450,Central Richmond,Fresh Press Coffee Bar,3.8,CA$20 for two,Cafe,"121-4940 Number 3 Road, Richmond V6X 3A5",+16047873028,30,17
+451,Central Richmond,Paul's Kitchen,3.9,CA$20 for two,Chinese,"135-4651 Number 3 Road, Richmond V6X 2C4",+16042730373,39,25
+452,Central Richmond,Yung Ho Soy Drink,3.4,CA$15 for two,"Fast Food, Chinese, Asian, Beverages","President Plaza, Food Court, 2255-8181 Cambie Road, Richmond V6X3X9",+16043043634,33,21
+453,Central Richmond,Viva Java Roasting House,3.3,CA$10 for two,Cafe,"2900 Smith Street, Richmond V6X2J3",+16042707740,35,13
+454,Central Richmond,ME and Crepe,3.4,for two,Asian Fusion,"128-8531 Alexandra Road, Richmond V6X 1C3",+16043320698,7,7
+455,Central Richmond,Hao's Lamb Restaurant,3.3,for two,Chinese,"11800-8799 McKim Way, Metro Vancouver, Richmond",+16042706632,9,12
+456,Central Richmond,Chinese Sauerkraut Fish,3.6,CA$25 for two,"Chinese, Seafood","4940 No 3 Road, Unit 101, Richmond, Richmond V6X 3A5",+16043030490,12,25
+457,Central Richmond,K-Town BBQ,3.7,CA$80 for two,"BBQ, Korean","Unit 3600, 4151 Hazelbridge Way, Richmond, Richmond V6X",+16042956658,19,24
+458,Central Richmond,Faebrew,3.3,CA$10 for two,Coffee and Tea,"140-4328 No.3 Road, Richmond, Richmond V6X 3L7",+17788955486,10,2
+459,Central Richmond,Sweet Memory Dessert,3.5,for two,Desserts,"8080 Leslie Road Richmond, BC V6X 1E4 Golden Village, Richmond",+16043702882,15,31
+460,Richmond,Xin Jiang Delicious Food,3.8,CA$20 for two,"Fast Food, Chinese, Asian","Richmond Public Market, Level 2, Food Court, 2390-8260 Westminster Highway, Richmond V6X",+16043078692,19,8
+461,Central Richmond,Kowloon Bay BBQ House,2.9,CA$20 for two,"Chinese, Asian, Fast Food","150-8191 Westminster Highway, Richmond V6X 1A7",+16042737071,7,29
+462,Central Richmond,Shu Tao Hot Pot,-,for two,Chinese,"5960 Minoru Boulevard, Unit 140, Richmond, Richmond V6X 3J3",+17787899919,3,18
+463,Central Richmond,Britannia Brewing Company,3.5,for two,Canadian,"12240 Second Avenue, Richmond, Richmond V7A 5K2",+16042709252,14,20
+464,Central Richmond,Ajishou,2.8,CA$25 for two,"Japanese, Seafood","4791 Mcclelland Road, Unit 1610, Richmond, Richmond V6X 0M5",+16042141402,11,29
+465,Central Richmond,Taikoo Yummy Food,3.3,CA$20 for two,"Fast Food, Chinese, Asian","Pacific Plaza Food Court, Level 2, 2210-8888 Odlin Crescent, Richmond V6X 3Z8",+16042320138,8,16
+466,Central Richmond,To Hot Pot,2.6,for two,Chinese,"130- 8171 Ackroyd Road, Richmond, Richmond V6X 3K1",+16042841555,8,32
+467,Central Richmond,Sweetie Girl Noodle House,-,CA$15 for two,Chinese,"4580 No.3 Road, Suite 2085, Richmond, Richmond V6X 1E4",+16042850060,1,10
+468,Central Richmond,Art & Coffee,3.3,CA$10 for two,Cafe,"Pacific Plaza Food Court, Level 2, 2270-8888 Odlin Crescent, Richmond V6X",+17788615737,4,18
+469,Central Richmond,Tea Impression,-,for two,"Cafe, Desserts","165-8171 Ackroyd Road, Metro Vancouver, Richmond V6X CK1",+16042859399,1,2
+470,Central Richmond,Chef Cong Cong,3.0,CA$25 for two,"Fast Food, Northern Chinese, Chinese, Asian","President Plaza, Food Court, 8181 Cambie Road, Richmond V6X 3X9",+16043585608,6,10
+471,Central Richmond,Old Xian’s Food,2.9,CA$25 for two,Chinese,"3779 Sexsmith Road, Suite 1111, Richmond V6X 3Z9",+16042859002,6,11
+472,Central Richmond,The Butler Did it Cafe,3.6,CA$20 for two,Cafe,"Inside Richmond City Hall, 6911 Number 3 Road, Richmond V6Y",+16042764258,4,7
+473,Central Richmond,Noodle's Tao,-,for two,Chinese,"105-4800 Number 3 Road, Richmond",Not available for this place,1,9
+474,Central Richmond,Grace Food Company Ltd,-,CA$20 for two,"Fast Food, Chinese, Asian","Pacific Plaza Food Court, Level 2, 2165-8888 Odlin Crescent, Richmond V6X 3Z8",+17787883018,1,10
+475,Central Richmond,Night Owl Cafe,-,CA$25 for two,"Cafe, Hong Kong Style","8580 Cambie Roa, Unit 104, Richmond, Richmond V6X 4J8",+16042760576,2,2
+476,Central Richmond,Hemisphere North - Pacific Gateway Hotel,-,CA$50 for two,"Canadian, Breakfast","Pacific Gateway Hotel, 3500 Cessna Drive, Richmond V7B 1C7",+16042781241,3,2
+477,Central Richmond,Tivoli's - Executive Airport Plaza Hotel,2.3,CA$70 for two,Canadian,"Executive Airport Plaza Hotel, 7311 Westminster Hightway, Richmond V6X1A1",+16042785555,6,11
+478,Richmond,Chilli,-,CA$40 for two,"Sichuan, Chinese, Asian","Golden Plaza, 128-8531 Alexandra Road, Richmond",+16043320698,0,1
+479,Central Richmond,Chow Fusion Restaurant,-,CA$25 for two,Chinese,"170-8500 Alexandra Road, Richmond, Richmond V6X 3L4",+16042853199,1,0
+480,Central Richmond,"Bestie Chicken Pot, Richmond",-,CA$20 for two,Chinese,"1110-4651 Garden City Road, Metro Vancouver, Richmond V6X 4A9",+16042850909,1,15
+481,Central Richmond,Macan's Bar + Grill,-,for two,Canadian,"9100 Steveston Hwy, Richmond, Richmond V7A 1M5",+16042773141,1,11
+482,Central Richmond,Fresh Elements,-,CA$10 for two,"Juices, Bubble Tea","102-5300 No 3 Road, Richmond, Richmond V6X 2X9",Not available for this place,1,1
+483,Central Richmond,Southside Cafe,-,CA$20 for two,Cafe,"5360 Airport Road South, Richmond V7B 1B5",+16043030407,1,0
+484,Central Richmond,Zio's,-,CA$25 for two,Pizza,"8811 River Road, Richmond, BC V6X 3P8, Richmond",+16042478900,1,0
+485,Central Richmond,Ginger Indian Cuisine,-,CA$60 for two,Indian,"490-9100 Blundell Rd, Richmond, British Columbia, Richmond",+16043701300,0,0
+486,Central Richmond,H Mart,-,for two,Deli,"4151 Hazelbridge Way, Unit 1780, Richmond V6X 4J7",+16042330496,0,0
+487,Central Richmond,Dong Lai Shun Restaurant,-,for two,"Chinese, Asian","Aberdeen Square, 4000 Number 3 Road, Richmond V6X",Not available for this place,0,0

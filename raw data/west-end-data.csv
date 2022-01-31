@@ -1,0 +1,235 @@
+,Location,Name,Rating,Price Range,Cuisine Type,Address,Phone Number,Num Reviews,Num Photos
+0,West End,Kingyo Izakaya,4.9,CA$60 for two,"Sushi, Japanese, Asian","871 Denman Street, Vancouver V6G 2LN",+16046081677,0,777
+1,West End,Hokkaido Ramen Santouka,4.6,CA$30 for two,"Ramen, Japanese","1690 Robson Street, Vancouver V6G 1C7",+16046818121,0,491
+2,West End,Nero Belgian Waffle Bar,4.7,CA$25 for two,"Desserts, Cafe","1703 Robson Street, Vancouver V6G1C8",+17787120694,0,386
+3,West End,Thierry Chocolaterie Patisserie Cafe,4.3,CA$35 for two,"Desserts, Cafe","1059 Alberni Street, Vancouver V6E 1A1",+16046086870,0,537
+4,West End,Joe Fortes Seafood & Chop House,4.5,CA$90 for two,"Seafood, Steak","777 Thurlow Street, Vancouver V6E 3V5",+16046691940,0,541
+5,West End,Guu Original,4.8,CA$55 for two,"Japanese, Asian, Tapas","838 Thurlow Street, Vancouver V6E 1W2",+16046858817,0,328
+6,West End,Stepho's Souvlaki Greek Taverna,4.1,CA$40 for two,"Greek, Mediterranean","1124 Davie Street, Vancouver V6E 1N1",+16046832555,0,273
+7,West End,Kintaro Ramen,4.3,CA$30 for two,"Ramen, Japanese, Asian","788 Denman Street, Vancouver V6G 2L5",+16046827568,0,183
+8,West End,Le Crocodile,4.7,CA$120 for two,French,"909 Burrard Street, Vancouver V6E 4T4",+16046694298,667,402
+9,West End,Guu With Garlic,4.6,CA$40 for two,"Japanese, Asian, Tapas","1698 Robson Street, Vancouver V6G 1C7",+16046858678,891,415
+10,West End,Motomachi Shokudo,4.3,CA$35 for two,"Ramen, Japanese, Asian","740 Denman Street, Vancouver V6G",+16046090310,582,222
+11,West End,Forage,4.2,CA$70 for two,Canadian,"1300 Robson Street, Vancouver V6E 1C5",+16046848461,478,335
+12,West End,Marutama Ra-men,4.4,CA$35 for two,Ramen,"780 Bidwell Street, Vancouver V6G 1C8",+16046888837,518,258
+13,West End,Zakkushi Charcoal Grill,4.4,CA$25 for two,Japanese,"823 Denman Street, Vancouver V6G 2L6",+16046851136,471,236
+14,West End,La Belle Patate,4.4,CA$25 for two,"Canadian, Fast Food","1215 Davie Street, Vancouver V6E 1N4",+16045691215,433,94
+15,West End,Italian Kitchen,4.0,CA$80 for two,Italian,"860 Burrard Street, Vancouver, BC, Vancouver V6Z 1X9 1A1",+16046872858,632,216
+16,West End,Coast Restaurant,3.9,CA$50 for two,"Seafood, Steak","1054 Alberni Street, Vancouver V6Z2V6",+16046855010,562,242
+17,West End,Sura Korean Cuisine Restaurant,4.4,CA$55 for two,"Korean, Seafood, Asian","1518 Robson Street, Vancouver V6G 1C3",+16046877872,386,194
+18,West End,CinCin Ristorante + Bar,4.1,CA$140 for two,Italian,"1154 Robson Street, Vancouver V6E1B2",+16046887338,426,187
+19,West End,Black + Blue,2.9,CA$130 for two,"Steak, Seafood","1032 Alberni Street, Vancouver V6Z 2V6",+16046370777,522,362
+20,West End,Nook,4.5,CA$50 for two,"Italian, Pizza","781 Denman Street, Vancouver V6G2L6",+16045684554,326,90
+21,West End,MDG Ma Dang Goul,4.3,CA$40 for two,"Korean, Asian","847 Denman Street, Vancouver V6G2L7",+16046883585,306,135
+22,West End,The Teahouse,4.4,CA$90 for two,Seafood,"Stanley Park, 7501 Stanley Park Drive, Vancouver V6G 3E2",+16046693281,289,243
+23,West End,Shabusen Yakiniku House,3.7,CA$60 for two,"Sushi, Japanese, Korean, Asian","Second Floor, 202-755 Burrard Street, Vancouver V6Z 1X6",+16046693883,436,138
+24,West End,Market by Jean-Georges - Shangri-La Hotel,4.1,CA$120 for two,"Seafood, Canadian","Shangri-La Hotel, Level 3, 1115 Alberni Street, Vancouver V6E 0A8",+16046951115,364,230
+25,West End,Damso Modern Korean Cuisine,4.2,CA$60 for two,"Korean, Asian","867 Denman Street, Vancouver V6G",+16046320022,261,143
+26,West End,Sushi Bar Maumi,4.0,CA$150 for two,"Sushi, Japanese, Asian","1226 Bute Street, Vancouver V6E 1Z8",+16046092286,72,1160
+27,West End,Dinesty Dumpling House,4.2,CA$50 for two,"Shanghai, Chinese, Asian","1719 Robson Street, Vancouver V6G 1C8",+16046697769,276,243
+28,West End,Ebisu On Robson,4.1,CA$55 for two,"Sushi, Japanese, Asian","827 Bute Street, Vancouver V6E 3Y4",+16046898266,389,349
+29,West End,Espana Restaurant,4.3,CA$60 for two,"Tapas, Spanish","1118 Denman Street, Vancouver V6G 2M8",+16045584040,191,96
+30,West End,Zefferelli's,4.3,CA$70 for two,Italian,"1136 Robson Street, Vancouver V6E 1B2",+16046870655,260,94
+31,West End,PappaRoti,4.1,CA$20 for two,Cafe,"1505 Robson Street, Vancouver V6G 1C3",+16043362867,202,204
+32,West End,JOEY Burrard,4.3,CA$70 for two,"Canadian, Bar Food","820 Burrard St, West End, Vancouver BC V6Z 1X9",+16046835639,337,141
+33,West End,Thai Basil,4.3,CA$30 for two,Thai,"1215 Thurlow Street, Vancouver V6E 1X4",+16046856754,211,50
+34,West End,Zabu Chicken,3.5,CA$45 for two,"Korean, Asian","1635 Robson Street, Vancouver V6G 1C8",+16046020021,211,111
+35,West End,Miko Sushi Japanese Restaurant,4.2,CA$40 for two,"Sushi, Japanese, Asian","1335 Robson Street, Vancouver V6E 2B1",+16046810339,209,39
+36,West End,True Confections,3.9,CA$25 for two,Desserts,"866 Denman Street, Vancouver V6G2L9",+16046821292,274,109
+37,West End,Ramen Koika,3.8,CA$30 for two,"Ramen, Japanese, Asian","1231 Davie Street, Vancouver V6E 1N4",+16043362779,134,161
+38,West End,Boulevard Kitchen & Oyster Bar - The Sutton Place Hotel,3.8,CA$130 for two,"Seafood, Pacific Northwest","The Sutton Place Hotel, 845 Burrard Street, Vancouver",+16046422900,134,210
+39,West End,Takis' Taverna,4.2,CA$55 for two,"Greek, Mediterranean","1106 Davie Street, Vancouver V6E 1N1",+16046821336,212,48
+40,West End,Breka Bakery & Cafe,4.1,CA$25 for two,"Bakery, Cafe","812 Bute Street, Vancouver V6E3Y4",+16046208200,200,112
+41,West End,Jang Mo Jib,3.5,CA$45 for two,Korean,"1575 Robson Street, Vancouver V6G 1C3",+16046420712,264,75
+42,West End,Legendary Noodle House,4.0,CA$35 for two,"Chinese, Asian","1074 Denman Street, Vancouver V6G 2M8",+16046698551,206,47
+43,West End,Kirin Mandarin Restaurant,3.9,CA$60 for two,"Dim Sum, Seafood","1172 Alberni Street, Vancouver V6G 1B6",+16046828833,213,139
+44,West End,Kobe Japanese Steak & Seafood House,3.1,CA$90 for two,"Steak, Japanese, Asian","1042 Alberni Street, Vancouver V6Z 1A3",+16046842451,231,54
+45,West End,Salam Bombay,3.9,CA$60 for two,Indian,"Second Floor, 217-755 Burrard Street, Vancouver V6Z 2V6",+16046816300,180,72
+46,West End,Red Robin Gourmet Burgers and Brews,4.0,CA$30 for two,"Burger, Canadian","803 Thurlow Street, Vancouver V6E 1W2",+16046628288,229,169
+47,West End,Japanese Bistro Hatzu,4.0,CA$30 for two,"Sushi, Japanese, Asian","1175 Davie Street, Vancouver V6E 1N1",+16045597707,111,117
+48,West End,Tavola,4.1,CA$75 for two,Italian,"1829 Robson Street, Vancouver V6G 3E4",+16046064680,127,59
+49,West End,Score On Davie,3.9,CA$60 for two,Bar Food,"1262 Davie Street, Vancouver V6E1N5",+16046321646,127,51
+50,West End,Banana Leaf,4.2,CA$45 for two,"Malaysian, Asian","1096 Denman Street, Vancouver V6G",+16046833333,230,62
+51,West End,Momo Sushi,4.0,CA$25 for two,"Sushi, Japanese, Asian","833 Bidwell Street, Vancouver V6G1E1",+16045692001,230,49
+52,West End,The Keg Steakhouse + Bar - Alberni,4.3,CA$90 for two,"Steak, Seafood","310-1121 Alberni Street, Vancouver V6E1A5",+16046854388,184,137
+53,West End,Donair Dude,4.3,CA$20 for two,"Kebab, Greek, Middle Eastern","1172 Davie Street, Vancouver V6E1N1",+16046811801,188,43
+54,West End,Pho Central,4.1,CA$25 for two,"Vietnamese, Asian","1161 Davie Street, Vancouver V6E1N2",+16046698638,147,36
+55,West End,Kadoya Japanese,4.1,CA$35 for two,"Sushi, Japanese, Asian","1063 Davie Street, Vancouver V6E 1N2",+16046081115,187,41
+56,West End,Buckstop,3.5,CA$70 for two,"BBQ, Canadian","833 Denman Street, Vancouver V6G 2L7",+16044282528,99,97
+57,West End,Cafe Crepe,3.8,CA$30 for two,"Desserts, European, Canadian","1032 Robson Street, Vancouver V6Z 2V7",+16044880045,234,29
+58,West End,Dae Bak Bon Ga,3.5,CA$65 for two,"Korean, Asian","201-1323 Robson Street, Vancouver V6E2B1",+16046839298,121,101
+59,West End,Samurai Japanese,3.9,CA$30 for two,"Sushi, Japanese, Asian","1108 Davie Street, Vancouver V6E1N1",+16046090078,212,36
+60,West End,Kosoo,3.6,CA$60 for two,"Korean, Asian","832 Cardero Street, Vancouver V6G 2G5",+16045635556,55,114
+61,West End,3 Quarters Full Cafe,3.4,CA$20 for two,"Cafe, Bakery","1789 Comox Street, Vancouver V6G 1P5",+17788655578,32,79
+62,West End,Simba's Grill,4.2,CA$50 for two,"African, Fusion","825 Denman Street, Vancouver V6G1H2",+16049740649,144,48
+63,West End,Gyu King Teppanyaki,2.8,CA$65 for two,"Japanese, Asian","Second Floor, 219-755 Burrard Street, Vancouver V6Z2V6",+16046887050,130,109
+64,West End,Ramen Danbo,3.8,CA$35 for two,"Ramen, Japanese, Asian","1333 Robson Street, Vancouver",+16045598112,80,98
+65,West End,The Boathouse Restaurant,2.7,CA$75 for two,"Seafood, Steak","1795 Beach Avenue, Vancouver V6E1V3",+16046692225,176,75
+66,West End,Gurkha Himalayan Kitchen,3.9,CA$45 for two,"Nepalese, Tibetan","1141 Davie Street, Vancouver V6E1N2",+16045657965,110,45
+67,West End,Ukrainian Village,4.1,CA$40 for two,"Ukrainian, Russian","815 Denman Street, Vancouver V6G",+16046877440,102,52
+68,West End,Cactus Club Cafe,4.0,CA$70 for two,Canadian,"1790 Beach Avenue, Vancouver V6E 1V3",+16046812582,137,93
+69,West End,Rio Brazilian Steakhouse,3.1,CA$70 for two,"Brazilian, Steak","1122 Denman St, Vancouver, BC V6G 1T2, Vancouver",+16045687722,90,45
+70,West End,India Bistro,4.0,CA$40 for two,Indian,"1157 Davie Street, Vancouver V6E 1N2",+16046846342,145,18
+71,West End,Pho Goodness,4.1,CA$25 for two,"Vietnamese, Asian","1183 Davie Street, Vancouver V6E 4L7",+16045683253,118,26
+72,West End,Poké Time,3.5,CA$25 for two,"Hawaiian, Sushi, Street Food, International","1258 Robson Street, Vancouver V6E 1C2",+17783797187,59,70
+73,West End,Chongqing Restaurant,3.9,CA$35 for two,"Chinese, Asian","1260 Robson Street, Vancouver V6E 1C2",+16045680303,93,29
+74,West End,Chatime,3.6,CA$15 for two,"Beverages, Bubble Tea","1274 Robson Street, Vancouver",+16046999119,97,70
+75,West End,The Holy Crab,3.4,CA$50 for two,Seafood,"1588 Robson Street, Metro Vancouver, Vancouver V6G 2G5",+16046618533,43,75
+76,West End,Cazba,3.4,CA$35 for two,Iranian,"1103 Davie Street, Vancouver V6E 1N1",+16044284747,65,65
+77,West End,The Bubble Tea Shop,3.3,CA$20 for two,"Desserts, Bubble Tea, Asian","1680 Robson Street, Vancouver V6G 1C7",Not available for this place,49,55
+78,West End,Olympia Pizza & Pasta,3.7,CA$45 for two,"Greek, Pizza","998 Denman Street, Vancouver V6G",+16046888332,115,25
+79,West End,Earls,3.9,CA$70 for two,Canadian,"1185 Robson Street, Vancouver V6E1B5",+16046690020,111,41
+80,West End,Cafe Il Nido,3.4,CA$75 for two,"Italian, Seafood","780 Thurlow Street, Vancouver V6E1V8",+16046856436,65,46
+81,West End,Transylvanian Traditions,4.0,CA$15 for two,"Bakery, Desserts","1111 Davie Street, Vancouver V6E1N2",+16046820096,74,25
+82,West End,Book-Kyung Korean Restaurant & Karaoke,3.1,CA$65 for two,Korean,"1638 Robson Street, Vancouver V6G",+16046298822,72,26
+83,West End,Snowy Village,3.6,for two,Desserts,"1696 Robson Street, Vancouver V6X 1C3",+17786817832,40,64
+84,West End,Pho Express Angkor Noodle House,4.0,CA$25 for two,"Thai, Vietnamese, Asian","1745 Robson Street, Vancouver V6G1E1",+16046898399,81,23
+85,West End,Zeitoon Restaurant and Grill House,3.4,CA$50 for two,"Kebab, Grill, Iranian","1795 Pendrell Street, Vancouver V6G 1T2",+16048990700,60,39
+86,West End,Ritual,3.6,CA$60 for two,"Pacific Northwest, Bar Food, Mexican, Latin American","774 Denman Street, Vancouver, Vancouver V6G 1C9",+16044287722,25,60
+87,West End,Yummy To Go,3.9,CA$25 for two,"Japanese, Asian","1711 Davie Street, Vancouver V6G",+16046881870,71,6
+88,West End,Vera's Burger Shack,3.3,CA$30 for two,"Burger, Fast Food","1030 Davie Street, Vancouver V6E1N2",+16048938372,98,21
+89,West End,Akira Sushi,3.4,CA$35 for two,"Sushi, Japanese","1069 Denman Street, Vancouver V6G2M7",+16048066321,68,12
+90,West End,Won More Szechuan Cuisine,4.0,CA$40 for two,"Chinese, Sichuan, Asian","201-1184 Denman Street, Vancouver V6G 2N1",+16046888856,58,12
+91,West End,Nat's New York Pizzeria,3.7,CA$30 for two,"Italian, Pizza","1080 Denman Street, Vancouver V6G",+16046420777,78,12
+92,West End,Moxie's Grill & Bar,3.4,CA$70 for two,Canadian,"1160 Davie Street, Vancouver V6E 1N1",+16046788043,86,35
+93,West End,Ole Wings and Tapas,3.4,CA$30 for two,"Korean, Asian, Tapas","1256 Robson Street, Vancouver V6E 1C2",+16044283909,34,32
+94,West End,Blue Bella Pocha Korean Bar,3.2,CA$45 for two,"Korean, Asian","1500 Robson Street, Vancouver V6G1C2",+16044282782,39,43
+95,West End,JJ Bean,4.0,CA$20 for two,Cafe,"1188 Alberni Street, Vancouver V6E4N5",+16042543724,66,28
+96,West End,The Roof at Black + Blue,3.6,CA$130 for two,"Steak, Seafood","3rd Floor,1032 Alberni Street, Vancouver",+16046370777,34,59
+97,West End,The Capital,3.2,CA$35 for two,Bar Food,"1178 Davie Street, Vancouver V6E 1N1",+16046202201,55,22
+98,West End,Thida Thai,3.8,CA$40 for two,"Thai, Asian","1193 Davie Street, Vancouver V6E4L7",+16046693588,55,20
+99,West End,Mediterranean Grill,3.5,CA$30 for two,"Middle Eastern, Kebab","1152 Denman Street, Vancouver V6G2N1",+16046891112,59,16
+100,West End,Marble Slab Creamery,3.5,CA$15 for two,"Ice Cream, Desserts","103-1184 Denman Street, Vancouver V6G2N1",+16046824998,76,19
+101,West End,Donair King,3.9,CA$20 for two,"Kebab, Greek, Mediterranean","1028 Davie Street, Vancouver V6E1N2",+16046858723,55,15
+102,West End,Bubble World,3.6,CA$30 for two,"Bubble Tea, Beverages, Asian","1325 Robson Street, Vancouver V6E2B1",+16046898987,74,20
+103,West End,Sushiholic,3.4,CA$45 for two,"Sushi, Japanese, Asian","836 Denman Street, Vancouver, Vancouver V6G 2L8",+16045594888,35,58
+104,West End,Spicy 6 Fine Indian Cuisine,3.7,CA$50 for two,Indian,"1116 Robson Street, Vancouver V6E 1B2",+16043367999,41,51
+105,West End,Urban Fare,3.8,CA$25 for two,"Canadian, Fast Food","1133 Alberni Street, Vancouver V6E1A6",+16046482053,61,22
+106,West End,A Taste of India,3.4,CA$60 for two,Indian,"1282 Robson Street, Vancouver V6E2B1",+16046823894,58,12
+107,West End,ABODE Restaurant,3.0,CA$45 for two,Canadian,"1223 Robson Street, Vancouver V6E1C3",+16046881411,33,51
+108,West End,Milano Espresso Bar and Gelato,3.7,CA$25 for two,Cafe,"849 Denman Street, Vancouver V6G2L7",+16046811500,33,16
+109,West End,Whole Foods Market,3.9,CA$30 for two,"Cafe, Bakery, Healthy Food, Canadian","1675 Robson Street, Vancouver V6G1C8",+16046875288,57,31
+110,West End,Sylvia's Restaurant And Lounge,3.6,CA$90 for two,Pacific Northwest,"Sylvia Hotel, 1154 Gilford Street, Vancouver V6G2P6",+16046819321,47,10
+111,West End,MEN-no KURA,3.1,for two,"Asian, Ramen, Japanese","1773 Robson Street, Vancouver, Vancouver V6G 1C9",+17783795872,23,23
+112,West End,The Fountainhead Pub,4.0,CA$45 for two,Bar Food,"1025 Davie Street, Vancouver V6E1M7",+16046872222,47,18
+113,West End,Yogi Snack Bar,3.5,CA$30 for two,Korean,"1706 Robson Street, Vancouver V6G 2J7",+16046814174,20,27
+114,West End,Grotto,3.1,CA$50 for two,"Italian, Pizza","1725 Davie Street, Vancouver V6G 1W5",+16046201998,14,30
+115,West End,Delany's Coffee House,3.8,CA$30 for two,Cafe,"1105 Denman Street, Vancouver V6G",+16046623344,65,11
+116,West End,White Spot,3.4,CA$50 for two,Canadian,"1616 West Georgia Street, Vancouver V6G2V5",+16046818034,61,37
+117,West End,Fatburger,2.9,CA$25 for two,"Burger, Fast Food","1101 Denman Street, Vancouver V6G2N1",+16046898858,54,22
+118,West End,Hongdae Pocha Cafe,2.7,CA$40 for two,"Korean, Asian","1642 Robson Street, Vancouver V6G 1C7",+16046818252,21,36
+119,West End,Osaka Sushi Japanese Restaurant,3.7,CA$25 for two,"Sushi, Japanese, Asian","1361 Burrard Street, Vancouver V6Z2A3",+16046772677,42,9
+120,West End,Los Amigos Taqueria,3.2,CA$16 for two,Mexican,"1118 Davie Street, Vancouver V6E 1N1",+16045590220,31,30
+121,West End,Beyond Coffee,2.5,CA$30 for two,Cafe,"Century Plaza Hotel & Spa, 1015 Burrard Street, Vancouver V6E1J1",+16046843474,49,3
+122,West End,Saku,3.7,CA$70 for two,Japanese,"1773 Robson St, West End, Vancouver, Vancouver",+17783795872,22,26
+123,West End,Falafel King,3.6,CA$20 for two,"Middle Eastern, Fast Food","1110 Denman Street, Vancouver",+16046697278,46,8
+124,West End,Coco Rico Cafe,3.6,CA$45 for two,"Canadian, Bar Food","1290 Robson Street, Vancouver V6E2B1",+16046870424,44,15
+125,West End,Robson Mongolian BBQ,2.7,CA$30 for two,"Mongolian, Asian","1234 Robson Street, Vancouver V6E",+16048991582,43,12
+126,West End,Hato Popo Japanese Restaurant,3.2,CA$40 for two,"Japanese, Asian","1507 Robson Street, Vancouver V6G 1C3",+17783792298,24,35
+127,West End,The Three Brits Public House,3.2,CA$60 for two,Bar Food,"1780 Davie Street, Vancouver V6G1W2",+16048016681,31,24
+128,West End,TeaTure Tea Lounge,3.4,CA$25 for two,Tea,"1220 Bute Street, Metro Vancouver, Vancouver V6E 1Z8",+16044284070,6,14
+129,West End,Denny's,2.8,CA$40 for two,American,"1098 Davie Street, Vancouver V6E 4L2",+16046890509,41,51
+130,West End,Downtown Sushi Bar Japanese,2.6,CA$35 for two,"Sushi, Japanese, Asian","1205 Davie Street, Vancouver V6E1N5",+16046892833,43,11
+131,West End,Melriches Coffee House,3.6,CA$20 for two,Cafe,"1244 Davie Street, Vancouver V6E",+16046895282,40,5
+132,West End,D'oro Gelato e Caffè,3.2,CA$20 for two,"Cafe, Ice Cream, Desserts","1222 Robson Street, Vancouver V6E1C1 3Y4",+16046940108,29,26
+133,West End,Kitchen by Yugo,3.6,CA$20 for two,Japanese,"792 Denman Street, Vancouver V6G 1C9",+16046232777,14,22
+134,West End,The Park at English Bay,3.4,CA$55 for two,Bar Food,"Best Western Sands Hotel, 1755 Davie Street, Vancouver V6G",+16046821831,24,26
+135,West End,Forkhill House Irish Bistro,3.1,CA$60 for two,"Irish, Pub Food","1616 Alberni Street, Metro Vancouver, Vancouver V6G 1A6",+16043365577,9,32
+136,West End,Flower and Horse in Spring,3.1,CA$25 for two,Chinese,"1741 Robson Street, Vancouver, Vancouver V6G 1E1",+17783796198,8,14
+137,West End,Cafe Phin,3.4,CA$30 for two,"Vietnamese, Asian","976 Denman Street, Vancouver V6G2M1",+16046205595,32,7
+138,West End,Meat City Sandwiches,3.1,CA$40 for two,Sandwich,"1074 Davie Street, Vancouver",+17783796328,14,13
+139,West End,Tetsu Sushi Bar,3.7,CA$45 for two,"Sushi, Japanese","775 Denman Street, Vancouver, BC V6G 2L6, Vancouver",+16044285775,5,45
+140,West End,La Churreria,3.1,CA$15 for two,"Mexican, Frozen Yogurt","1105 Davie Street, Metro Vancouver, Vancouver V6E 1N2",+17783795211,10,17
+141,West End,Ho Ho's Yummy Food,2.5,CA$25 for two,"Chinese, Asian","1224 Davie Street, Vancouver V6E1N5",+16046889896,35,3
+142,West End,Blind Sparrow,3.5,CA$50 for two,Pacific Northwest,"751 Denman Street, Vancouver V6G 2L6",+16046871418,14,10
+143,West End,Semiramis Mediterranean Mezze Bar,3.2,CA$35 for two,"Mediterranean, Lebanese, Kebab","202-1323 Robson Street, Vancouver V6E 1C6",+16046469001,10,12
+144,West End,Megabite Pizza,3.7,CA$20 for two,"Pizza, Fast Food","820 Thurlow Street, Vancouver V6E1W1",+16046882729,25,24
+145,West End,Amici Miei,3.4,CA$65 for two,"Italian, Pizza","1114 Denman Street, Vancouver V6G 1T2",+16045636610,15,17
+146,West End,KFC,2.8,CA$20 for two,Fast Food,"1147 Davie Street, Vancouver V6E1N2",+16046891402,23,13
+147,West End,Donair Town,3.4,CA$20 for two,"Mediterranean, Middle Eastern, Kebab","1793 Robson Street, Vancouver V6G1C8",+16045691124,19,12
+148,West End,Dae Ji Cutlet House,2.7,CA$35 for two,"Korean, Asian","1660 Robson Street, Vancouver V6G 1C7",+16045591637,13,18
+149,West End,Kobe Izakaya Lounge,3.4,CA$50 for two,"Japanese, Sushi, Asian","1042 Alberni Street, Vancouver V6Z2V6",+16046842451,13,12
+150,West End,Won Jung,3.4,CA$25 for two,"Korean, Chinese","1329 Robson Street, Vancouver V6E 2B1",+17783794222,12,10
+151,West End,Yummy Pizza,3.5,CA$25 for two,Pizza,"1168 Davie Street, Vancouver V6E 1N1",+16045692565,17,8
+152,West End,Neptune Chinese Kitchen,-,CA$25 for two,Chinese,"1143 Davie Street Vancouver, West End, Vancouver, Vancouver",+16045599238,2,35
+153,West End,Perverted Ice Cream,2.9,CA$15 for two,Ice Cream,"797 Thurlow St, Vancouver, BC V6E 3V5, Vancouver",Not available for this place,13,11
+154,West End,H Tasting Lounge,3.3,for two,"Pacific Northwest, Seafood, Steak","1601, Bayshore Dr, West End, Vancouver, Vancouver V6G 2V4",+16046823377,5,15
+155,West End,C Prime,3.4,CA$80 for two,"Steak, Italian","Century Plaza Hotel & Spa, 1015 Burrard Street, Vancouver",+16046843474,5,25
+156,West End,McDonald's,3.1,CA$20 for two,Fast Food,"1701 Robson Street, Vancouver V6G",+16047181020,18,18
+157,West End,Sushi Yan,3.1,CA$35 for two,"Sushi, Japanese, Asian","770 Thurlow Street, Vancouver V6E",+16045593988,13,11
+158,West End,Shamrock Alley,2.7,CA$55 for two,Bar Food,"102-1184 Denman Street, Vancouver",+16044284414,10,10
+159,West End,Shenanigans on Robson,2.8,CA$50 for two,Bar Food,"1225 Robson Street, Vancouver V6E1C2",+16046881411,16,4
+160,West End,Peaceful Restaurant Lite,3.6,CA$25 for two,Northern Chinese,"1183 Davie Street, Vancouver, Vancouver V6E 1N2",+17783797238,12,13
+161,West End,Mumbai Local,3.4,CA$55 for two,Indian,"1148 Davie St, Vancouver, West End, Vancouver, Metro Vancouver, Vancouver",+16044233281,5,11
+162,West End,Blenz Coffee,3.6,CA$20 for two,"Cafe, Coffee and Tea","1201 Robson Street, Vancouver V6E1C2",+16046625369,16,28
+163,West End,Concession By Cactus Club Cafe,3.6,CA$30 for two,"Burger, Desserts","1790 Beach Avenue, Vancouver V6G0A8",+16046812582,8,4
+164,West End,Panago,3.4,CA$30 for two,"Pizza, Fast Food","969 Denman Street, Vancouver V6G2M3",+16043100001,13,18
+165,West End,Cup Sushi & Burrito,3.3,CA$15 for two,Mexican,"903 Denman Street, Vancouver, Vancouver V6G 2L9",+16046920055,8,6
+166,West End,Lucha Verde,-,CA$25 for two,Mexican,"1326 Davie Street, Vancouver V6E 1N6",+16046698620,2,8
+167,West End,Tim Hortons,3.1,CA$20 for two,"Fast Food, Cafe","1150 Alberni Street, Vancouver V6E3V5",+16046090348,11,24
+168,West End,Kitaya,2.9,CA$20 for two,"Sushi, Japanese, Asian","1088 Denman Street, Vancouver",+16046830218,8,4
+169,West End,Hook Seabar,-,CA$45 for two,Seafood,"1210 Denman Street, Vancouver V6G 2N2",+16046204668,3,8
+170,West End,Starbucks,3.2,CA$20 for two,Cafe,"1795 Davie Street, Vancouver V6G",+16048994322,11,16
+171,West End,Viet Sub,3.2,CA$10 for two,"Vietnamese, Sandwich","1682 Robson Street, Vancouver V6G 1C7",+16045663333,4,11
+172,West End,Verre.,2.5,CA$50 for two,"Mediterranean, French","550 Denman Street, West End, Vancouver, Vancouver",+16044284843,4,8
+173,West End,Hamburger Mary's Diner,3.6,CA$25 for two,"Burger, Diner","1202 Davie Street, Vancouver, Vancouver V6E 1N3",+16046871293,5,3
+174,West End,Horin Ramen + Sake,3.6,CA$40 for two,"Japanese, Ramen","1226 Robson Street, Metro Vancouver, Vancouver",+16046206111,6,11
+175,West End,A&W,3.7,CA$20 for two,Fast Food,"1158 Alberni Street, Vancouver V6E 1A6",+16045693406,8,5
+176,West End,Castella Cheesecake,3.2,CA$15 for two,"Desserts, Japanese, Cafe","1190 Robson Street, Vancouver, BC V6E 1Y4, Vancouver",Not available for this place,7,4
+177,West End,Sulmida Dessert Cafe,-,for two,"Cafe, Desserts, Korean","4697 Kingsway St, Burnaby, Vancouver, BC V5H 2B3, Vancouver",+17783798935,2,16
+178,West End,The Junction Public House,2.7,CA$45 for two,Bar Food,"1138 Davie Street, Vancouver V6E4L7",+16046692013,11,3
+179,West End,Chi Men,-,CA$20 for two,Chinese,"1120 Denman Street, Vancouver V6G 1T2",+16049156993,3,4
+180,West End,Neptune Chinese Kitchen,2.6,CA$25 for two,Chinese,"1136 Alberni St, Vancouver, BC V6E 1A5, Vancouver",+16046820011,6,5
+181,West End,Subway,2.9,CA$25 for two,Fast Food,"1725 Robson Street, Vancouver V6G1E1",+16046847827,8,16
+182,West End,The Flying Rose,-,CA$25 for two,Desserts,"1517 Robson Street, Metro Vancouver, Vancouver V6G 1C3",+16049982848,3,9
+183,West End,Jugo Juice,3.6,CA$20 for two,"Juices, Beverages, Fast Food","1103 Robson Street, Vancouver V6E3V5",+16046831815,7,26
+184,West End,Donair Spot,3.7,CA$25 for two,Mediterranean,"1706 Robson Street, Vancouver",+16046889315,5,6
+185,West End,Chong Xing Szechuan Cuisine,-,CA$25 for two,"Chinese, Asian Fusion","792 Denman Street, Vancouver V6G 1C9",+17783793858,2,3
+186,West End,YiFang Taiwan Fruit Tea,3.3,CA$20 for two,"Bubble Tea, Taiwanese","2-1725 Robson St, Vancouver, Vancouver",+16043039998,5,4
+187,West End,Sushi Jin,-,CA$30 for two,"Japanese, Sushi","750 Nelson Street, West End, Vancouver, Vancouver",+16045598834,1,1
+188,West End,YUZU,-,CA$70 for two,Vegetarian,"854 Denman Street, Vancouver V6G 2L8 2LB",+17783793456,0,0
+189,West End,Burger King,-,CA$20 for two,"Burger, Fast Food","1030 Denman Street Denman Place Ma, Vancouver V6G2M5",+16046200240,3,64
+190,West End,Noodle Arts,-,CA$20 for two,Chinese,"1739 Robson Street, West End, Vancouver, Vancouver",+16046735688,2,2
+191,West End,Ginger Juice Bar - Shangri-La Hotel,-,CA$30 for two,"Juices, Beverages, Cafe","Shangri-La Hotel, 3rd Floor, 1128 West Georgia Street, Vancouver V6E3H7",+16046891120,1,5
+192,West End,Monk Bistro,-,CA$40 for two,Chinese,"792 Denman Street, Vancouver",+17783792190,1,2
+193,West End,Milksha,-,CA$25 for two,"Bubble Tea, Taiwanese","1258, Robson Street, Metro Vancouver, Vancouver",+17789226880,1,2
+194,West End,Arike,-,CA$50 for two,"Canadian, Bar Food","1725 Davie Street, Vancouver, BC V6G 1W5, Vancouver",+16043369774,0,0
+195,West End,Kaneko Hannosuke,-,CA$20 for two,Japanese,"1725 Robson St #1, West End, Vancouver, Vancouver",+16044234020,0,2
+196,West End,Sumac Cafe,-,CA$25 for two,"Mediterranean, Sandwich","1230 Davie Street, Vancouver V6E 1N3",+16043360256,2,0
+197,West End,J And G Fried Chicken,-,CA$40 for two,Fast Food,"1706, Robson Street Vancouver, BC V6G 2J7, West End, Vancouver, Metro Vancouver, Vancouver",+16044232870,1,2
+198,West End,Pacific Poke,-,CA$35 for two,Japanese,"1795 Robson St, Vancouver, Vancouver",+16043369500,1,2
+199,West End,BeetBox Veg,-,CA$15 for two,Fast Food,"1074, Davie St, West End, Vancouver, Vancouver",+16042338269,2,0
+200,West End,Qoola,-,CA$15 for two,"Frozen Yogurt, Desserts","1194 Robson Street, Vancouver",+17783799755,2,12
+201,West End,Wheatchat,-,CA$15 for two,"Bubble Tea, Coffee and Tea","1103 Denman Street, Vancouver, BC V6G 2M7, Vancouver",+117783212180,1,2
+202,West End,Casablanca Crepe Taste of Morocco,-,CA$15 for two,Moroccan,"1610 Robson St unit 108, Vancouver, BC V6G 1C7, Vancouver",+17789030103,1,5
+203,West End,Tim Hortons,-,CA$20 for two,Cafe,"1001 Denman Street, Vancouver",+16045598467,1,1
+204,West End,Veranda Cafe,-,CA$20 for two,Cafe,"Robson Publc Market, Ground Floor, 1610 Robson Street, Vancouver",+16046892012,1,3
+205,West End,Old Xian’s Food,-,CA$25 for two,"Chinese, Asian","1517 Robson Street, West End, Vancouver, Vancouver",+12364557080,0,0
+206,West End,Tim Hortons,-,CA$20 for two,Cafe,"1205 Burrard Street, West End, Vancouver, Vancouver",+16043318769,0,0
+207,West End,Kabsa House,-,CA$40 for two,Middle Eastern,"1128 Robson street, West End, Vancouver, Vancouver",+16044288414,0,0
+208,West End,The Keg Steakhouse + Bar - Park Royal,-,CA$40 for two,Steak,"731 Main Street Unit 110, West Vancouver, V7T 0A5, Vancouver",+16049221387,0,0
+209,West End,Greenhorn Espresso Cafe,3.7,CA$30 for two,Cafe,"994 Nicola Street, Vancouver V6G2C7",+16044282912,71,37
+210,West End,Le Tigre Cuisine,4.0,CA$25 for two,Chinese,"Location Varies, Vancouver V6E",+16046136963,126,45
+211,West End,La Baguette et Compagnie,4.0,CA$25 for two,"Cafe, Bakery, French","1102 Davie Street, Vancouver V6E1N1",+16046848003,53,54
+212,West End,Joe's Grill,4.0,CA$35 for two,Diner,"1031 Davie Street, Vancouver V6E 1N2",+16046823683,95,13
+213,West End,Cardero Bottega,3.9,CA$25 for two,"Cafe, Deli","1016 Cardero Street, Vancouver V6G1P4",+16046890450,52,7
+214,West End,Peaked Pies,3.6,CA$15 for two,"Bakery, Coffee and Tea","975 Denman Street, Vancouver V6G 2M3",Not available for this place,30,50
+215,West End,Red Umbrella Cafe,3.5,CA$35 for two,Cafe,"1707 Davie Street, Vancouver V6G1W5",+16046887818,60,15
+216,West End,Molli Cafe,3.6,CA$30 for two,Mexican,"1225 Burrard Street, Vancouver V6Z1Z5",+16043366554,29,34
+217,West End,Dish,3.9,CA$10 for two,Sandwich,"1068 Davie Street, Vancouver BC, Vancouver V6E 1M3 1N2",+16046890208,52,6
+218,West End,Stanley's Bar & Grill,3.2,CA$80 for two,Pacific Northwest,"Stanley Park, 610 Pipeline Road, Vancouver V6G3E2",+16046023088,35,24
+219,West End,La Catrina,3.5,CA$20 for two,Mexican,"1187 Denman Street, Vancouver V6G 2N1",+16045669503,19,28
+220,West End,Laurence & Chico Cafe,3.4,CA$25 for two,"Cafe, Coffee and Tea","833 Bute St, Metro Vancouver, West End, Vancouver, Vancouver",+16046888680,5,10
+221,West End,Maple Leaf Delicatessen,3.0,CA$20 for two,Deli,"1233 Burrard Street, Vancouver V6Z1Z5",+16046893411,11,2
+222,West End,Cupbap Burger,3.7,CA$15 for two,Korean,"1610 Robsob Street, Unit 104, Metro Vancouver, Vancouver V6G 1C7",+16045596600,5,7
+223,West End,Lumbermen's Arch Concession,2.9,CA$20 for two,Fast Food,"Stanley Park, 3301 Stanley Park Drive, Vancouver V6G3E2",+16046831956,4,3
+224,West End,Fit Camp Foods,-,CA$20 for two,"Canadian, Vegetarian","1107 Davie Street, Vancouver V6E1N2 1N2",+17783799985,2,10
+225,West End,Lucky's Doughnuts,-,CA$20 for two,"Cafe, Donuts","689 Thurlow St, Vancouver, Vancouver",+16046204905,1,13
+226,West End,Pasture to Plate,-,CA$15 for two,"Burger, Fast Food","1061 Denman Street, Vancouver, Vancouver V6G 2M7",+16046890202,3,2
+227,West End,Sunset Beach Concession,3.7,CA$20 for two,Fast Food,"1204 Beach Avenue, Vancouver V6E1V4",+16046830637,4,1
+228,West End,Daily Grind Cafe,-,CA$20 for two,Cafe,"1500 West Georgia Street, Vancouver V6G3K8",+16046899444,2,3
+229,West End,Third Beach Concession,-,CA$20 for two,Fast Food,"Stanley Park, 7495 Stanley Park Drive, Vancouver V6G3E2",+16046859549,3,1
+230,West End,Second Beach Concession,3.5,CA$45 for two,Fast Food,"8501 Stanley Park Drive, Vancouver V6G3E2",+16046818029,4,1
+231,West End,Apple Deli,-,CA$25 for two,"Deli, Cafe","Robson Public Market, Second Floor, 213-1610 Robson Street, Vancouver V6G1C7",+16044664931,2,2
+232,West End,Bianco Lisa's Kitchen,-,CA$20 for two,"Vietnamese, Asian","Robson Public Market, Second Floor, 204-1610 Robson Street, Vancouver V6G1C7",+16047836782,0,3
+233,West End,The Sauce,-,CA$25 for two,Italian,"861 Denman Street, West End, Vancouver, Vancouver",+16042297279,0,1

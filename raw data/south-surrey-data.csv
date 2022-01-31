@@ -1,0 +1,131 @@
+,Location,Name,Rating,Price Range,Cuisine Type,Address,Phone Number,Num Reviews,Num Photos
+0,South Surrey,My Shanti,4.1,CA$75 for two,Indian,"Morgan Crossing, 15869 Croydon Drive, Surrey V3S0G2",+16045604416,133,69
+1,South Surrey,Roadhouse Grille,4.1,CA$45 for two,Diner,"1781 King George Boulevard, Surrey V4A2A9",+16045313167,142,45
+2,South Surrey,Kami Japanese Restaurant,4.5,CA$40 for two,"Sushi, Japanese, Asian","Grandview Corners, 40-2215 160 Street, Surrey V3S9N6",+16045365360,130,50
+3,South Surrey,Five Guys,4.0,CA$20 for two,"Fast Food, Burger","Grandview Corners, 80-2245 160th Street, Surrey V3S9N6",+16045317829,135,31
+4,South Surrey,MaguroGuy Asian Cuisine,4.0,CA$50 for two,"Sushi, Japanese, Asian","Tribeca, 320-2670 152nd Street, Surrey V4P1M8",+16045601424,92,59
+5,South Surrey,Famoso Neapolitan Pizzeria,3.9,CA$65 for two,"Italian, Pizza","15865 Croydon Dr, Pad 3, Surrey V3S 2J6",+16045609544,114,65
+6,South Surrey,Cactus Club Cafe,4.1,CA$70 for two,Canadian,"15079 32nd Avenue, Surrey V3S 0G3",+16045358799,134,50
+7,South Surrey,Rasoi Restaurant Inc,4.2,CA$50 for two,Indian,"Alder Crossing, 3268 King George Highway, Surrey V4P 1A5",+16045364600,101,8
+8,South Surrey,Curry Sensation,4.0,CA$35 for two,Indian,"16030 24 Ave #130, Surrey V4P1G6",+16045387333,105,36
+9,South Surrey,Hanaya Japanese Restaurant,4.1,CA$35 for two,"Sushi, Japanese, Asian","106-2828 152nd Street,, Surrey V4P 1G6 1G6",+16045426311,85,104
+10,South Surrey,Mink Chocolates,4.0,CA$20 for two,"Cafe, Desserts","Morgan Crossing, 110-15775 Croydon Drive, Surrey V3S0C5",+16045365455,70,20
+11,South Surrey,KW Gardens,3.7,CA$50 for two,"Chinese, Asian","2338 King George Boulevard, Surrey V4A5A5",+16045388863,81,4
+12,South Surrey,The Keg Steakhouse + Bar - Morgan Creek,3.9,CA$90 for two,"Steak, Seafood","15180 32nd Ave. Diversion, Surrey V3Z 3M1",+16045429733,84,28
+13,South Surrey,Delrios,3.6,CA$55 for two,"Pizza, Italian","1669 128th Street, Surrey V4A3V3",+16045362544,66,15
+14,South Surrey,Tap Urban Cafe & Lounge,4.0,CA$80 for two,Pacific Northwest,"101-15350 34 Ave, Surrey, Surrey V3S0K6",+16045361954,53,17
+15,South Surrey,Panda Szechuan,3.4,CA$35 for two,"Dim Sum, Chinese, Asian","15080 32 Avenue, Surrey, Surrey V6P 3K1",+16045601777,44,25
+16,South Surrey,Ocean Park Pizza & Village Pub,4.0,CA$40 for two,"Bar Food, Pizza, Greek","12822 16th Avenue, Surrey V4A1N4",+16045369654,62,6
+17,South Surrey,Kiki's Restaurant,3.7,CA$50 for two,Greek,"Windsor Square, 118-1959 152nd Street, Surrey V4A9E3",+16045368244,52,19
+18,South Surrey,Kababji Grill,3.4,CA$30 for two,"Mediterranean, Lebanese","Morgan Crossing, 106-15775 Croydon Drive, Surrey V3Z2L6",+16045605757,41,19
+19,South Surrey,Townhall Public House,3.1,CA$55 for two,Bar Food,"3140 King George Boulevard, Surrey V4P1A5",+16043851191,42,31
+20,South Surrey,Milestones,3.8,CA$65 for two,"Canadian, Grill","3085 152 St, South Surrey, Surrey, Surrey V4P 3K1",+16045423750,52,47
+21,South Surrey,Menchies Frozen Yogurt,4.0,CA$15 for two,"Frozen Yogurt, Desserts","Morgans Crossing, 120-15575 Croydon Drive, Surrey V3S0G2",+16045606111,53,20
+22,South Surrey,The Cabin,3.6,CA$40 for two,"Seafood, Steak, Canadian","Crescent Beach, 12302 Beecher Street, Surrey V4A3J4",+16045418432,31,19
+23,South Surrey,Yamako Japanese Restaurant,3.9,CA$35 for two,"Sushi, Japanese, Asian","Pensinsula Village, 260-15355 24th Avenue, Surrey V4A2H9",+16045359998,34,6
+24,South Surrey,Maple Sushi Japanese Restaurant,2.7,CA$45 for two,"Sushi, Japanese, Asian","2385 King George Blvd, Surrey, Surrey V4A5A4",+16045384812,38,25
+25,South Surrey,Rokku Asian Cuisine,3.4,CA$40 for two,"Sushi, Japanese, Asian","1990 152 Street, Surrey V4A4N6",+16045609893,22,51
+26,South Surrey,Sammy J's Bar & Grill,2.9,CA$40 for two,"Bar Food, Canadian",N/A,N/A,0,25
+27,South Surrey,The Tudor Ale House,3.9,CA$50 for two,Bar Food,"187-176th Street, Surrey V3S9S4",+17782941080,44,5
+28,South Surrey,Sakuya Sushi,3.5,CA$35 for two,"Sushi, Japanese, Asian","1593 128th Street, Surrey V4A1N4",+16045355082,45,4
+29,South Surrey,Bamboo Chinese Restaurant,3.4,CA$40 for two,"Chinese, Asian","Morgan Crossing, 105-15785 Croydon Drive, Surrey V3S2L6",+16043852256,28,29
+30,South Surrey,Damiko Sushi,3.7,CA$30 for two,"Sushi, Japanese, Asian","Shops Of High Street, 140-2950 King George Boulevard, Surrey V4P1A2",+16045310006,41,13
+31,South Surrey,Seahorse Grill,3.6,CA$70 for two,Seafood,"Crescent Beach, 12147 Sullivan Street, Surrey V4A3B2",+16045426211,33,17
+32,South Surrey,Momotaro Japanese Restaurant,3.7,CA$45 for two,"Sushi, Japanese, Asian","4-3189 King George Boulevard, Surrey V4P1B8",+16045368689,30,16
+33,South Surrey,Browns Socialhouse,3.4,CA$70 for two,Bar Food,"Semiahmoo Shopping Centre, 1601 152nd Street, Surrey V4A",+16043850706,36,22
+34,South Surrey,Fatburger,3.0,CA$25 for two,"Burger, Fast Food","1750 152nd Street., Surrey V4A1W9",+17782941500,41,11
+35,South Surrey,Crispy Falafel,3.6,CA$30 for two,"Middle Eastern, Lebanese","2408 King George Boulevard, Surrey V4P1H5",+16043852150,24,22
+36,South Surrey,Fong's Eatery,3.9,CA$35 for two,"Chinese, Asian","Crescent Beach, 12308 Beecher Street, Surrey V4A3J4",+16045352978,24,11
+37,South Surrey,Golden Lion,3.6,CA$35 for two,"Chinese, Asian","2377 King George Boulevard, Surrey V4A5A4",+16045367929,28,6
+38,South Surrey,Aji Sushi Family Kitchen,3.4,CA$40 for two,"Sushi, Japanese, Asian","Alder Crossing, 3268 King George Boulevard, Surrey V4P1A5",+16043853288,28,7
+39,South Surrey,Nando's,3.9,CA$25 for two,"Portuguese, African","Unit 101, 3010 152 Street, Surrey V4P3N7",+16045425790,33,26
+40,South Surrey,Kin Thai Kitchen & Bar,3.6,CA$30 for two,"Thai, Seafood","2443 161A Street, Suite 50, Surrey V3S V3S",+16043853223,24,6
+41,South Surrey,Afghan Kitchen South Surrey,3.5,CA$25 for two,Afghan,"16120 24th Ave #115, Surrey, BC V3Z 0R5, Canada, Surrey",+16047270070,15,67
+42,South Surrey,Sal y Limon,3.5,CA$30 for two,Mexican,"2428 160 Street, Surrey",+16043852171,15,17
+43,South Surrey,Boston Pizza,3.4,CA$45 for two,"Pizza, Bar Food","1956 152nd Street, Surrey, Surrey V4A 4N6",+16045313333,28,23
+44,South Surrey,Sushi Mori,3.0,CA$25 for two,"Japanese, Sushi","15355 24 Avenue, Surrey V4A 2H9",+17782911701,17,22
+45,South Surrey,Red Rose Restaurant,3.8,CA$55 for two,"Greek, Canadian, Italian","Sunnyside Village, 102-2381 King George Boulevard, Surrey V4A5A4",+16045355542,20,10
+46,South Surrey,White Spot,2.8,CA$50 for two,Canadian,"Morgan Crossing, 15877 Croydon Drive, Surrey V3S0G2",+16045605550,23,25
+47,South Surrey,Wok Box,2.5,CA$30 for two,"Chinese, Asian","Grandview Corners, 10-2285 160th Street, Surrey V3S9N6",+17782940808,27,16
+48,South Surrey,Cultive Frozen Yogurt,3.7,CA$15 for two,"Frozen Yogurt, Desserts","Shops Of High Street, 100-2940 King George Boulevard, Surrey V4P 1A2",+16046700470,22,2
+49,South Surrey,McDonald's,3.0,CA$20 for two,Fast Food,"1789 152nd Street, Surrey V4A4N3",+16045417010,20,13
+50,South Surrey,Hi Japanese Sushi,3.5,CA$40 for two,"Japanese, Sushi, Asian","132-3388 Rosemary Heights Crescent, Surrey V3S0X8",+16045383114,17,3
+51,South Surrey,Classic O.P. Pizza,3.8,CA$40 for two,Pizza,"15-3189 King George Boulevard, Surrey V4P1B7",+16045361233,20,6
+52,South Surrey,Marble Slab Creamery,2.7,CA$15 for two,"Ice Cream, Desserts","Grandview Corners, 50-2245 160th Street, Surrey V3S0G1",+16045354148,14,16
+53,South Surrey,Taco Del Mar,2.6,CA$20 for two,"Mexican, Fast Food","1797 152nd Street #106, Surrey V4A4N3",+16045415456,18,10
+54,South Surrey,Baselines Pub,2.9,CA$45 for two,Bar Food,"300-1938 152nd Street, Surrey V4A1X6",+16045352685,17,4
+55,South Surrey,Crescent Beach Bistro,3.3,CA$60 for two,Seafood,"Crescent Beach, 12251 Beecher Street, Surrey V4A3A4",+16045311882,10,10
+56,South Surrey,OPA!,3.1,CA$20 for two,"Fast Food, Greek","Grandview Corners, 70-2245 160th Street, Surrey V3S0G1",+17782941161,16,3
+57,South Surrey,Domino's,3.6,CA$20 for two,"Pizza, Fast Food","Sunnyside Village, 2389 King George Boulevard, Surrey V4A5A4",+16045354646,13,5
+58,South Surrey,Leaf Tea,3.3,CA$15 for two,"Cafe, Bakery","1618 152nd Street, Surrey, Surrey V4A 4N2",+17782949345,7,6
+59,South Surrey,Papa John's,3.3,CA$25 for two,"Pizza, Fast Food","Grandview Corners, 15-2245 160th Street, Surrey V3S9N6",+16043851202,10,4
+60,South Surrey,Wendy's,2.9,CA$20 for two,Fast Food,"3077 152nd Street, Surrey V4P3K1",+16045426587,12,25
+61,South Surrey,Manyana,2.9,CA$45 for two,American,"Pacific Inn, 1160 King George Highway, Surrey V4A4Z2",+16045351432,6,10
+62,South Surrey,Tim Hortons,3.3,CA$20 for two,"Fast Food, Cafe","600-3077 152nd Street, Surrey V4P3K1",+16045388198,12,10
+63,South Surrey,Edo Japan,3.7,CA$25 for two,"Fast Food, Sushi, Japanese, Asian","840-3041 152nd Street, Surrey V4P3K1",+17782940737,11,3
+64,South Surrey,The Derby Bar and Grill,3.7,CA$40 for two,Bar Food,"115-17637 1st Avenue, Surrey V3S",+16045362878,7,2
+65,South Surrey,Panago,3.7,CA$30 for two,"Pizza, Fast Food","Ocean Park Shopping Centre, 12840 16th Avenue, Surrey V4A1N6",+18663100001,7,14
+66,South Surrey,Subway,3.5,CA$25 for two,Fast Food,"Ocean Centre, 1623 128th Street, Surrey V4A3V3",+16045386571,7,12
+67,South Surrey,Dairy Queen Grill & Chill,3.4,CA$20 for two,"Fast Food, Desserts","2071 152 Street, Surrey V4A9T4",+16045360064,8,14
+68,South Surrey,Mastro Pizza Ltd.,3.3,CA$25 for two,Pizza,"140-1959 152 St, Surrey, Surrey V4A 9E3",+16045369800,7,4
+69,South Surrey,Noodlebox,-,CA$25 for two,"Asian, Chinese","15785 Croydon Drive, Unit 110, South Surrey, Surrey, Surrey V3S 0Z5",+17785455421,3,19
+70,South Surrey,Starbucks,3.5,CA$20 for two,Cafe,"1658 128th Street, Surrey V4A3V3",+16045312663,7,16
+71,South Surrey,Booster Juice,2.8,CA$20 for two,"Juices, Beverages, Fast Food","Pensinsula Village, 110-15355 24th Avenue, Surrey V4A2H9",+16045428787,5,6
+72,South Surrey,Crescent Town Pizza,-,CA$20 for two,Pizza,"14016 32 Avenue #203, Surrey, Surrey V4P 2J2",+16045381313,1,2
+73,South Surrey,A&W,-,CA$20 for two,Fast Food,"2303 King George Boulevard, Surrey V4A5A4",+16045388807,3,0
+74,South Surrey,Swiss Chalet,-,CA$50 for two,Canadian,"9666 King George Boulevard, Surrey V3T2V4",+16045830883,1,23
+75,South Surrey,Quiznos,-,CA$25 for two,"Fast Food, Sandwich","2670 152 Street Unit 310, Surrey V4P1G6",+16045317702,2,7
+76,South Surrey,Woo Korean BBQ,-,CA$35 for two,"Korean, BBQ","110-16070 24 Avenue, Surrey, Metro Vancouver, Surrey",+17785370707,1,9
+77,South Surrey,West Coast Grill - Hazelmere Golf & Tennis Club,-,CA$50 for two,Canadian,"Hazelmere Golf & Tennis Club, 18150 8th Avenue, Surrey",+16045381212,0,1
+78,South Surrey,Tim Hortons,-,CA$20 for two,"Fast Food, Cafe","3233 176th Street Esso Otr Dlr, Surrey",+16045418001,0,2
+79,South Surrey,Delight Indian Bistro,-,CA$80 for two,"North Indian, Bar Food","2215 160 St #50, South Surrey, Surrey, Surrey",+16045600500,0,0
+80,South Surrey,Mr. Pei's Restaurant,-,CA$35 for two,Chinese,"1724 152 Street, Surrey, BC V4A 4N4, Surrey",+16045356862,0,0
+81,South Surrey,Famoso Neapolitan Pizzeria,-,CA$60 for two,"Italian, Pizza","15865 Croydon Drive, Surrey, Surrey",+16045609544,0,0
+82,South Surrey,Morrison Cafe,4.0,CA$40 for two,Diner,"Ocean Park Shopping Centre, 12855 16th Avenue, Surrey V4A1N5",+16045313636,75,28
+83,South Surrey,Sushi Castle,3.8,CA$35 for two,"Sushi, Japanese, Asian","Morgan Crossing, 102-15785 Croydon Drive, Surrey V3S0C5",+16045389335,84,17
+84,South Surrey,Hooked Fish Bar,3.2,CA$40 for two,"Seafood, Canadian","Crescent Beach, 12157 Beecher Street, Surrey V4A3G2",+16045424665,61,17
+85,South Surrey,Good Day Sunshine Cafe,3.8,CA$15 for two,Cafe,"Shops Of High Street, 100-2950 King George Boulevard, Surrey V4P0E5",+16045605518,26,12
+86,South Surrey,Crescent Harbour House Restaurant,3.4,CA$45 for two,Diner,"Crescent Beach, 101-12233 Beecher Street, Surrey V4A 3H4",+17782940089,35,34
+87,South Surrey,The Carvery Sandwich Shop,3.7,for two,Sandwich,"2430 King George Boulevard, Suite 102, Surrey V4P 1H5",+17782946222,20,27
+88,South Surrey,Turkey House & Deli,3.9,CA$30 for two,Cafe,"1433 King George Highway, Surrey V4A4Z5",+16045316222,40,4
+89,South Surrey,Fieldstone Artisan Breads,4.0,CA$20 for two,Bakery,"2-12823 Crescent Road, Surrey V4P",+16045317880,43,5
+90,South Surrey,Pho Sunrise,3.9,CA$35 for two,"Vietnamese, Asian","Pensinsula Village, 230-15355 24th Avenue, Surrey V4A",+16043852950,32,14
+91,South Surrey,Michael's Artisan Bakery,3.8,CA$20 for two,"Bakery, Cafe","1-15578 24th Avenue, Surrey V4A2J5",+16045419222,35,8
+92,South Surrey,Kalamaki Greek Grill,3.4,CA$50 for two,"Greek, Mediterranean","105 - 2711 192nd Street, Surrey V3Z3X1",+16043851044,18,41
+93,South Surrey,Cupcakes,2.6,CA$15 for two,"Desserts, Bakery","Grandview Corners, 40-2438 160th Street, Surrey V3S9H7",+16045318041,30,30
+94,South Surrey,Healthy Monkey Cafe,3.5,CA$30 for two,"Juices, Beverages, Healthy Food, Cafe","Shops Of High Street, 11-2970 King George Boulevard, Surrey V4P1A2",+16045602577,31,8
+95,South Surrey,Morgans Restaurant & Wine Bar,3.6,CA$85 for two,Canadian,"Morgan Creek Golf Course, 3500 Morgan Creek Way, Surrey V3Z0J7",+16045314262,24,18
+96,South Surrey,Sunflower Organic Grocer & Cafe,3.6,CA$30 for two,"Cafe, Healthy Food","Crescent Beach, 12310 Beecher Street, Surrey V4A",+16045418511,24,8
+97,South Surrey,Rosie's Country Cafe,3.7,CA$30 for two,Diner,"8-3033 King George Boulevard, Surrey V4P1B8",+16045384195,14,11
+98,South Surrey,IHOP,3.2,CA$25 for two,American,"2429 152nd Street, 24 Johnston Plaza Unit 107, White Rock, Surrey V4P1N4",+16045383595,28,26
+99,South Surrey,Beansprout Bubble Tea House,3.3,CA$30 for two,"Cafe, Vietnamese","14-3189 King George Boulevard, Surrey V4P1B7",+16045412326,28,4
+100,South Surrey,Belle's,3.0,CA$25 for two,Cafe,"14007 32nd Avenue, Surrey V4P",+16045420588,18,7
+101,South Surrey,The Chopped Leaf,3.0,CA$25 for two,Healthy Food,"Morgans Crossing, 102-15745 Croydon Drive, Surrey V3S0C5",+16045605323,16,21
+102,South Surrey,Pick & Chews Teriyaki,3.0,CA$20 for two,"Fast Food, Japanese, Asian","Semiahmoo Shopping Centre, Food Court, 143-1711 152nd Street, Surrey V4A4N3",+16045359956,14,5
+103,South Surrey,Martino's Cappuccino & Coffee Bar,3.6,CA$20 for two,"Cafe, Ice Cream, Desserts","Crescent Beach, 12211 Beecher Street, Surrey V4A3G2",+16045387793,14,3
+104,South Surrey,Red Baron,3.2,CA$25 for two,"Desserts, Fast Food","Crescent Beach, 12180 Beecher Street, Surrey V4A3G2",+16045418511,16,5
+105,South Surrey,De Dutch Pannekoek House,3.6,CA$40 for two,European,"Grandview Corners, 10-2433 161A Street, Surrey V3S9H7",+16045318111,19,9
+106,South Surrey,Delitalia Fine Foods,3.9,CA$20 for two,"Italian, Deli","1629A 128 Street, Surrey V4A3V2",+16045359588,14,5
+107,South Surrey,Notti Biscotti,3.6,CA$15 for two,"Cafe, Desserts","15252 32nd Avenue, Surrey V3S0Z5",+16045429986,13,3
+108,South Surrey,The Fish Net Seafood Restaurant,3.2,CA$30 for two,Fish and Chips,"Crescent Beach, 12211 Beecher Street, Surrey V4A3G2",+16045387793,10,2
+109,South Surrey,Jugo Juice,3.4,CA$20 for two,"Juices, Beverages, Fast Food","Grandview Corners, 20-2443 161A Street, Surrey V3S9H7",+17785603827,14,24
+110,South Surrey,Zyka Restaurant,-,CA$25 for two,European,"104-2755 192 Street, Surrey, Surrey V3S 3X1",+17782914767,0,16
+111,South Surrey,Ay Chihuahua,3.5,for two,Mexican,"1726 152 Street , Surrey, Surrey V4A 4N4",+17782911962,8,0
+112,South Surrey,Pacific Bistro and Convenience Store,3.3,CA$25 for two,Fast Food,"102-382 175 A Street, Surrey V3S 6S7",+16045422218,10,4
+113,South Surrey,Moka House Coffee,3.5,CA$20 for two,Cafe,"Grandview Corners, 40-16041 24th Avenue, Surrey V4A9B2",+16045606044,10,1
+114,South Surrey,The Dining Room - Hazelmere Golf & Tennis Club,2.6,CA$80 for two,Canadian,"Hazelmere Golf & Tennis Club, 18150 8th Avenue, Surrey V3S9R9",+16045381212,6,0
+115,South Surrey,COBS Bread,3.3,CA$15 for two,Bakery,"2990 152nd Street, Surrey V4P 3N7",+16045383844,11,4
+116,South Surrey,Danica's Bistro,3.3,CA$20 for two,Cafe,"Windsor Square, 105-1959 152 Street, Surrey V4A9E3",+16045413342,7,2
+117,South Surrey,Esquires Coffee Houses,3.6,CA$15 for two,Cafe,"4-12823 Crescent Road, Surrey V4P",+16045411004,7,6
+118,South Surrey,Freshslice Pizza,3.6,CA$20 for two,"Pizza, Fast Food","Semiahmoo Shopping Centre, Food Court, 145-1711 152nd Street, Surrey V4A 4N3",+17782941911,7,11
+119,South Surrey,Blenz Coffee,3.8,CA$20 for two,"Cafe, Coffee and Tea","Semiahmoo Shopping Centre, 102-1711 152nd Street, Surrey V4A4N3",+16045319515,5,19
+120,South Surrey,Crescent Coffee House,-,CA$20 for two,Cafe,"Crescent Beach, 100-12219 Beecher Street, Surrey",+16045420736,0,8
+121,South Surrey,Tobiko Sushi,-,CA$35 for two,"Sushi, Japanese, Asian","102-2711 192 Street, Surrey",+16045606399,1,3
+122,South Surrey,Menzou Ramen and Bubble Tea,-,CA$50 for two,"Japanese, Bubble Tea","104-15785 Croydon Dr, Surrey, BC, Surrey",+17782911811,2,5
+123,South Surrey,Spent Grounds Coffee Roasters,-,CA$10 for two,Cafe,"19140 28 Ave unit 108, Surrey, Surrey V3S 6M3",+17782410992,3,9
+124,South Surrey,Big Star Sandwich Co.,-,CA$15 for two,Sandwich,"155-16050 24 Ave, Surrey, BC V3Z0R5, Surrey",+16043850035,2,8
+125,South Surrey,Piquant Gourmet Meats & Seasoning,3.7,CA$20 for two,"Indian, Mediterranean, Deli","1627 128 Street, Surrey V4A3V2",+16045358638,5,0
+126,South Surrey,Candlelight Cuisine Bistro,3.1,CA$25 for two,Cafe,"Ocean Park Shopping Centre, 12863 16th Avenue, Surrey V4A1N4",+16045382662,4,1
+127,South Surrey,Fortune Wok,-,CA$20 for two,"Fast Food, Chinese, Asian","Semiahmoo Shopping Centre, Food Court, 1711 152nd Street, Surrey V4A4N3",+16045368128,3,0
+128,South Surrey,Murchie's Tea & Coffee,-,CA$10 for two,"Tea, Beverages","Semiahmoo Shopping Centre, 136-1711 152 Street, Surrey V4A",+16045411066,0,1
+129,South Surrey,Orange Julius,-,CA$15 for two,"Fast Food, Juices, Beverages","148-1711 152 Street, Surrey V4A4N3",+16045361415,1,1

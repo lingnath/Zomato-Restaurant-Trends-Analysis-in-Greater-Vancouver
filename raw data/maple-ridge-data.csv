@@ -1,0 +1,132 @@
+,Location,Name,Rating,Price Range,Cuisine Type,Address,Phone Number,Num Reviews,Num Photos
+0,Maple Ridge,Delizie Italiane Bakery and Bistro,3.6,CA$25 for two,"Bakery, Italian","22266 Dewdney Trunk Road, Metro Vancouver V2X",+16044671711,38,14
+1,Maple Ridge,Lupita Mexican Foods,3.6,CA$15 for two,Mexican,"22349 Selkirk, Metro Vancouver V2X2X6",+16044771007,19,7
+2,Maple Ridge,Mr. Lunch,3.4,CA$20 for two,Cafe,"20295 113B Avenue #5, Maple Ridge, Metro Vancouver",+16044654716,24,2
+3,Maple Ridge,De Dutch Pannekoek House,3.5,CA$40 for two,European,"West Gate Centre, 600-20395 Lougheed Highway, Metro Vancouver V2X2P9",+16044591162,16,11
+4,Maple Ridge,Tea One Bubble Tea,3.7,CA$15 for two,"Bubble Tea, Beverages","Selkirk Town Centre, 22529 Lougheed Highway, Metro Vancouver V2X2V4",+16044795511,10,5
+5,Maple Ridge,Sushi Sama,3.7,CA$35 for two,"Japanese, Sushi","22783 Dewdney Trunk Road, Maple Ridge, Metro Vancouver V2X 3K4",+16044793131,9,10
+6,Maple Ridge,Golden Ears Cheesecrafters,3.6,CA$25 for two,Cafe,"22270 128 Avenue, Metro Vancouver",+16044670004,6,9
+7,Maple Ridge,Summer's Diner,3.4,CA$25 for two,Diner,"1-23382 River Road, Metro Vancouver V2W1B6",+16044660102,8,10
+8,Maple Ridge,Waves Coffee,3.6,CA$20 for two,Cafe,"Hammond Mill Centre, 108-20690 Lougheed Highway, Metro Vancouver V2X2P8",+16044609283,6,25
+9,Maple Ridge,Hansel & Gretel Bakery,3.5,CA$20 for two,"Bakery, Desserts","22777 Dewdney Trunk Road, Metro Vancouver V2X3K4",+16044630034,4,7
+10,Maple Ridge,Europe Bakery & Deli,3.4,CA$10 for two,"Bakery, Deli","11841 224 Street, Metro Vancouver V2X",+16044677875,9,3
+11,Maple Ridge,Kanaka Creek Coffee,3.7,CA$20 for two,Cafe,"101-24155 102 Avenue, Metro Vancouver V2W2A2",+16044636727,9,2
+12,Maple Ridge,Bean Around Books,3.3,CA$25 for two,Cafe,"22626 Lougheed Highway, Metro Vancouver V2X2V3",+16044662966,8,3
+13,Maple Ridge,Maple Meadows Brewery,3.1,CA$20 for two,Drinks Only,"22775 Dewdney Trunk Road, Metro Vancouver",+16044790999,5,4
+14,Maple Ridge,Sugar Cube Cafe,-,CA$15 for two,"Asian, Cafe","310-21070 Stewart Crescent, Metro Vancouver",+16044600011,2,2
+15,Maple Ridge,Hot Pho Restaurant,-,CA$15 for two,Vietnamese,"22550 Dewdney Trunk Road, Maple Ridge, Metro Vancouver V2X 3J9",+16044671618,2,0
+16,Maple Ridge,Aquatic Cafe,-,CA$20 for two,Cafe,"11995 Haney Place, Metro Vancouver V2X6G1",+16044638898,0,0
+17,Maple Ridge,Big Feast Bistro,4.3,CA$60 for two,Canadian,"11920 227th Street, Metro Vancouver V2X6J3",+16044774334,133,37
+18,Maple Ridge,Smile Thai Cuisine,4.2,CA$35 for two,"Thai, Asian","22624 Lougheed Highway, Metro Vancouver V2X 2V3",+16044638028,108,9
+19,Maple Ridge,Shinobi,4.2,CA$40 for two,"Sushi, Japanese, Asian","11867 224 Street, Maple Ridge, Metro Vancouver V2X 6B1",+16044661811,126,21
+20,Maple Ridge,GM Restaurant,4.4,CA$35 for two,"Indian, Desserts","20726 Lougheed Highway, Metro Vancouver, Metro Vancouver V2X 2R1",+16044637877,122,10
+21,Maple Ridge,Black Sheep Public House & Liquor Store,4.1,CA$70 for two,Bar Food,"12968 232 Street, Maple Ridge, Metro Vancouver V2X 6V2",+16044761008,111,25
+22,Maple Ridge,Chameleon,3.9,CA$70 for two,"Seafood, Pacific Northwest, Canadian","11965 224 St, Maple Ridge, Metro Vancouver V2X6B4",+16044675664,107,7
+23,Maple Ridge,Bobby Sox 50's Diner,3.8,CA$40 for two,Diner,"22596 Lougheed Highway, Metro Vancouver V2X2V4",+16044679290,73,25
+24,Maple Ridge,Kingfishers Waterfront Bar & Grill,3.6,CA$75 for two,"Bar Food, Grill","23840 River Road, Metro Vancouver V2W1B7",+16044630094,88,20
+25,Maple Ridge,Soprano's Pizza,3.5,CA$25 for two,"Greek, Pizza","22358 Lougheed Highway, Metro Vancouver V5M",+16044672929,88,10
+26,Maple Ridge,Billy Miner Ale House,3.9,CA$65 for two,Bar Food,"22355 River Road, Metro Vancouver",+16044676002,72,19
+27,Maple Ridge,Paliotti's,3.5,CA$60 for two,Italian,"12018 Edge Street, Metro Vancouver V2X6G4",+16044638926,79,12
+28,Maple Ridge,Il Corsaro Pasta Bar,3.9,CA$75 for two,Italian,"22370 Dewdney Trunk Road, Metro Vancouver V2X",+16044662652,62,11
+29,Maple Ridge,Kings Kitchen,3.7,CA$30 for two,"Chinese, Asian, Canadian","22425 North Avenue, Metro Vancouver V2X2L7",+16044679488,73,1
+30,Maple Ridge,Iori Sushi Bar,4.2,CA$35 for two,"Sushi, Japanese, Asian","Valley Fair Mall, 620-22709 Lougheed Highway, Metro Vancouver V2X2V5",+16044631758,59,9
+31,Maple Ridge,Pho Song,4.0,CA$25 for two,"Vietnamese, Asian","22334 Lougheed Hwy, Metro Vancouver V2X 5Y1",+16044770066,51,9
+32,Maple Ridge,Sushiro,3.7,CA$35 for two,"Sushi, Japanese, Asian","103-22805 Lougheed Hwy, Metro Vancouver V2X2V6",+16044769699,63,6
+33,Maple Ridge,Pho Phuong Hong,3.9,CA$25 for two,"Vietnamese, Asian","106-20306 Dewdney Trunk Road, Metro Vancouver V2X3E1",+16044652300,52,13
+34,Maple Ridge,Sushi Umibe,3.9,CA$25 for two,"Sushi, Japanese, Asian","11955 207 Street. Suite 1, Maple Ridge, Metro Vancouver V2X 3E4",+16044650222,49,22
+35,Maple Ridge,Red Robin,3.5,CA$30 for two,"Burger, Canadian","Valley Fair Mall, 22701 Lougheed Highway, Metro Vancouver V2X2V5",+16044676266,55,15
+36,Maple Ridge,Sushi Tengu,3.8,CA$25 for two,"Sushi, Japanese, Asian","20838 Lougheed Highway, Metro Vancouver V2X2R3",+16043803380,44,15
+37,Maple Ridge,Wasabi Sushi & Grill,3.9,CA$25 for two,"Sushi, Japanese, Asian","5-21768 Lougheed Highway, Metro Vancouver V2X2S2",+16044770222,38,10
+38,Maple Ridge,Hamada,3.5,CA$35 for two,"Sushi, Japanese, Asian","Selkirk Town Centre, 200-22529 Lougheed Highway, Metro Vancouver V2X 2V4",+16044637535,47,7
+39,Maple Ridge,The Keg Steakhouse + Bar - Maple Ridge,3.7,CA$90 for two,"Steak, Seafood","20640, Dewdney Trunk Road, Maple Ridge, Metro Vancouver, Metro Vancouver V2X 3E5",+16044658911,48,14
+40,Maple Ridge,Socrates Taverna,3.4,CA$50 for two,Greek,"20691 Lougheed Highway, Metro Vancouver V2X2P9",+16044651393,42,4
+41,Maple Ridge,Home Restaurant,3.9,CA$45 for two,"Canadian, Burger","21667 Lougheed Highway, Metro Vancouver V2X2S2",+16044761600,37,12
+42,Maple Ridge,La Trattoria,3.6,CA$70 for two,Italian,"22214 Dewdney Trunk Road, Metro Vancouver V2X3H8",+16044669951,40,3
+43,Maple Ridge,Aburiya Sushi,3.8,CA$25 for two,"Sushi, Japanese, Asian","22590 Dewdney Trunk Road, Metro Vancouver V2X3J9",+16044673363,33,22
+44,Maple Ridge,Big Daddy's Pizza & BBQ,3.3,CA$25 for two,"BBQ, Pizza","Valley Fair Mall, 640-22709 Lougheed Highway, Metro Vancouver V2X2V6",+16044676666,34,8
+45,Maple Ridge,Austin Fish & Chips,3.5,CA$35 for two,Fish and Chips,"Valley Fair Mall, 22709 Lougheed Highway, Suite 690, Metro Vancouver V2X 2V5",+16044668200,36,12
+46,Maple Ridge,Burger King,2.7,CA$20 for two,"Burger, Fast Food","20290 Lougheed Highway, Metro Vancouver V2X2P7",+16044657149,39,68
+47,Maple Ridge,Townhall Public House,3.3,CA$55 for two,Bar Food,"206 20690 Lougheed Highway, Metro Vancouver V2X 2P8",+16044570100,23,29
+48,Maple Ridge,Silver House,3.9,CA$40 for two,"Chinese, North Indian","22378 Dewdney Trunk Road, Metro Vancouver V2X",+16044675454,40,0
+49,Maple Ridge,Halu Sushi,3.5,CA$25 for two,"Sushi, Japanese, Asian","West Gate Centre, 560-20395 Lougheed Highway, Metro Vancouver V2X2P9",+16044601886,36,6
+50,Maple Ridge,Donair City,3.9,CA$25 for two,Fast Food,"22329 Dewdney Trunk Road, Metro Vancouver V2X3J4",+16044668840,33,1
+51,Maple Ridge,JMK Mahal Restaurant,3.8,CA$40 for two,Indian,"11968 223 Street, Metro Vancouver V2X 3E4",+16044762228,30,6
+52,Maple Ridge,Donair Top,3.8,CA$15 for two,"Mediterranean, Middle Eastern","Meadow Ridge Shopping Centre, 11956 207th Street, Metro Vancouver V2X1X7",+16044669997,27,3
+53,Maple Ridge,China Kitchen Restaurant,3.4,CA$35 for two,"Chinese, Asian","22805 Lougheed Highway, Metro Vancouver V2X2V6",+16044630001,36,21
+54,Maple Ridge,Chinese Palace,3.3,CA$45 for two,"Chinese, Asian","22528 Lougheed Highway, Metro Vancouver V2X2V2",+16044636311,27,0
+55,Maple Ridge,The Haney Public House,3.3,CA$55 for two,Bar Food,"22222 Lougheed Highway, Metro Vancouver V2X",+16044633811,29,4
+56,Maple Ridge,Maple Sushi,3.8,CA$20 for two,"Sushi, Japanese","22282 Dewdney Trunk Road, Metro Vancouver V2X 3H9",+16044766631,25,13
+57,Maple Ridge,Jim's Pizza & The Look-Out,3.0,CA$50 for two,"Pizza, Seafood","11952 224 Street, Metro Vancouver V2X6B4",+16044676931,28,4
+58,Maple Ridge,Musou Sushi,3.6,for two,"Japanese, Sushi","110, 22470 Dewdney Trunk Road, Maple Ridge, Metro Vancouver V2X 5Z6",+16044774447,9,30
+59,Maple Ridge,Ocean Village,3.4,CA$35 for two,"Chinese, Asian","20830 Lougheed Highway, Metro Vancouver V2X2R3",+16044633263,25,2
+60,Maple Ridge,The Great Mongolian BBQ,3.5,CA$30 for two,"Mongolian, BBQ, Asian","Valley Fair Mall, 22709 Lougheed Highway, Metro Vancouver V2X2V6",+16043804467,25,3
+61,Maple Ridge,Maple Leaf  Indian Cuisine,3.3,CA$30 for two,Indian,"11956 207 St, Maple Ridge, BC V2X 1X6, Canada, Metro Vancouver",+16043800222,25,5
+62,Maple Ridge,Andiamo's Pizza & Pasta House,3.2,CA$30 for two,"Pizza, Italian","1-20726 Lougheed Highway, Metro Vancouver V2X2R1",+16044639292,21,2
+63,Maple Ridge,Seatown East Asia Cuisine,3.4,CA$35 for two,"Chinese, Asian","22242 Dewdney Trunk Road, Metro Vancouver V2X 3H9",+16044633116,22,9
+64,Maple Ridge,Mona Pizza,3.7,CA$20 for two,"Fast Food, Pizza","22292 Dewdney Trunk Road, Metro Vancouver V2X",+16044776662,22,4
+65,Maple Ridge,Bella Vita/Odessey Bistro,2.7,CA$55 for two,"Steak, Seafood","22471 Lougheed Highway, Metro Vancouver V2X0L5",+16044673212,30,10
+66,Maple Ridge,Bruce's Country Market,3.8,CA$20 for two,"Ice Cream, Deli","23963 Lougheed Highway, Metro Vancouver V2W1G2",+16044639817,26,7
+67,Maple Ridge,Pyrgos Taverna,3.7,CA$65 for two,"Greek, Mediterranean","22570 Lougheed Highway, Metro Vancouver V2X",+16044672767,24,2
+68,Maple Ridge,Green House Cafe & Bistro,3.6,CA$55 for two,Diner,"11997 224 Street, Metro Vancouver V2X3J4",+16044664007,29,1
+69,Maple Ridge,White Spot,3.6,CA$50 for two,Canadian,"20855 Lougheed Highway, Metro Vancouver V2X2R2",+16044673911,21,31
+70,Maple Ridge,Papa Greek,3.3,CA$25 for two,Greek,"Valley Fair Mall, 607-22709 Lougheed Highway, Metro Vancouver V2X0T5",+16044664060,22,2
+71,Maple Ridge,The Well,3.1,CA$60 for two,Bar Food,"Chances, 22710 Lougheed Highway, Metro Vancouver V2X2V5",+16044764500,22,7
+72,Maple Ridge,Kitchen on the Ridge,3.3,CA$35 for two,"Chinese, Asian","22375 Lougheed Highway, Metro Vancouver V2X",+16044630388,25,1
+73,Maple Ridge,Albion Pizzeria,3.2,CA$25 for two,Pizza,"103-24155 102 Avenue, Metro Vancouver V2W2A2",+16044774321,20,1
+74,Maple Ridge,Donair Affair,3.3,CA$20 for two,"Kebab, Middle Eastern","22645 Dewdney Trunk Road, Metro Vancouver V2X3K3",+16044633898,23,3
+75,Maple Ridge,Dona Donair & Tacos,3.7,CA$20 for two,"Kebab, Mexican","West Gate Centre, 220-20398 Dewdney Trunk Road, Metro Vancouver V2X3E3",+16044572039,15,4
+76,Maple Ridge,Ban Chok Dee Thai Cuisine,3.7,CA$45 for two,Thai,"20395 Lougheed Highway, Unit 400, Maple Ridge, Metro Vancouver V2X 2P9",+16044598000,6,25
+77,Maple Ridge,Express Pizza,3.6,CA$25 for two,"Pizza, Fast Food","11945 224 Street, Metro Vancouver V2X8T1",+16044771480,13,2
+78,Maple Ridge,Pizza Hut,3.3,CA$20 for two,"Pizza, Fast Food","Hammond Mill Centre, 104-20690 Lougheed Highway, Metro Vancouver V2X2P8",+16044655570,18,27
+79,Maple Ridge,Enjoy Palace,3.3,CA$35 for two,Chinese,"22352 Lougheed Highway, Metro Vancouver V2X8T1",+16044761638,15,2
+80,Maple Ridge,Blenz Coffee,3.8,CA$20 for two,"Cafe, Coffee and Tea","22441 Dewdney Trunk Road, Metro Vancouver V2X7X7",+16044672322,16,14
+81,Maple Ridge,Big Smoke BBQ and Alehouse,3.3,for two,"BBQ, Sandwich","22641 Lougheed Highway, Metro Vancouver V2X 2V4",+16044773010,9,5
+82,Maple Ridge,Gratia Bakery & Cafe,3.6,for two,"Coffee and Tea, Cafe, Desserts","22225 Dewdney Trunk Road, Maple Ridge, Metro Vancouver V2X 3H8",+16044639992,5,16
+83,Maple Ridge,Brownies Chicken & Seafood,3.0,for two,"American, Seafood","22899 Dewdney Trunk Road, Metro Vancouver V2X 3K8",+16044762800,9,3
+84,Maple Ridge,Hotaru Sushi,3.7,CA$25 for two,"Sushi, Japanese, Asian","Meadow Ridge Shopping Centre, 1B-11968 207 Street, Metro Vancouver",+16044760057,12,2
+85,Maple Ridge,Trevi Gelato,3.7,CA$20 for two,"Cafe, Ice Cream, Desserts","11968 224 Street, Metro Vancouver V2X6B3",+16044669222,10,5
+86,Maple Ridge,Domino's,3.8,CA$20 for two,"Pizza, Fast Food","West Gate Centre, 330-20398 Dewdney Trunk Road, Metro Vancouver V2X3E3",+16044650803,11,9
+87,Maple Ridge,Too Sweet Bubble Tea & Gelato,3.9,CA$15 for two,"Bubble Tea, Ice Cream, Desserts","108-20306 Dewdney Trunk Road, Metro Vancouver V2X3E1",+16044658120,7,3
+88,Maple Ridge,Triple O's,3.6,CA$25 for two,Fast Food,"22284 Lougheed Highway, Metro Vancouver V2X2S9",+16044637065,10,12
+89,Maple Ridge,Balkanika,-,for two,"Kebab, European","20110 Lougheed Highwa, Suite 110, Metro Vancouver V2X 2P7",+16044593339,2,10
+90,Maple Ridge,McDonald's,2.1,CA$20 for two,Fast Food,"300-23981 Dewdney Trunk Road, Metro Vancouver V4R1W1",+16044764210,10,9
+91,Maple Ridge,Browns Socialhouse,3.5,CA$70 for two,Bar Food,"20490 Lougheed Highway, Metro Vancouver",+16044570771,8,15
+92,Maple Ridge,Starbucks,3.3,CA$20 for two,Cafe,"22645 Dewdney Trunk Road, Metro Vancouver V2X3K3",+16044631320,11,15
+93,Maple Ridge,Ridge Brewing,3.6,CA$15 for two,Drinks Only,"22826 Dewdney Trunk Road, Metro Vancouver",+16043800888,6,5
+94,Maple Ridge,Ricky's Country Restaurant,2.5,CA$45 for two,"Diner, American","101-20110 Lougheed Highway, Metro Vancouver",+16044651261,6,3
+95,Maple Ridge,A&W,3.0,CA$20 for two,Fast Food,"20468 Lougheed Highway, Metro Vancouver V2X2P8",+16044601483,7,3
+96,Maple Ridge,Dairy Queen,3.5,CA$20 for two,"Fast Food, Desserts","22490 Lougheed Highway, Metro Vancouver V2X 2V1",+16044638158,8,14
+97,Maple Ridge,Tokyo Grill,3.2,CA$20 for two,"Fast Food, Japanese, Asian","11900 Haney Place, Metro Vancouver V2X6G2",+16044661808,6,1
+98,Maple Ridge,Tim Hortons,3.7,CA$20 for two,"Fast Food, Cafe","23181 Dewdney Trunk Road, Metro Vancouver V2X3K8",+16044660671,6,17
+99,Maple Ridge,Booster Juice,3.6,CA$20 for two,"Juices, Beverages, Fast Food","West Gate Centre, 230-20398 Dewdney Trunk Road, Metro Vancouver V2X1A9",+16044655888,5,4
+100,Maple Ridge,Thainada,-,CA$30 for two,Thai,"11796 Fraser St, Maple Ridge, Metro Vancouver V2X",+16044792221,3,5
+101,Maple Ridge,Fatburger & Buffalo's Express,-,CA$25 for two,"Burger, Fast Food","690-20395 Lougheed Hwy., Metro Vancouver",+16044573500,3,8
+102,Maple Ridge,Cremino Gelato & Caffè,-,CA$20 for two,Cafe,"11968 224 Street, Maple Ridge, Metro Vancouver",+17785720201,3,7
+103,Maple Ridge,Happy Dragon Chinese Restaurant,3.0,CA$35 for two,"Chinese, Asian","22504 Lougheed Highway, Metro Vancouver V2X",+16044668268,5,1
+104,Maple Ridge,Quiznos,2.9,CA$25 for two,"Fast Food, Sandwich","West Gate Centre, 520-20395 Lougheed Highway, Metro Vancouver V2X2P9",+16044600330,5,7
+105,Maple Ridge,Subway,2.4,CA$25 for two,Fast Food,"11969 224 Street, Metro Vancouver V2X",+16044633663,5,12
+106,Maple Ridge,Menchies Frozen Yogurt,2.7,CA$15 for two,"Frozen Yogurt, Desserts","West Gate Centre, 685-20395 Lougheed Highway, Metro Vancouver V2X2P9",+16044571183,4,13
+107,Maple Ridge,Yumi's Frozen Yogurt,3.8,CA$15 for two,"Frozen Yogurt, Desserts","Valley Fair Mall, 22709 Lougheed Highway, Metro Vancouver V2X2V6",+16044760919,4,8
+108,Maple Ridge,Orange Julius,3.6,CA$15 for two,"Fast Food, Juices, Beverages","Haney Place Mall, Food Court, 11900 Haney Place, Metro Vancouver V2X6G2",+16044679015,6,1
+109,Maple Ridge,Quan's Kitchen,3.4,CA$25 for two,"Chinese, Asian","22363 Lougheed Highway, Metro Vancouver",+16044772232,4,2
+110,Maple Ridge,Indian Flavour Restaurant,-,for two,Indian,"22356 Lougheed Highway, Metro Vancouver V2X 2T4",+16044663236,3,0
+111,Maple Ridge,Panago,3.6,CA$30 for two,"Pizza, Fast Food","20130 Lougheed Highway, Metro Vancouver V3Y2M6",+16043100001,4,12
+112,Maple Ridge,Wendy's,2.4,CA$20 for two,Fast Food,"20201 Lougheed Highway Unit 100, Metro Vancouver V2X2P6",+16044608183,4,27
+113,Maple Ridge,Sweet Scoop,-,CA$15 for two,"Ice Cream, Desserts","103-24155 102 Avenue, Metro Vancouver",+16044677890,1,2
+114,Maple Ridge,Taco Bell,-,CA$20 for two,"Mexican, Fast Food","22219 Lougheed Highway, Metro Vancouver V2X2T2",+16044673211,3,7
+115,Maple Ridge,Pizza Factory,-,CA$25 for two,"Pizza, Fast Food","20769 Lougheed Highway, Metro Vancouver V2X2R2",+16044666060,1,1
+116,Maple Ridge,Pho Top,-,CA$25 for two,"Vietnamese, Asian","102-22456 Lougheed Highway, Metro Vancouver",+16043803839,0,2
+117,Maple Ridge,KFC,-,CA$20 for two,Fast Food,"22219 Lougheed Highway, Metro Vancouver V2X2T2",+16044673211,1,4
+118,Maple Ridge,Break Away Bar & Grill - Maple Ridge,-,CA$40 for two,"Bar Food, American","Inside Planet Ice Rink, 23588 105 Avenue, Metro Vancouver V2W 1B8",+16044672883,1,3
+119,Maple Ridge,Paliottis Westside,-,CA$40 for two,Italian,"20757 Lougheed Highway, Maple Ridge, BC V2X 2R2, Maple Ridge, Metro Vancouver, Metro Vancouver",+16044793403,0,1
+120,Maple Ridge,Pizza Time,-,CA$25 for two,Pizza,"20836 Lougheed Highway, Maple Ridge, BC V2X 2R2, Metro Vancouver",+116042266222,0,0
+121,Maple Ridge,Sun's Teriyaki,-,CA$30 for two,"Japanese, Asian","20306 Dewdney Trunk Road, Metro Vancouver V2X3E1",+16044574580,1,2
+122,Maple Ridge,Teriyaki & Sushi,-,CA$20 for two,"Fast Food, Sushi, Japanese, Asian","Haney Place Mall, Food Court, 11900 Haney Place, Metro Vancouver",Not available for this place,0,1
+123,Maple Ridge,Taco fan,-,CA$15 for two,Mexican,"11955 224 St #103, Maple Ridge, Metro Vancouver",+17785727704,0,0
+124,Maple Ridge,Donair Castle,-,CA$15 for two,Middle Eastern,"20834 Lougheed Hwy, Maple Ridge, Metro Vancouver",+16044770019,0,0
+125,Maple Ridge,Tim Hortons,-,CA$20 for two,Cafe,"11951 240 Street, Metro Vancouver",+17785720794,0,1
+126,Maple Ridge,Dairy Queen Grill & Chill,-,CA$15 for two,Fast Food,"22490 Lougheed Hwy, Metro Vancouver",+16044638158,0,0
+127,Maple Ridge,Little Curry House,-,CA$30 for two,Indian,"21768 Lougheed Hwy, Maple Ridge, Metro Vancouver V2X 2S1",+16044769169,0,0
+128,Maple Ridge,Dairy Queen (Treat),-,CA$10 for two,Desserts,"F6-11900 Haney Pl, Metro Vancouver",+16044679015,0,0
+129,Maple Ridge,Dairy Queen Grill & Chill,-,CA$15 for two,Fast Food,"20492 Lougheed Hwy, Metro Vancouver",+16044658600,0,0
+130,Maple Ridge,Fat Tuna Japanese Bistro,-,CA$45 for two,Japanese,"11796 Fraser Street, Maple Ridge, BC V2X 6C7, Metro Vancouver",+16044792221,0,0
